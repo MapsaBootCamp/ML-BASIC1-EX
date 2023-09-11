@@ -1,0 +1,980 @@
+,star rating,title,content rating,genre,duration,actors list,mean rating,duration bool,duration_bool
+476,7.8,Hamlet,PG-13,Drama,242,"K, e, n, n, e, t, h,  , B, r, a, n, a, g, h, ,,  , J, u, l, i, e,  , C, h, r, i, s, t, i, e, ,,  , D, e, r, e, k,  , J, a, c, o, b, i",7.902517985611511,1,1
+157,8.2,Gone with the Wind,G,Drama,238,"C, l, a, r, k,  , G, a, b, l, e, ,,  , V, i, v, i, e, n,  , L, e, i, g, h, ,,  , T, h, o, m, a, s,  , M, i, t, c, h, e, l, l",7.902517985611511,1,1
+78,8.4,Once Upon a Time in America,R,Crime,229,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , J, a, m, e, s,  , W, o, o, d, s, ,,  , E, l, i, z, a, b, e, t, h,  , M, c, G, o, v, e, r, n",7.916935483870968,1,1
+142,8.3,Lagaan: Once Upon a Time in India,PG,Adventure,224,"A, a, m, i, r,  , K, h, a, n, ,,  , G, r, a, c, y,  , S, i, n, g, h, ,,  , R, a, c, h, e, l,  , S, h, e, l, l, e, y",7.933333333333334,1,1
+445,7.9,The Ten Commandments,APPROVED,Adventure,220,"C, h, a, r, l, t, o, n,  , H, e, s, t, o, n, ,,  , Y, u, l,  , B, r, y, n, n, e, r, ,,  , A, n, n, e,  , B, a, x, t, e, r",7.933333333333334,1,1
+85,8.4,Lawrence of Arabia,PG,Adventure,216,"P, e, t, e, r,  , O, ', T, o, o, l, e, ,,  , A, l, e, c,  , G, u, i, n, n, e, s, s, ,,  , A, n, t, h, o, n, y,  , Q, u, i, n, n",7.933333333333334,1,1
+204,8.1,Ben-Hur,G,Adventure,212,"C, h, a, r, l, t, o, n,  , H, e, s, t, o, n, ,,  , J, a, c, k,  , H, a, w, k, i, n, s, ,,  , S, t, e, p, h, e, n,  , B, o, y, d",7.933333333333334,1,1
+17,8.7,Seven Samurai,UNRATED,Drama,207,"T, o, s, h, i, r, ô,  , M, i, f, u, n, e, ,,  , T, a, k, a, s, h, i,  , S, h, i, m, u, r, a, ,,  , K, e, i, k, o,  , T, s, u, s, h, i, m, a",7.902517985611511,1,1
+767,7.6,"It's a Mad, Mad, Mad, Mad World",APPROVED,Action,205,"S, p, e, n, c, e, r,  , T, r, a, c, y, ,,  , M, i, l, t, o, n,  , B, e, r, l, e, ,,  , E, t, h, e, l,  , M, e, r, m, a, n",7.884558823529411,1,1
+630,7.7,Malcolm X,PG-13,Biography,202,"D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , A, n, g, e, l, a,  , B, a, s, s, e, t, t, ,,  , D, e, l, r, o, y,  , L, i, n, d, o",7.862337662337662,1,1
+7,8.9,The Lord of the Rings: The Return of the King,PG-13,Adventure,201,"E, l, i, j, a, h,  , W, o, o, d, ,,  , V, i, g, g, o,  , M, o, r, t, e, n, s, e, n, ,,  , I, a, n,  , M, c, K, e, l, l, e, n",7.933333333333334,1,1
+2,9.1,The Godfather: Part II,R,Crime,200,"A, l,  , P, a, c, i, n, o, ,,  , R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , R, o, b, e, r, t,  , D, u, v, a, l, l",7.916935483870968,1,1
+335,8.0,Doctor Zhivago,PG-13,Drama,197,"O, m, a, r,  , S, h, a, r, i, f, ,,  , J, u, l, i, e,  , C, h, r, i, s, t, i, e, ,,  , G, e, r, a, l, d, i, n, e,  , C, h, a, p, l, i, n",7.902517985611511,1,1
+385,8.0,Spartacus,PG-13,Action,197,"K, i, r, k,  , D, o, u, g, l, a, s, ,,  , L, a, u, r, e, n, c, e,  , O, l, i, v, i, e, r, ,,  , J, e, a, n,  , S, i, m, m, o, n, s",7.884558823529411,1,1
+8,8.9,Schindler's List,R,Biography,195,"L, i, a, m,  , N, e, e, s, o, n, ,,  , R, a, l, p, h,  , F, i, e, n, n, e, s, ,,  , B, e, n,  , K, i, n, g, s, l, e, y",7.862337662337662,1,1
+620,7.7,Titanic,PG-13,Drama,194,"L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , K, a, t, e,  , W, i, n, s, l, e, t, ,,  , B, i, l, l, y,  , Z, a, n, e",7.902517985611511,1,1
+424,7.9,The Right Stuff,R,Adventure,193,"S, a, m,  , S, h, e, p, a, r, d, ,,  , S, c, o, t, t,  , G, l, e, n, n, ,,  , E, d,  , H, a, r, r, i, s",7.933333333333334,1,1
+220,8.1,Gandhi,PG,Biography,191,"B, e, n,  , K, i, n, g, s, l, e, y, ,,  , J, o, h, n,  , G, i, e, l, g, u, d, ,,  , C, a, n, d, i, c, e,  , B, e, r, g, e, n",7.862337662337662,1,1
+671,7.7,Grindhouse,R,Action,191,"K, u, r, t,  , R, u, s, s, e, l, l, ,,  , R, o, s, e,  , M, c, G, o, w, a, n, ,,  , D, a, n, n, y,  , T, r, e, j, o",7.884558823529411,1,1
+89,8.4,Swades,NOT RATED,Drama,189,"S, h, a, h,  , R, u, k, h,  , K, h, a, n, ,,  , G, a, y, a, t, r, i,  , J, o, s, h, i, ,,  , K, i, s, h, o, r, i,  , B, a, l, a, l",7.902517985611511,1,1
+40,8.5,The Green Mile,R,Crime,189,"T, o, m,  , H, a, n, k, s, ,,  , M, i, c, h, a, e, l,  , C, l, a, r, k, e,  , D, u, n, c, a, n, ,,  , D, a, v, i, d,  , M, o, r, s, e",7.916935483870968,1,1
+316,8.0,JFK,R,Drama,189,"K, e, v, i, n,  , C, o, s, t, n, e, r, ,,  , G, a, r, y,  , O, l, d, m, a, n, ,,  , J, a, c, k,  , L, e, m, m, o, n",7.902517985611511,1,1
+184,8.2,Fanny and Alexander,R,Drama,188,"B, e, r, t, i, l,  , G, u, v, e, ,,  , P, e, r, n, i, l, l, a,  , A, l, l, w, i, n, ,,  , K, r, i, s, t, i, n, a,  , A, d, o, l, p, h, s, o, n",7.902517985611511,1,1
+318,8.0,Magnolia,R,Drama,188,"T, o, m,  , C, r, u, i, s, e, ,,  , J, a, s, o, n,  , R, o, b, a, r, d, s, ,,  , J, u, l, i, a, n, n, e,  , M, o, o, r, e",7.902517985611511,1,1
+611,7.7,Short Cuts,R,Comedy,187,"A, n, d, i, e,  , M, a, c, D, o, w, e, l, l, ,,  , J, u, l, i, a, n, n, e,  , M, o, o, r, e, ,,  , T, i, m,  , R, o, b, b, i, n, s",7.822435897435897,1,1
+132,8.3,Judgment at Nuremberg,NOT RATED,Drama,186,"S, p, e, n, c, e, r,  , T, r, a, c, y, ,,  , B, u, r, t,  , L, a, n, c, a, s, t, e, r, ,,  , R, i, c, h, a, r, d,  , W, i, d, m, a, r, k",7.902517985611511,1,1
+245,8.1,Barry Lyndon,PG,Adventure,184,"R, y, a, n,  , O, ', N, e, a, l, ,,  , M, a, r, i, s, a,  , B, e, r, e, n, s, o, n, ,,  , P, a, t, r, i, c, k,  , M, a, g, e, e",7.933333333333334,1,1
+109,8.3,Dil Chahta Hai,NOT RATED,Comedy,183,"A, a, m, i, r,  , K, h, a, n, ,,  , S, a, i, f,  , A, l, i,  , K, h, a, n, ,,  , A, k, s, h, a, y, e,  , K, h, a, n, n, a",7.822435897435897,1,1
+166,8.2,The Deer Hunter,R,Drama,182,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , W, a, l, k, e, n, ,,  , J, o, h, n,  , C, a, z, a, l, e",7.902517985611511,1,1
+93,8.4,Dilwale Dulhania Le Jayenge,NOT RATED,Comedy,181,"S, h, a, h,  , R, u, k, h,  , K, h, a, n, ,,  , K, a, j, o, l, ,,  , A, m, r, i, s, h,  , P, u, r, i",7.822435897435897,1,1
+339,8.0,Dances with Wolves,PG-13,Adventure,181,"K, e, v, i, n,  , C, o, s, t, n, e, r, ,,  , M, a, r, y,  , M, c, D, o, n, n, e, l, l, ,,  , G, r, a, h, a, m,  , G, r, e, e, n, e",7.933333333333334,1,1
+361,8.0,Fiddler on the Roof,G,Drama,181,"T, o, p, o, l, ,,  , N, o, r, m, a,  , C, r, a, n, e, ,,  , L, e, o, n, a, r, d,  , F, r, e, y",7.902517985611511,1,1
+143,8.2,The Wolf of Wall Street,R,Biography,180,"L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , J, o, n, a, h,  , H, i, l, l, ,,  , M, a, r, g, o, t,  , R, o, b, b, i, e",7.862337662337662,1,1
+14,8.8,The Lord of the Rings: The Two Towers,PG-13,Adventure,179,"E, l, i, j, a, h,  , W, o, o, d, ,,  , I, a, n,  , M, c, K, e, l, l, e, n, ,,  , V, i, g, g, o,  , M, o, r, t, e, n, s, e, n",7.933333333333334,1,1
+456,7.9,Blue Is the Warmest Color,NC-17,Drama,179,"L, é, a,  , S, e, y, d, o, u, x, ,,  , A, d, è, l, e,  , E, x, a, r, c, h, o, p, o, u, l, o, s, ,,  , S, a, l, i, m,  , K, e, c, h, i, o, u, c, h, e",7.902517985611511,1,1
+534,7.8,The Longest Day,G,Action,178,"J, o, h, n,  , W, a, y, n, e, ,,  , R, o, b, e, r, t,  , R, y, a, n, ,,  , R, i, c, h, a, r, d,  , B, u, r, t, o, n",7.884558823529411,1,1
+10,8.8,The Lord of the Rings: The Fellowship of the Ring,PG-13,Adventure,178,"E, l, i, j, a, h,  , W, o, o, d, ,,  , I, a, n,  , M, c, K, e, l, l, e, n, ,,  , O, r, l, a, n, d, o,  , B, l, o, o, m",7.933333333333334,1,1
+156,8.2,Casino,R,Biography,178,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , S, h, a, r, o, n,  , S, t, o, n, e, ,,  , J, o, e,  , P, e, s, c, i",7.862337662337662,1,1
+300,8.0,Dogville,R,Crime,178,"N, i, c, o, l, e,  , K, i, d, m, a, n, ,,  , P, a, u, l,  , B, e, t, t, a, n, y, ,,  , L, a, u, r, e, n,  , B, a, c, a, l, l",7.916935483870968,1,1
+82,8.4,Braveheart,R,Action,177,"M, e, l,  , G, i, b, s, o, n, ,,  , S, o, p, h, i, e,  , M, a, r, c, e, a, u, ,,  , P, a, t, r, i, c, k,  , M, c, G, o, o, h, a, n",7.884558823529411,1,1
+26,8.6,Once Upon a Time in the West,PG-13,Western,175,"H, e, n, r, y,  , F, o, n, d, a, ,,  , C, h, a, r, l, e, s,  , B, r, o, n, s, o, n, ,,  , C, l, a, u, d, i, a,  , C, a, r, d, i, n, a, l, e",8.255555555555555,1,1
+1,9.2,The Godfather,R,Crime,175,"M, a, r, l, o, n,  , B, r, a, n, d, o, ,,  , A, l,  , P, a, c, i, n, o, ,,  , J, a, m, e, s,  , C, a, a, n",7.916935483870968,1,1
+941,7.4,A Bridge Too Far,PG,Drama,175,"S, e, a, n,  , C, o, n, n, e, r, y, ,,  , R, y, a, n,  , O, ', N, e, a, l, ,,  , M, i, c, h, a, e, l,  , C, a, i, n, e",7.902517985611511,1,1
+231,8.1,La Dolce Vita,NOT RATED,Comedy,174,"M, a, r, c, e, l, l, o,  , M, a, s, t, r, o, i, a, n, n, i, ,,  , A, n, i, t, a,  , E, k, b, e, r, g, ,,  , A, n, o, u, k,  , A, i, m, é, e",7.822435897435897,1,1
+348,8.0,The Sound of Music,G,Biography,174,"J, u, l, i, e,  , A, n, d, r, e, w, s, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , P, l, u, m, m, e, r, ,,  , E, l, e, a, n, o, r,  , P, a, r, k, e, r",7.862337662337662,1,1
+842,7.5,Cloud Atlas,R,Drama,172,"T, o, m,  , H, a, n, k, s, ,,  , H, a, l, l, e,  , B, e, r, r, y, ,,  , H, u, g, h,  , G, r, a, n, t",7.902517985611511,1,1
+120,8.3,The Great Escape,UNRATED,Adventure,172,"S, t, e, v, e,  , M, c, Q, u, e, e, n, ,,  , J, a, m, e, s,  , G, a, r, n, e, r, ,,  , R, i, c, h, a, r, d,  , A, t, t, e, n, b, o, r, o, u, g, h",7.933333333333334,1,1
+302,8.0,Patton,GP,Biography,172,"G, e, o, r, g, e,  , C, .,  , S, c, o, t, t, ,,  , K, a, r, l,  , M, a, l, d, e, n, ,,  , S, t, e, p, h, e, n,  , Y, o, u, n, g",7.862337662337662,1,1
+159,8.2,The Best Years of Our Lives,PASSED,Drama,172,"F, r, e, d, r, i, c,  , M, a, r, c, h, ,,  , D, a, n, a,  , A, n, d, r, e, w, s, ,,  , M, y, r, n, a,  , L, o, y",7.902517985611511,1,1
+888,7.5,The Aviator,PG-13,Biography,170,"L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , C, a, t, e,  , B, l, a, n, c, h, e, t, t, ,,  , K, a, t, e,  , B, e, c, k, i, n, s, a, l, e",7.862337662337662,1,1
+135,8.3,Heat,R,Action,170,"A, l,  , P, a, c, i, n, o, ,,  , R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , V, a, l,  , K, i, l, m, e, r",7.884558823529411,1,1
+60,8.5,3 Idiots,PG-13,Comedy,170,"A, a, m, i, r,  , K, h, a, n, ,,  , M, a, d, h, a, v, a, n, ,,  , M, o, n, a,  , S, i, n, g, h",7.822435897435897,1,1
+115,8.3,Scarface,R,Crime,170,"A, l,  , P, a, c, i, n, o, ,,  , M, i, c, h, e, l, l, e,  , P, f, e, i, f, f, e, r, ,,  , S, t, e, v, e, n,  , B, a, u, e, r",7.916935483870968,1,1
+444,7.9,My Fair Lady,APPROVED,Drama,170,"A, u, d, r, e, y,  , H, e, p, b, u, r, n, ,,  , R, e, x,  , H, a, r, r, i, s, o, n, ,,  , S, t, a, n, l, e, y,  , H, o, l, l, o, w, a, y",7.902517985611511,1,1
+731,7.6,The Thin Red Line,R,Drama,170,"J, i, m,  , C, a, v, i, e, z, e, l, ,,  , S, e, a, n,  , P, e, n, n, ,,  , N, i, c, k,  , N, o, l, t, e",7.902517985611511,1,1
+15,8.7,Interstellar,PG-13,Adventure,169,"M, a, t, t, h, e, w,  , M, c, C, o, n, a, u, g, h, e, y, ,,  , A, n, n, e,  , H, a, t, h, a, w, a, y, ,,  , J, e, s, s, i, c, a,  , C, h, a, s, t, a, i, n",7.933333333333334,1,1
+362,8.0,The Hobbit: An Unexpected Journey,PG-13,Adventure,169,"M, a, r, t, i, n,  , F, r, e, e, m, a, n, ,,  , I, a, n,  , M, c, K, e, l, l, e, n, ,,  , R, i, c, h, a, r, d,  , A, r, m, i, t, a, g, e",7.933333333333334,1,1
+36,8.6,Saving Private Ryan,R,Action,169,"T, o, m,  , H, a, n, k, s, ,,  , M, a, t, t,  , D, a, m, o, n, ,,  , T, o, m,  , S, i, z, e, m, o, r, e",7.884558823529411,1,1
+684,7.7,The Big Blue,PG-13,Action,168,"J, e, a, n, -, M, a, r, c,  , B, a, r, r, ,,  , J, e, a, n,  , R, e, n, o, ,,  , R, o, s, a, n, n, a,  , A, r, q, u, e, t, t, e",7.884558823529411,1,1
+828,7.5,Gangs of New York,R,Crime,167,"L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , C, a, m, e, r, o, n,  , D, i, a, z, ,,  , D, a, n, i, e, l,  , D, a, y, -, L, e, w, i, s",7.916935483870968,1,1
+183,8.2,Underground,NOT RATED,Comedy,167,"P, r, e, d, r, a, g,  , M, a, n, o, j, l, o, v, i, c, ,,  , L, a, z, a, r,  , R, i, s, t, o, v, s, k, i, ,,  , M, i, r, j, a, n, a,  , J, o, k, o, v, i, c",7.822435897435897,1,1
+221,8.1,Solaris,PG,Drama,167,"N, a, t, a, l, y, a,  , B, o, n, d, a, r, c, h, u, k, ,,  , D, o, n, a, t, a, s,  , B, a, n, i, o, n, i, s, ,,  , J, ü, r, i,  , J, ä, r, v, e, t",7.902517985611511,1,1
+508,7.8,The Curious Case of Benjamin Button,PG-13,Drama,166,"B, r, a, d,  , P, i, t, t, ,,  , C, a, t, e,  , B, l, a, n, c, h, e, t, t, ,,  , T, i, l, d, a,  , S, w, i, n, t, o, n",7.902517985611511,1,1
+43,8.5,The Dark Knight Rises,PG-13,Action,165,"C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , T, o, m,  , H, a, r, d, y, ,,  , A, n, n, e,  , H, a, t, h, a, w, a, y",7.884558823529411,1,1
+373,8.0,My Name Is Khan,PG-13,Drama,165,"S, h, a, h,  , R, u, k, h,  , K, h, a, n, ,,  , K, a, j, o, l, ,,  , S, h, e, e, t, a, l,  , M, e, n, o, n",7.902517985611511,1,1
+226,8.1,Boyhood,R,Drama,165,"E, l, l, a, r,  , C, o, l, t, r, a, n, e, ,,  , P, a, t, r, i, c, i, a,  , A, r, q, u, e, t, t, e, ,,  , E, t, h, a, n,  , H, a, w, k, e",7.902517985611511,1,1
+59,8.5,Django Unchained,R,Western,165,"J, a, m, i, e,  , F, o, x, x, ,,  , C, h, r, i, s, t, o, p, h,  , W, a, l, t, z, ,,  , L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o",8.255555555555555,1,1
+47,8.5,Taare Zameen Par,PG,Drama,165,"D, a, r, s, h, e, e, l,  , S, a, f, a, r, y, ,,  , A, a, m, i, r,  , K, h, a, n, ,,  , T, a, n, a, y,  , C, h, h, e, d, a",7.902517985611511,1,1
+202,8.1,La leggenda del pianista sull'oceano,R,Drama,165,"T, i, m,  , R, o, t, h, ,,  , P, r, u, i, t, t,  , T, a, y, l, o, r,  , V, i, n, c, e, ,,  , B, i, l, l,  , N, u, n, n",7.902517985611511,1,1
+734,7.6,The Last Temptation of Christ,R,Drama,164,"W, i, l, l, e, m,  , D, a, f, o, e, ,,  , H, a, r, v, e, y,  , K, e, i, t, e, l, ,,  , B, a, r, b, a, r, a,  , H, e, r, s, h, e, y",7.902517985611511,1,1
+720,7.6,Munich,R,Drama,164,"E, r, i, c,  , B, a, n, a, ,,  , D, a, n, i, e, l,  , C, r, a, i, g, ,,  , M, a, r, i, e, -, J, o, s, é, e,  , C, r, o, z, e",7.902517985611511,1,1
+536,7.8,The Last Emperor,PG-13,Biography,163,"J, o, h, n,  , L, o, n, e, ,,  , J, o, a, n,  , C, h, e, n, ,,  , P, e, t, e, r,  , O, ', T, o, o, l, e",7.862337662337662,1,1
+181,8.2,Stalker,NOT RATED,Drama,163,"A, l, i, s, a,  , F, r, e, y, n, d, l, i, k, h, ,,  , A, l, e, k, s, a, n, d, r,  , K, a, y, d, a, n, o, v, s, k, i, y, ,,  , A, n, a, t, o, l, i, y,  , S, o, l, o, n, i, t, s, y, n",7.902517985611511,1,1
+129,8.3,Ran,R,Action,162,"T, a, t, s, u, y, a,  , N, a, k, a, d, a, i, ,,  , A, k, i, r, a,  , T, e, r, a, o, ,,  , J, i, n, p, a, c, h, i,  , N, e, z, u",7.884558823529411,1,1
+707,7.6,Watchmen,R,Action,162,"J, a, c, k, i, e,  , E, a, r, l, e,  , H, a, l, e, y, ,,  , P, a, t, r, i, c, k,  , W, i, l, s, o, n, ,,  , C, a, r, l, a,  , G, u, g, i, n, o",7.884558823529411,1,1
+711,7.6,The Godfather: Part III,R,Crime,162,"A, l,  , P, a, c, i, n, o, ,,  , D, i, a, n, e,  , K, e, a, t, o, n, ,,  , A, n, d, y,  , G, a, r, c, i, a",7.916935483870968,1,1
+968,7.4,The English Patient,R,Drama,162,"R, a, l, p, h,  , F, i, e, n, n, e, s, ,,  , J, u, l, i, e, t, t, e,  , B, i, n, o, c, h, e, ,,  , W, i, l, l, e, m,  , D, a, f, o, e",7.902517985611511,1,1
+433,7.9,Avatar,PG-13,Action,162,"S, a, m,  , W, o, r, t, h, i, n, g, t, o, n, ,,  , Z, o, e,  , S, a, l, d, a, n, a, ,,  , S, i, g, o, u, r, n, e, y,  , W, e, a, v, e, r",7.884558823529411,1,1
+137,8.3,The Bridge on the River Kwai,PG,Adventure,161,"W, i, l, l, i, a, m,  , H, o, l, d, e, n, ,,  , A, l, e, c,  , G, u, i, n, n, e, s, s, ,,  , J, a, c, k,  , H, a, w, k, i, n, s",7.933333333333334,1,1
+6,8.9,"The Good, the Bad and the Ugly",NOT RATED,Western,161,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , E, l, i,  , W, a, l, l, a, c, h, ,,  , L, e, e,  , V, a, n,  , C, l, e, e, f",8.255555555555555,1,1
+359,8.0,The Hobbit: The Desolation of Smaug,PG-13,Adventure,161,"I, a, n,  , M, c, K, e, l, l, e, n, ,,  , M, a, r, t, i, n,  , F, r, e, e, m, a, n, ,,  , R, i, c, h, a, r, d,  , A, r, m, i, t, a, g, e",7.933333333333334,1,1
+257,8.1,Anatomy of a Murder,UNRATED,Crime,160,"J, a, m, e, s,  , S, t, e, w, a, r, t, ,,  , L, e, e,  , R, e, m, i, c, k, ,,  , B, e, n,  , G, a, z, z, a, r, a",7.916935483870968,1,1
+99,8.4,Amadeus,R,Biography,160,"F, .,  , M, u, r, r, a, y,  , A, b, r, a, h, a, m, ,,  , T, o, m,  , H, u, l, c, e, ,,  , E, l, i, z, a, b, e, t, h,  , B, e, r, r, i, d, g, e",7.862337662337662,1,1
+807,7.6,The Assassination of Jesse James by the Coward Robert Ford,R,Biography,160,"B, r, a, d,  , P, i, t, t, ,,  , C, a, s, e, y,  , A, f, f, l, e, c, k, ,,  , S, a, m,  , S, h, e, p, a, r, d",7.862337662337662,1,1
+110,8.3,2001: A Space Odyssey,G,Mystery,160,"K, e, i, r,  , D, u, l, l, e, a, ,,  , G, a, r, y,  , L, o, c, k, w, o, o, d, ,,  , W, i, l, l, i, a, m,  , S, y, l, v, e, s, t, e, r",7.975,1,1
+430,7.9,Breaking the Waves,R,Drama,159,"E, m, i, l, y,  , W, a, t, s, o, n, ,,  , S, t, e, l, l, a, n,  , S, k, a, r, s, g, å, r, d, ,,  , K, a, t, r, i, n,  , C, a, r, t, l, i, d, g, e",7.902517985611511,1,1
+649,7.7,Where Eagles Dare,,Action,158,"R, i, c, h, a, r, d,  , B, u, r, t, o, n, ,,  , C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , M, a, r, y,  , U, r, e",7.884558823529411,1,1
+466,7.9,The Girl with the Dragon Tattoo,R,Crime,158,"D, a, n, i, e, l,  , C, r, a, i, g, ,,  , R, o, o, n, e, y,  , M, a, r, a, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , P, l, u, m, m, e, r",7.916935483870968,1,1
+213,8.1,There Will Be Blood,R,Drama,158,"D, a, n, i, e, l,  , D, a, y, -, L, e, w, i, s, ,,  , P, a, u, l,  , D, a, n, o, ,,  , C, i, a, r, á, n,  , H, i, n, d, s",7.902517985611511,1,1
+678,7.7,Les Miserables,PG-13,Drama,158,"H, u, g, h,  , J, a, c, k, m, a, n, ,,  , R, u, s, s, e, l, l,  , C, r, o, w, e, ,,  , A, n, n, e,  , H, a, t, h, a, w, a, y",7.902517985611511,1,1
+955,7.4,Zero Dark Thirty,R,Drama,157,"J, e, s, s, i, c, a,  , C, h, a, s, t, a, i, n, ,,  , J, o, e, l,  , E, d, g, e, r, t, o, n, ,,  , C, h, r, i, s,  , P, r, a, t, t",7.902517985611511,1,1
+500,7.8,American Gangster,R,Biography,157,"D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , R, u, s, s, e, l, l,  , C, r, o, w, e, ,,  , C, h, i, w, e, t, e, l,  , E, j, i, o, f, o, r",7.862337662337662,1,1
+72,8.4,Rang De Basanti,NOT RATED,Drama,157,"A, a, m, i, r,  , K, h, a, n, ,,  , S, o, h, a,  , A, l, i,  , K, h, a, n, ,,  , S, i, d, d, h, a, r, t, h",7.902517985611511,1,1
+755,7.6,"Lust, Caution",NC-17,Drama,157,"T, o, n, y,  , C, h, i, u,  , W, a, i,  , L, e, u, n, g, ,,  , W, e, i,  , T, a, n, g, ,,  , J, o, a, n,  , C, h, e, n",7.902517985611511,1,1
+727,7.6,Harry Potter and the Goblet of Fire,PG-13,Adventure,157,"D, a, n, i, e, l,  , R, a, d, c, l, i, f, f, e, ,,  , E, m, m, a,  , W, a, t, s, o, n, ,,  , R, u, p, e, r, t,  , G, r, i, n, t",7.933333333333334,1,1
+677,7.7,Zodiac,R,Crime,157,"J, a, k, e,  , G, y, l, l, e, n, h, a, a, l, ,,  , R, o, b, e, r, t,  , D, o, w, n, e, y,  , J, r, ., ,,  , M, a, r, k,  , R, u, f, f, a, l, o",7.916935483870968,1,1
+423,7.9,The Insider,R,Biography,157,"R, u, s, s, e, l, l,  , C, r, o, w, e, ,,  , A, l,  , P, a, c, i, n, o, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , P, l, u, m, m, e, r",7.862337662337662,1,1
+125,8.3,Downfall,R,Biography,156,"B, r, u, n, o,  , G, a, n, z, ,,  , A, l, e, x, a, n, d, r, a,  , M, a, r, i, a,  , L, a, r, a, ,,  , U, l, r, i, c, h,  , M, a, t, t, h, e, s",7.862337662337662,1,1
+374,8.0,Scent of a Woman,R,Drama,156,"A, l,  , P, a, c, i, n, o, ,,  , C, h, r, i, s,  , O, ', D, o, n, n, e, l, l, ,,  , J, a, m, e, s,  , R, e, b, h, o, r, n",7.902517985611511,1,1
+66,8.4,Munna Bhai M.B.B.S.,NOT RATED,Comedy,156,"S, u, n, i, l,  , D, u, t, t, ,,  , S, a, n, j, a, y,  , D, u, t, t, ,,  , A, r, s, h, a, d,  , W, a, r, s, i",7.822435897435897,1,1
+457,7.9,Boogie Nights,R,Drama,155,"M, a, r, k,  , W, a, h, l, b, e, r, g, ,,  , J, u, l, i, a, n, n, e,  , M, o, o, r, e, ,,  , B, u, r, t,  , R, e, y, n, o, l, d, s",7.902517985611511,1,1
+50,8.5,Cinema Paradiso,R,Drama,155,"P, h, i, l, i, p, p, e,  , N, o, i, r, e, t, ,,  , E, n, z, o,  , C, a, n, n, a, v, a, l, e, ,,  , A, n, t, o, n, e, l, l, a,  , A, t, t, i, l, i",7.902517985611511,1,1
+44,8.5,Gladiator,R,Action,155,"R, u, s, s, e, l, l,  , C, r, o, w, e, ,,  , J, o, a, q, u, i, n,  , P, h, o, e, n, i, x, ,,  , C, o, n, n, i, e,  , N, i, e, l, s, e, n",7.884558823529411,1,1
+426,7.9,A Prophet,R,Crime,155,"T, a, h, a, r,  , R, a, h, i, m, ,,  , N, i, e, l, s,  , A, r, e, s, t, r, u, p, ,,  , A, d, e, l,  , B, e, n, c, h, e, r, i, f",7.916935483870968,1,1
+205,8.1,Amores Perros,R,Drama,154,"E, m, i, l, i, o,  , E, c, h, e, v, a, r, r, í, a, ,,  , G, a, e, l,  , G, a, r, c, í, a,  , B, e, r, n, a, l, ,,  , G, o, y, a,  , T, o, l, e, d, o",7.902517985611511,1,1
+613,7.7,The Last Samurai,R,Action,154,"T, o, m,  , C, r, u, i, s, e, ,,  , K, e, n,  , W, a, t, a, n, a, b, e, ,,  , B, i, l, l, y,  , C, o, n, n, o, l, l, y",7.884558823529411,1,1
+836,7.5,Jackie Brown,R,Crime,154,"P, a, m,  , G, r, i, e, r, ,,  , S, a, m, u, e, l,  , L, .,  , J, a, c, k, s, o, n, ,,  , R, o, b, e, r, t,  , F, o, r, s, t, e, r",7.916935483870968,1,1
+4,8.9,Pulp Fiction,R,Crime,154,"J, o, h, n,  , T, r, a, v, o, l, t, a, ,,  , U, m, a,  , T, h, u, r, m, a, n, ,,  , S, a, m, u, e, l,  , L, .,  , J, a, c, k, s, o, n",7.916935483870968,1,1
+540,7.8,The Color Purple,PG-13,Drama,154,"D, a, n, n, y,  , G, l, o, v, e, r, ,,  , W, h, o, o, p, i,  , G, o, l, d, b, e, r, g, ,,  , O, p, r, a, h,  , W, i, n, f, r, e, y",7.902517985611511,1,1
+504,7.8,Empire of the Sun,PG,Drama,153,"C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , J, o, h, n,  , M, a, l, k, o, v, i, c, h, ,,  , M, i, r, a, n, d, a,  , R, i, c, h, a, r, d, s, o, n",7.902517985611511,1,1
+51,8.5,Apocalypse Now,R,Drama,153,"M, a, r, t, i, n,  , S, h, e, e, n, ,,  , M, a, r, l, o, n,  , B, r, a, n, d, o, ,,  , R, o, b, e, r, t,  , D, u, v, a, l, l",7.902517985611511,1,1
+891,7.5,Harry Potter and the Half-Blood Prince,PG,Adventure,153,"D, a, n, i, e, l,  , R, a, d, c, l, i, f, f, e, ,,  , E, m, m, a,  , W, a, t, s, o, n, ,,  , R, u, p, e, r, t,  , G, r, i, n, t",7.933333333333334,1,1
+114,8.3,Inglourious Basterds,R,Adventure,153,"B, r, a, d,  , P, i, t, t, ,,  , D, i, a, n, e,  , K, r, u, g, e, r, ,,  , E, l, i,  , R, o, t, h",7.933333333333334,1,1
+108,8.3,Metropolis,NOT RATED,Drama,153,"B, r, i, g, i, t, t, e,  , H, e, l, m, ,,  , A, l, f, r, e, d,  , A, b, e, l, ,,  , G, u, s, t, a, v,  , F, r, ö, h, l, i, c, h",7.902517985611511,1,1
+290,8.1,Prisoners,R,Crime,153,"H, u, g, h,  , J, a, c, k, m, a, n, ,,  , J, a, k, e,  , G, y, l, l, e, n, h, a, a, l, ,,  , V, i, o, l, a,  , D, a, v, i, s",7.916935483870968,1,1
+569,7.8,Ray,PG-13,Biography,152,"J, a, m, i, e,  , F, o, x, x, ,,  , R, e, g, i, n, a,  , K, i, n, g, ,,  , K, e, r, r, y,  , W, a, s, h, i, n, g, t, o, n",7.862337662337662,1,1
+3,9.0,The Dark Knight,PG-13,Action,152,"C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , H, e, a, t, h,  , L, e, d, g, e, r, ,,  , A, a, r, o, n,  , E, c, k, h, a, r, t",7.884558823529411,1,1
+665,7.7,Lolita,NOT RATED,Drama,152,"J, a, m, e, s,  , M, a, s, o, n, ,,  , S, h, e, l, l, e, y,  , W, i, n, t, e, r, s, ,,  , S, u, e,  , L, y, o, n",7.902517985611511,1,1
+482,7.8,The Girl with the Dragon Tattoo,R,Crime,152,"M, i, c, h, a, e, l,  , N, y, q, v, i, s, t, ,,  , N, o, o, m, i,  , R, a, p, a, c, e, ,,  , E, w, a,  , F, r, ö, l, i, n, g",7.916935483870968,1,1
+909,7.5,Harry Potter and the Sorcerer's Stone,PG,Adventure,152,"D, a, n, i, e, l,  , R, a, d, c, l, i, f, f, e, ,,  , R, u, p, e, r, t,  , G, r, i, n, t, ,,  , R, i, c, h, a, r, d,  , H, a, r, r, i, s",7.933333333333334,1,1
+730,7.6,West Side Story,UNRATED,Crime,152,"N, a, t, a, l, i, e,  , W, o, o, d, ,,  , G, e, o, r, g, e,  , C, h, a, k, i, r, i, s, ,,  , R, i, c, h, a, r, d,  , B, e, y, m, e, r",7.916935483870968,1,1
+49,8.5,The Departed,R,Crime,151,"L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , M, a, t, t,  , D, a, m, o, n, ,,  , J, a, c, k,  , N, i, c, h, o, l, s, o, n",7.916935483870968,1,1
+133,8.3,Barfi!,NOT RATED,Adventure,151,"R, a, n, b, i, r,  , K, a, p, o, o, r, ,,  , P, r, i, y, a, n, k, a,  , C, h, o, p, r, a, ,,  , I, l, e, a, n, a",7.933333333333334,1,1
+273,8.1,Papillon,R,Biography,151,"S, t, e, v, e,  , M, c, Q, u, e, e, n, ,,  , D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , V, i, c, t, o, r,  , J, o, r, y",7.862337662337662,1,1
+268,8.1,The Raid 2,R,Action,150,"I, k, o,  , U, w, a, i, s, ,,  , Y, a, y, a, n,  , R, u, h, i, a, n, ,,  , A, r, i, f, i, n,  , P, u, t, r, a",7.884558823529411,1,1
+42,8.5,The Pianist,R,Biography,150,"A, d, r, i, e, n,  , B, r, o, d, y, ,,  , T, h, o, m, a, s,  , K, r, e, t, s, c, h, m, a, n, n, ,,  , F, r, a, n, k,  , F, i, n, l, a, y",7.862337662337662,1,1
+531,7.8,The Dirty Dozen,NOT RATED,Action,150,"L, e, e,  , M, a, r, v, i, n, ,,  , E, r, n, e, s, t,  , B, o, r, g, n, i, n, e, ,,  , C, h, a, r, l, e, s,  , B, r, o, n, s, o, n",7.884558823529411,1,1
+659,7.7,Sophie's Choice,R,Drama,150,"M, e, r, y, l,  , S, t, r, e, e, p, ,,  , K, e, v, i, n,  , K, l, i, n, e, ,,  , P, e, t, e, r,  , M, a, c, N, i, c, o, l",7.902517985611511,1,1
+964,7.4,Lincoln,PG-13,Biography,150,"D, a, n, i, e, l,  , D, a, y, -, L, e, w, i, s, ,,  , S, a, l, l, y,  , F, i, e, l, d, ,,  , D, a, v, i, d,  , S, t, r, a, t, h, a, i, r, n",7.862337662337662,1,1
+158,8.2,Gone Girl,R,Drama,149,"B, e, n,  , A, f, f, l, e, c, k, ,,  , R, o, s, a, m, u, n, d,  , P, i, k, e, ,,  , N, e, i, l,  , P, a, t, r, i, c, k,  , H, a, r, r, i, s",7.902517985611511,0,0
+68,8.4,Das Boot,R,Adventure,149,"J, ü, r, g, e, n,  , P, r, o, c, h, n, o, w, ,,  , H, e, r, b, e, r, t,  , G, r, ö, n, e, m, e, y, e, r, ,,  , K, l, a, u, s,  , W, e, n, n, e, m, a, n, n",7.933333333333334,0,0
+895,7.5,Biutiful,R,Drama,148,"J, a, v, i, e, r,  , B, a, r, d, e, m, ,,  , M, a, r, i, c, e, l,  , Á, l, v, a, r, e, z, ,,  , H, a, n, a, a,  , B, o, u, c, h, a, i, b",7.902517985611511,0,0
+164,8.2,Into the Wild,R,Adventure,148,"E, m, i, l, e,  , H, i, r, s, c, h, ,,  , V, i, n, c, e,  , V, a, u, g, h, n, ,,  , C, a, t, h, e, r, i, n, e,  , K, e, e, n, e, r",7.933333333333334,0,0
+11,8.8,Inception,PG-13,Action,148,"L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , J, o, s, e, p, h,  , G, o, r, d, o, n, -, L, e, v, i, t, t, ,,  , E, l, l, e, n,  , P, a, g, e",7.884558823529411,0,0
+694,7.7,Traffic,R,Crime,147,"M, i, c, h, a, e, l,  , D, o, u, g, l, a, s, ,,  , B, e, n, i, c, i, o,  , D, e, l,  , T, o, r, o, ,,  , C, a, t, h, e, r, i, n, e,  , Z, e, t, a, -, J, o, n, e, s",7.916935483870968,0,0
+375,8.0,Mulholland Dr.,R,Drama,147,"N, a, o, m, i,  , W, a, t, t, s, ,,  , L, a, u, r, a,  , H, a, r, r, i, n, g, ,,  , J, u, s, t, i, n,  , T, h, e, r, o, u, x",7.902517985611511,0,0
+223,8.1,"Paris, Texas",R,Drama,147,"H, a, r, r, y,  , D, e, a, n,  , S, t, a, n, t, o, n, ,,  , N, a, s, t, a, s, s, j, a,  , K, i, n, s, k, i, ,,  , D, e, a, n,  , S, t, o, c, k, w, e, l, l",7.902517985611511,0,0
+826,7.5,Sleepers,R,Crime,147,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , K, e, v, i, n,  , B, a, c, o, n, ,,  , B, r, a, d,  , P, i, t, t",7.916935483870968,0,0
+841,7.5,Perfume: The Story of a Murderer,R,Crime,147,"B, e, n,  , W, h, i, s, h, a, w, ,,  , D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , A, l, a, n,  , R, i, c, k, m, a, n",7.916935483870968,0,0
+818,7.6,The Hurricane,R,Biography,146,"D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , V, i, c, e, l, l, o, u, s,  , R, e, o, n,  , S, h, a, n, n, o, n, ,,  , D, e, b, o, r, a, h,  , K, a, r, a,  , U, n, g, e, r",7.862337662337662,0,0
+259,8.1,The Help,PG-13,Drama,146,"E, m, m, a,  , S, t, o, n, e, ,,  , V, i, o, l, a,  , D, a, v, i, s, ,,  , O, c, t, a, v, i, a,  , S, p, e, n, c, e, r",7.902517985611511,0,0
+62,8.5,The Shining,R,Horror,146,"J, a, c, k,  , N, i, c, h, o, l, s, o, n, ,,  , S, h, e, l, l, e, y,  , D, u, v, a, l, l, ,,  , D, a, n, n, y,  , L, l, o, y, d",7.806896551724138,0,0
+658,7.7,The Hunger Games: Catching Fire,PG-13,Adventure,146,"J, e, n, n, i, f, e, r,  , L, a, w, r, e, n, c, e, ,,  , J, o, s, h,  , H, u, t, c, h, e, r, s, o, n, ,,  , L, i, a, m,  , H, e, m, s, w, o, r, t, h",7.933333333333334,0,0
+642,7.7,Harry Potter and the Deathly Hallows: Part 1,PG-13,Adventure,146,"D, a, n, i, e, l,  , R, a, d, c, l, i, f, f, e, ,,  , E, m, m, a,  , W, a, t, s, o, n, ,,  , R, u, p, e, r, t,  , G, r, i, n, t",7.933333333333334,0,0
+581,7.8,Man on Fire,R,Action,146,"D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , W, a, l, k, e, n, ,,  , D, a, k, o, t, a,  , F, a, n, n, i, n, g",7.884558823529411,0,0
+702,7.6,Jin ling shi san chai,R,Drama,146,"C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , N, i,  , N, i, ,,  , X, i, n, y, i,  , Z, h, a, n, g",7.902517985611511,0,0
+18,8.7,Goodfellas,R,Biography,146,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , R, a, y,  , L, i, o, t, t, a, ,,  , J, o, e,  , P, e, s, c, i",7.862337662337662,0,0
+686,7.7,Minority Report,PG-13,Action,145,"T, o, m,  , C, r, u, i, s, e, ,,  , C, o, l, i, n,  , F, a, r, r, e, l, l, ,,  , S, a, m, a, n, t, h, a,  , M, o, r, t, o, n",7.884558823529411,0,0
+296,8.1,The Wild Bunch,R,Action,145,"W, i, l, l, i, a, m,  , H, o, l, d, e, n, ,,  , E, r, n, e, s, t,  , B, o, r, g, n, i, n, e, ,,  , R, o, b, e, r, t,  , R, y, a, n",7.884558823529411,0,0
+485,7.8,Black Book,R,Drama,145,"C, a, r, i, c, e,  , v, a, n,  , H, o, u, t, e, n, ,,  , S, e, b, a, s, t, i, a, n,  , K, o, c, h, ,,  , T, h, o, m,  , H, o, f, f, m, a, n",7.902517985611511,0,0
+691,7.7,Kelly's Heroes,GP,Action,144,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , T, e, l, l, y,  , S, a, v, a, l, a, s, ,,  , D, o, n,  , R, i, c, k, l, e, s",7.884558823529411,0,0
+436,7.9,Carlito's Way,R,Crime,144,"A, l,  , P, a, c, i, n, o, ,,  , S, e, a, n,  , P, e, n, n, ,,  , P, e, n, e, l, o, p, e,  , A, n, n,  , M, i, l, l, e, r",7.916935483870968,0,0
+889,7.5,Devil's Advocate,R,Drama,144,"K, e, a, n, u,  , R, e, e, v, e, s, ,,  , A, l,  , P, a, c, i, n, o, ,,  , C, h, a, r, l, i, z, e,  , T, h, e, r, o, n",7.902517985611511,0,0
+380,8.0,Casino Royale,PG-13,Action,144,"D, a, n, i, e, l,  , C, r, a, i, g, ,,  , E, v, a,  , G, r, e, e, n, ,,  , J, u, d, i,  , D, e, n, c, h",7.884558823529411,0,0
+341,8.0,Cinderella Man,PG-13,Biography,144,"R, u, s, s, e, l, l,  , C, r, o, w, e, ,,  , R, e, n, é, e,  , Z, e, l, l, w, e, g, e, r, ,,  , C, r, a, i, g,  , B, i, e, r, k, o",7.862337662337662,0,0
+606,7.7,Black Hawk Down,R,Drama,144,"J, o, s, h,  , H, a, r, t, n, e, t, t, ,,  , E, w, a, n,  , M, c, G, r, e, g, o, r, ,,  , T, o, m,  , S, i, z, e, m, o, r, e",7.902517985611511,0,0
+814,7.6,The Hobbit: The Battle of the Five Armies,PG-13,Adventure,144,"I, a, n,  , M, c, K, e, l, l, e, n, ,,  , M, a, r, t, i, n,  , F, r, e, e, m, a, n, ,,  , R, i, c, h, a, r, d,  , A, r, m, i, t, a, g, e",7.933333333333334,0,0
+538,7.8,The White Ribbon,R,Drama,144,"C, h, r, i, s, t, i, a, n,  , F, r, i, e, d, e, l, ,,  , E, r, n, s, t,  , J, a, c, o, b, i, ,,  , L, e, o, n, i, e,  , B, e, n, e, s, c, h",7.902517985611511,0,0
+309,8.0,Blood Diamond,R,Adventure,143,"L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , D, j, i, m, o, n,  , H, o, u, n, s, o, u, ,,  , J, e, n, n, i, f, e, r,  , C, o, n, n, e, l, l, y",7.933333333333334,0,0
+568,7.8,Skyfall,PG-13,Action,143,"D, a, n, i, e, l,  , C, r, a, i, g, ,,  , J, a, v, i, e, r,  , B, a, r, d, e, m, ,,  , N, a, o, m, i, e,  , H, a, r, r, i, s",7.884558823529411,0,0
+104,8.3,Ikiru,NOT RATED,Drama,143,"T, a, k, a, s, h, i,  , S, h, i, m, u, r, a, ,,  , N, o, b, u, o,  , K, a, n, e, k, o, ,,  , S, h, i, n, ', i, c, h, i,  , H, i, m, o, r, i",7.902517985611511,0,0
+804,7.6,Chaplin,PG-13,Biography,143,"R, o, b, e, r, t,  , D, o, w, n, e, y,  , J, r, ., ,,  , G, e, r, a, l, d, i, n, e,  , C, h, a, p, l, i, n, ,,  , P, a, u, l,  , R, h, y, s",7.862337662337662,0,0
+629,7.7,Cast Away,PG-13,Adventure,143,"T, o, m,  , H, a, n, k, s, ,,  , H, e, l, e, n,  , H, u, n, t, ,,  , P, a, u, l,  , S, a, n, c, h, e, z",7.933333333333334,0,0
+901,7.5,Babel,R,Drama,143,"B, r, a, d,  , P, i, t, t, ,,  , C, a, t, e,  , B, l, a, n, c, h, e, t, t, ,,  , G, a, e, l,  , G, a, r, c, í, a,  , B, e, r, n, a, l",7.902517985611511,0,0
+271,8.1,Pirates of the Caribbean: The Curse of the Black Pearl,PG-13,Adventure,143,"J, o, h, n, n, y,  , D, e, p, p, ,,  , G, e, o, f, f, r, e, y,  , R, u, s, h, ,,  , O, r, l, a, n, d, o,  , B, l, o, o, m",7.933333333333334,0,0
+495,7.8,The Day of the Jackal,PG,Crime,143,"E, d, w, a, r, d,  , F, o, x, ,,  , T, e, r, e, n, c, e,  , A, l, e, x, a, n, d, e, r, ,,  , M, i, c, h, e, l,  , A, u, c, l, a, i, r",7.916935483870968,0,0
+177,8.2,The Avengers,PG-13,Action,143,"R, o, b, e, r, t,  , D, o, w, n, e, y,  , J, r, ., ,,  , C, h, r, i, s,  , E, v, a, n, s, ,,  , S, c, a, r, l, e, t, t,  , J, o, h, a, n, s, s, o, n",7.884558823529411,0,0
+551,7.8,Harry Potter and the Prisoner of Azkaban,PG,Adventure,142,"D, a, n, i, e, l,  , R, a, d, c, l, i, f, f, e, ,,  , E, m, m, a,  , W, a, t, s, o, n, ,,  , R, u, p, e, r, t,  , G, r, i, n, t",7.933333333333334,0,0
+647,7.7,La grande bellezza,NOT RATED,Drama,142,"T, o, n, i,  , S, e, r, v, i, l, l, o, ,,  , C, a, r, l, o,  , V, e, r, d, o, n, e, ,,  , S, a, b, r, i, n, a,  , F, e, r, i, l, l, i",7.902517985611511,0,0
+0,9.3,The Shawshank Redemption,R,Crime,142,"T, i, m,  , R, o, b, b, i, n, s, ,,  , M, o, r, g, a, n,  , F, r, e, e, m, a, n, ,,  , B, o, b,  , G, u, n, t, o, n",7.916935483870968,0,0
+13,8.8,Forrest Gump,PG-13,Drama,142,"T, o, m,  , H, a, n, k, s, ,,  , R, o, b, i, n,  , W, r, i, g, h, t, ,,  , G, a, r, y,  , S, i, n, i, s, e",7.902517985611511,0,0
+390,8.0,Letters from Iwo Jima,R,Drama,141,"K, e, n,  , W, a, t, a, n, a, b, e, ,,  , K, a, z, u, n, a, r, i,  , N, i, n, o, m, i, y, a, ,,  , T, s, u, y, o, s, h, i,  , I, h, a, r, a",7.902517985611511,0,0
+415,7.9,The Killing Fields,R,Drama,141,"S, a, m,  , W, a, t, e, r, s, t, o, n, ,,  , H, a, i, n, g,  , S, .,  , N, g, o, r, ,,  , J, o, h, n,  , M, a, l, k, o, v, i, c, h",7.902517985611511,0,0
+745,7.6,Jusan-nin no shikaku,R,Action,141,"K, ô, j, i,  , Y, a, k, u, s, h, o, ,,  , T, a, k, a, y, u, k, i,  , Y, a, m, a, d, a, ,,  , Y, û, s, u, k, e,  , I, s, e, y, a",7.884558823529411,0,0
+914,7.5,The Judge,R,Drama,141,"R, o, b, e, r, t,  , D, o, w, n, e, y,  , J, r, ., ,,  , R, o, b, e, r, t,  , D, u, v, a, l, l, ,,  , V, e, r, a,  , F, a, r, m, i, g, a",7.902517985611511,0,0
+340,8.0,Catch Me If You Can,PG-13,Biography,141,"L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , T, o, m,  , H, a, n, k, s, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , W, a, l, k, e, n",7.862337662337662,0,0
+559,7.8,Changeling,R,Drama,141,"A, n, g, e, l, i, n, a,  , J, o, l, i, e, ,,  , C, o, l, m,  , F, e, o, r, e, ,,  , A, m, y,  , R, y, a, n",7.902517985611511,0,0
+263,8.1,Rio Bravo,NOT RATED,Western,141,"J, o, h, n,  , W, a, y, n, e, ,,  , D, e, a, n,  , M, a, r, t, i, n, ,,  , R, i, c, k, y,  , N, e, l, s, o, n",8.255555555555555,0,0
+431,7.9,Mr. Nobody,R,Drama,141,"J, a, r, e, d,  , L, e, t, o, ,,  , S, a, r, a, h,  , P, o, l, l, e, y, ,,  , D, i, a, n, e,  , K, r, u, g, e, r",7.902517985611511,0,0
+478,7.8,I Saw the Devil,NOT RATED,Crime,141,"B, y, u, n, g, -, h, u, n,  , L, e, e, ,,  , M, i, n, -, s, i, k,  , C, h, o, i, ,,  , I, n, -, s, e, o,  , K, i, m",7.916935483870968,0,0
+324,8.0,Dancer in the Dark,R,Crime,140,"B, j, ö, r, k, ,,  , C, a, t, h, e, r, i, n, e,  , D, e, n, e, u, v, e, ,,  , D, a, v, i, d,  , M, o, r, s, e",7.916935483870968,0,0
+754,7.6,Apollo 13,PG,Adventure,140,"T, o, m,  , H, a, n, k, s, ,,  , B, i, l, l,  , P, a, x, t, o, n, ,,  , K, e, v, i, n,  , B, a, c, o, n",7.933333333333334,0,0
+661,7.7,Star Wars: Episode III - Revenge of the Sith,PG-13,Action,140,"H, a, y, d, e, n,  , C, h, r, i, s, t, e, n, s, e, n, ,,  , N, a, t, a, l, i, e,  , P, o, r, t, m, a, n, ,,  , E, w, a, n,  , M, c, G, r, e, g, o, r",7.884558823529411,0,0
+146,8.2,Warrior,PG-13,Drama,140,"T, o, m,  , H, a, r, d, y, ,,  , N, i, c, k,  , N, o, l, t, e, ,,  , J, o, e, l,  , E, d, g, e, r, t, o, n",7.902517985611511,0,0
+173,8.2,Tae Guk Gi: The Brotherhood of War,R,Action,140,"D, o, n, g, -, g, u, n,  , J, a, n, g, ,,  , B, i, n,  , W, o, n, ,,  , E, u, n, -, j, u,  , L, e, e",7.884558823529411,0,0
+113,8.3,Batman Begins,PG-13,Action,140,"C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , M, i, c, h, a, e, l,  , C, a, i, n, e, ,,  , K, e, n,  , W, a, t, a, n, a, b, e",7.884558823529411,0,0
+660,7.7,La Vie en Rose,PG-13,Biography,140,"M, a, r, i, o, n,  , C, o, t, i, l, l, a, r, d, ,,  , S, y, l, v, i, e,  , T, e, s, t, u, d, ,,  , P, a, s, c, a, l,  , G, r, e, g, g, o, r, y",7.862337662337662,0,0
+935,7.4,Excalibur,R,Adventure,140,"N, i, g, e, l,  , T, e, r, r, y, ,,  , H, e, l, e, n,  , M, i, r, r, e, n, ,,  , N, i, c, h, o, l, a, s,  , C, l, a, y",7.933333333333334,0,0
+884,7.5,Open Range,R,Action,139,"K, e, v, i, n,  , C, o, s, t, n, e, r, ,,  , R, o, b, e, r, t,  , D, u, v, a, l, l, ,,  , D, i, e, g, o,  , L, u, n, a",7.884558823529411,0,0
+557,7.8,Mary Poppins,APPROVED,Comedy,139,"J, u, l, i, e,  , A, n, d, r, e, w, s, ,,  , D, i, c, k,  , V, a, n,  , D, y, k, e, ,,  , D, a, v, i, d,  , T, o, m, l, i, n, s, o, n",7.822435897435897,0,0
+150,8.2,Incendies,R,Drama,139,"L, u, b, n, a,  , A, z, a, b, a, l, ,,  , M, é, l, i, s, s, a,  , D, é, s, o, r, m, e, a, u, x, -, P, o, u, l, i, n, ,,  , M, a, x, i, m,  , G, a, u, d, e, t, t, e",7.902517985611511,0,0
+758,7.6,The Abyss,PG-13,Adventure,139,"E, d,  , H, a, r, r, i, s, ,,  , M, a, r, y,  , E, l, i, z, a, b, e, t, h,  , M, a, s, t, r, a, n, t, o, n, i, o, ,,  , M, i, c, h, a, e, l,  , B, i, e, h, n",7.933333333333334,0,0
+529,7.8,Apocalypto,R,Action,139,"G, e, r, a, r, d, o,  , T, a, r, a, c, e, n, a, ,,  , R, a, o, u, l,  , T, r, u, j, i, l, l, o, ,,  , D, a, l, i, a,  , H, e, r, n, á, n, d, e, z",7.884558823529411,0,0
+578,7.8,As Good as It Gets,PG-13,Comedy,139,"J, a, c, k,  , N, i, c, h, o, l, s, o, n, ,,  , H, e, l, e, n,  , H, u, n, t, ,,  , G, r, e, g,  , K, i, n, n, e, a, r",7.822435897435897,0,0
+9,8.9,Fight Club,R,Drama,139,"B, r, a, d,  , P, i, t, t, ,,  , E, d, w, a, r, d,  , N, o, r, t, o, n, ,,  , H, e, l, e, n, a,  , B, o, n, h, a, m,  , C, a, r, t, e, r",7.902517985611511,0,0
+203,8.1,8 1/2,NOT RATED,Drama,138,"M, a, r, c, e, l, l, o,  , M, a, s, t, r, o, i, a, n, n, i, ,,  , A, n, o, u, k,  , A, i, m, é, e, ,,  , C, l, a, u, d, i, a,  , C, a, r, d, i, n, a, l, e",7.902517985611511,0,0
+865,7.5,A Perfect World,PG-13,Crime,138,"K, e, v, i, n,  , C, o, s, t, n, e, r, ,,  , C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , L, a, u, r, a,  , D, e, r, n",7.916935483870968,0,0
+95,8.4,All About Eve,APPROVED,Drama,138,"B, e, t, t, e,  , D, a, v, i, s, ,,  , A, n, n, e,  , B, a, x, t, e, r, ,,  , G, e, o, r, g, e,  , S, a, n, d, e, r, s",7.902517985611511,0,0
+526,7.8,Zulu,UNRATED,Drama,138,"S, t, a, n, l, e, y,  , B, a, k, e, r, ,,  , J, a, c, k,  , H, a, w, k, i, n, s, ,,  , U, l, l, a,  , J, a, c, o, b, s, s, o, n",7.902517985611511,0,0
+112,8.3,L.A. Confidential,R,Crime,138,"K, e, v, i, n,  , S, p, a, c, e, y, ,,  , R, u, s, s, e, l, l,  , C, r, o, w, e, ,,  , G, u, y,  , P, e, a, r, c, e",7.916935483870968,0,0
+932,7.4,Harry Potter and the Order of the Phoenix,PG-13,Adventure,138,"D, a, n, i, e, l,  , R, a, d, c, l, i, f, f, e, ,,  , E, m, m, a,  , W, a, t, s, o, n, ,,  , R, u, p, e, r, t,  , G, r, i, n, t",7.933333333333334,0,0
+813,7.6,The Natural,PG,Drama,138,"R, o, b, e, r, t,  , R, e, d, f, o, r, d, ,,  , R, o, b, e, r, t,  , D, u, v, a, l, l, ,,  , G, l, e, n, n,  , C, l, o, s, e",7.902517985611511,0,0
+337,8.0,All the President's Men,R,Drama,138,"D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , R, o, b, e, r, t,  , R, e, d, f, o, r, d, ,,  , J, a, c, k,  , W, a, r, d, e, n",7.902517985611511,0,0
+249,8.1,Sleuth,PG,Mystery,138,"L, a, u, r, e, n, c, e,  , O, l, i, v, i, e, r, ,,  , M, i, c, h, a, e, l,  , C, a, i, n, e, ,,  , A, l, e, c,  , C, a, w, t, h, o, r, n, e",7.975,0,0
+365,8.0,Mystic River,R,Crime,138,"S, e, a, n,  , P, e, n, n, ,,  , T, i, m,  , R, o, b, b, i, n, s, ,,  , K, e, v, i, n,  , B, a, c, o, n",7.916935483870968,0,0
+244,8.1,Shutter Island,R,Mystery,138,"L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , E, m, i, l, y,  , M, o, r, t, i, m, e, r, ,,  , M, a, r, k,  , R, u, f, f, a, l, o",7.975,0,0
+716,7.6,A Few Good Men,R,Drama,138,"T, o, m,  , C, r, u, i, s, e, ,,  , J, a, c, k,  , N, i, c, h, o, l, s, o, n, ,,  , D, e, m, i,  , M, o, o, r, e",7.902517985611511,0,0
+976,7.4,Master and Commander: The Far Side of the World,PG-13,Action,138,"R, u, s, s, e, l, l,  , C, r, o, w, e, ,,  , P, a, u, l,  , B, e, t, t, a, n, y, ,,  , B, i, l, l, y,  , B, o, y, d",7.884558823529411,0,0
+808,7.6,The Fisher King,R,Comedy,137,"J, e, f, f,  , B, r, i, d, g, e, s, ,,  , R, o, b, i, n,  , W, i, l, l, i, a, m, s, ,,  , A, d, a, m,  , B, r, y, a, n, t",7.822435897435897,0,0
+770,7.6,A Royal Affair,R,Drama,137,"A, l, i, c, i, a,  , V, i, k, a, n, d, e, r, ,,  , M, a, d, s,  , M, i, k, k, e, l, s, e, n, ,,  , M, i, k, k, e, l,  , B, o, e,  , F, ø, l, s, g, a, a, r, d",7.902517985611511,0,0
+634,7.7,Close Encounters of the Third Kind,PG,Drama,137,"R, i, c, h, a, r, d,  , D, r, e, y, f, u, s, s, ,,  , F, r, a, n, ç, o, i, s,  , T, r, u, f, f, a, u, t, ,,  , T, e, r, i,  , G, a, r, r",7.902517985611511,0,0
+75,8.4,Aliens,R,Action,137,"S, i, g, o, u, r, n, e, y,  , W, e, a, v, e, r, ,,  , M, i, c, h, a, e, l,  , B, i, e, h, n, ,,  , C, a, r, r, i, e,  , H, e, n, n",7.884558823529411,0,0
+56,8.5,The Lives of Others,R,Drama,137,"U, l, r, i, c, h,  , M, ü, h, e, ,,  , M, a, r, t, i, n, a,  , G, e, d, e, c, k, ,,  , S, e, b, a, s, t, i, a, n,  , K, o, c, h",7.902517985611511,0,0
+301,8.0,Furious 7,PG-13,Action,137,"V, i, n,  , D, i, e, s, e, l, ,,  , P, a, u, l,  , W, a, l, k, e, r, ,,  , D, w, a, y, n, e,  , J, o, h, n, s, o, n",7.884558823529411,0,0
+354,8.0,Kill Bill: Vol. 2,R,Action,137,"U, m, a,  , T, h, u, r, m, a, n, ,,  , D, a, v, i, d,  , C, a, r, r, a, d, i, n, e, ,,  , M, i, c, h, a, e, l,  , M, a, d, s, e, n",7.884558823529411,0,0
+45,8.5,Terminator 2: Judgment Day,R,Action,137,"A, r, n, o, l, d,  , S, c, h, w, a, r, z, e, n, e, g, g, e, r, ,,  , L, i, n, d, a,  , H, a, m, i, l, t, o, n, ,,  , E, d, w, a, r, d,  , F, u, r, l, o, n, g",7.884558823529411,0,0
+71,8.4,North by Northwest,APPROVED,Adventure,136,"C, a, r, y,  , G, r, a, n, t, ,,  , E, v, a,  , M, a, r, i, e,  , S, a, i, n, t, ,,  , J, a, m, e, s,  , M, a, s, o, n",7.933333333333334,0,0
+364,8.0,Rosemary's Baby,R,Drama,136,"M, i, a,  , F, a, r, r, o, w, ,,  , J, o, h, n,  , C, a, s, s, a, v, e, t, e, s, ,,  , R, u, t, h,  , G, o, r, d, o, n",7.902517985611511,0,0
+20,8.7,The Matrix,R,Action,136,"K, e, a, n, u,  , R, e, e, v, e, s, ,,  , L, a, u, r, e, n, c, e,  , F, i, s, h, b, u, r, n, e, ,,  , C, a, r, r, i, e, -, A, n, n, e,  , M, o, s, s",7.884558823529411,0,0
+967,7.4,The Rock,R,Action,136,"S, e, a, n,  , C, o, n, n, e, r, y, ,,  , N, i, c, o, l, a, s,  , C, a, g, e, ,,  , E, d,  , H, a, r, r, i, s",7.884558823529411,0,0
+442,7.9,Walk the Line,PG-13,Biography,136,"J, o, a, q, u, i, n,  , P, h, o, e, n, i, x, ,,  , R, e, e, s, e,  , W, i, t, h, e, r, s, p, o, o, n, ,,  , G, i, n, n, i, f, e, r,  , G, o, o, d, w, i, n",7.862337662337662,0,0
+355,8.0,Secrets & Lies,R,Drama,136,"T, i, m, o, t, h, y,  , S, p, a, l, l, ,,  , B, r, e, n, d, a,  , B, l, e, t, h, y, n, ,,  , P, h, y, l, l, i, s,  , L, o, g, a, n",7.902517985611511,0,0
+289,8.1,All Quiet on the Western Front,UNRATED,Drama,136,"L, e, w,  , A, y, r, e, s, ,,  , L, o, u, i, s,  , W, o, l, h, e, i, m, ,,  , J, o, h, n,  , W, r, a, y",7.902517985611511,0,0
+86,8.4,A Clockwork Orange,X,Crime,136,"M, a, l, c, o, l, m,  , M, c, D, o, w, e, l, l, ,,  , P, a, t, r, i, c, k,  , M, a, g, e, e, ,,  , M, i, c, h, a, e, l,  , B, a, t, e, s",7.916935483870968,0,0
+762,7.6,Little Children,R,Drama,136,"K, a, t, e,  , W, i, n, s, l, e, t, ,,  , J, e, n, n, i, f, e, r,  , C, o, n, n, e, l, l, y, ,,  , P, a, t, r, i, c, k,  , W, i, l, s, o, n",7.902517985611511,0,0
+517,7.8,Captain America: The Winter Soldier,PG-13,Action,136,"C, h, r, i, s,  , E, v, a, n, s, ,,  , S, a, m, u, e, l,  , L, .,  , J, a, c, k, s, o, n, ,,  , S, c, a, r, l, e, t, t,  , J, o, h, a, n, s, s, o, n",7.884558823529411,0,0
+288,8.1,Sling Blade,R,Drama,135,"B, i, l, l, y,  , B, o, b,  , T, h, o, r, n, t, o, n, ,,  , D, w, i, g, h, t,  , Y, o, a, k, a, m, ,,  , J, ., T, .,  , W, a, l, s, h",7.902517985611511,0,0
+421,7.9,The Outlaw Josey Wales,PG,Western,135,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , S, o, n, d, r, a,  , L, o, c, k, e, ,,  , C, h, i, e, f,  , D, a, n,  , G, e, o, r, g, e",8.255555555555555,0,0
+854,7.5,Miracle,PG,Drama,135,"K, u, r, t,  , R, u, s, s, e, l, l, ,,  , P, a, t, r, i, c, i, a,  , C, l, a, r, k, s, o, n, ,,  , N, a, t, h, a, n,  , W, e, s, t",7.902517985611511,0,0
+851,7.5,The Bridges of Madison County,PG-13,Drama,135,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , M, e, r, y, l,  , S, t, r, e, e, p, ,,  , A, n, n, i, e,  , C, o, r, l, e, y",7.902517985611511,0,0
+170,8.2,A Beautiful Mind,PG-13,Biography,135,"R, u, s, s, e, l, l,  , C, r, o, w, e, ,,  , E, d,  , H, a, r, r, i, s, ,,  , J, e, n, n, i, f, e, r,  , C, o, n, n, e, l, l, y",7.862337662337662,0,0
+640,7.7,Love Actually,R,Comedy,135,"H, u, g, h,  , G, r, a, n, t, ,,  , M, a, r, t, i, n, e,  , M, c, C, u, t, c, h, e, o, n, ,,  , L, i, a, m,  , N, e, e, s, o, n",7.822435897435897,0,0
+748,7.6,The Hunt for Red October,PG,Action,135,"S, e, a, n,  , C, o, n, n, e, r, y, ,,  , A, l, e, c,  , B, a, l, d, w, i, n, ,,  , S, c, o, t, t,  , G, l, e, n, n",7.884558823529411,0,0
+624,7.7,25th Hour,R,Crime,135,"E, d, w, a, r, d,  , N, o, r, t, o, n, ,,  , B, a, r, r, y,  , P, e, p, p, e, r, ,,  , P, h, i, l, i, p,  , S, e, y, m, o, u, r,  , H, o, f, f, m, a, n",7.916935483870968,0,0
+924,7.5,Les Miserables,PG-13,Crime,134,"L, i, a, m,  , N, e, e, s, o, n, ,,  , G, e, o, f, f, r, e, y,  , R, u, s, h, ,,  , U, m, a,  , T, h, u, r, m, a, n",7.916935483870968,0,0
+676,7.7,Lost Highway,R,Drama,134,"B, i, l, l,  , P, u, l, l, m, a, n, ,,  , P, a, t, r, i, c, i, a,  , A, r, q, u, e, t, t, e, ,,  , J, o, h, n,  , R, o, s, e, l, i, u, s",7.902517985611511,0,0
+80,8.4,Star Wars: Episode VI - Return of the Jedi,PG,Action,134,"M, a, r, k,  , H, a, m, i, l, l, ,,  , H, a, r, r, i, s, o, n,  , F, o, r, d, ,,  , C, a, r, r, i, e,  , F, i, s, h, e, r",7.884558823529411,0,0
+683,7.7,Fury,R,Action,134,"B, r, a, d,  , P, i, t, t, ,,  , S, h, i, a,  , L, a, B, e, o, u, f, ,,  , L, o, g, a, n,  , L, e, r, m, a, n",7.884558823529411,0,0
+628,7.7,Brokeback Mountain,R,Drama,134,"J, a, k, e,  , G, y, l, l, e, n, h, a, a, l, ,,  , H, e, a, t, h,  , L, e, d, g, e, r, ,,  , M, i, c, h, e, l, l, e,  , W, i, l, l, i, a, m, s",7.902517985611511,0,0
+207,8.1,What Ever Happened to Baby Jane?,APPROVED,Drama,134,"B, e, t, t, e,  , D, a, v, i, s, ,,  , J, o, a, n,  , C, r, a, w, f, o, r, d, ,,  , V, i, c, t, o, r,  , B, u, o, n, o",7.902517985611511,0,0
+404,7.9,The Remains of the Day,PG,Drama,134,"A, n, t, h, o, n, y,  , H, o, p, k, i, n, s, ,,  , E, m, m, a,  , T, h, o, m, p, s, o, n, ,,  , J, o, h, n,  , H, a, y, c, r, a, f, t",7.902517985611511,0,0
+69,8.4,Princess Mononoke,PG-13,Animation,134,"Y, ô, j, i,  , M, a, t, s, u, d, a, ,,  , Y, u, r, i, k, o,  , I, s, h, i, d, a, ,,  , Y, û, k, o,  , T, a, n, a, k, a",7.914516129032258,0,0
+262,8.1,The Hustler,UNRATED,Drama,134,"P, a, u, l,  , N, e, w, m, a, n, ,,  , J, a, c, k, i, e,  , G, l, e, a, s, o, n, ,,  , P, i, p, e, r,  , L, a, u, r, i, e",7.902517985611511,0,0
+871,7.5,X2,PG-13,Action,134,"P, a, t, r, i, c, k,  , S, t, e, w, a, r, t, ,,  , H, u, g, h,  , J, a, c, k, m, a, n, ,,  , H, a, l, l, e,  , B, e, r, r, y",7.884558823529411,0,0
+447,7.9,Captain Phillips,PG-13,Biography,134,"T, o, m,  , H, a, n, k, s, ,,  , B, a, r, k, h, a, d,  , A, b, d, i, ,,  , B, a, r, k, h, a, d,  , A, b, d, i, r, a, h, m, a, n",7.862337662337662,0,0
+201,8.1,12 Years a Slave,R,Biography,134,"C, h, i, w, e, t, e, l,  , E, j, i, o, f, o, r, ,,  , M, i, c, h, a, e, l,  , K, e, n, n, e, t, h,  , W, i, l, l, i, a, m, s, ,,  , M, i, c, h, a, e, l,  , F, a, s, s, b, e, n, d, e, r",7.862337662337662,0,0
+325,8.0,Rain Man,R,Drama,133,"D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , T, o, m,  , C, r, u, i, s, e, ,,  , V, a, l, e, r, i, a,  , G, o, l, i, n, o",7.902517985611511,0,0
+776,7.6,Moneyball,PG-13,Biography,133,"B, r, a, d,  , P, i, t, t, ,,  , R, o, b, i, n,  , W, r, i, g, h, t, ,,  , J, o, n, a, h,  , H, i, l, l",7.862337662337662,0,0
+197,8.1,In the Name of the Father,R,Biography,133,"D, a, n, i, e, l,  , D, a, y, -, L, e, w, i, s, ,,  , P, e, t, e,  , P, o, s, t, l, e, t, h, w, a, i, t, e, ,,  , A, l, i, s, o, n,  , C, r, o, s, b, i, e",7.862337662337662,0,0
+603,7.7,A Very Long Engagement,R,Drama,133,"A, u, d, r, e, y,  , T, a, u, t, o, u, ,,  , G, a, s, p, a, r, d,  , U, l, l, i, e, l, ,,  , J, o, d, i, e,  , F, o, s, t, e, r",7.902517985611511,0,0
+388,8.0,The Blues Brothers,R,Action,133,"J, o, h, n,  , B, e, l, u, s, h, i, ,,  , D, a, n,  , A, y, k, r, o, y, d, ,,  , C, a, b,  , C, a, l, l, o, w, a, y",7.884558823529411,0,0
+16,8.7,One Flew Over the Cuckoo's Nest,R,Drama,133,"J, a, c, k,  , N, i, c, h, o, l, s, o, n, ,,  , L, o, u, i, s, e,  , F, l, e, t, c, h, e, r, ,,  , M, i, c, h, a, e, l,  , B, e, r, r, y, m, a, n",7.902517985611511,0,0
+877,7.5,Legends of the Fall,R,Drama,133,"B, r, a, d,  , P, i, t, t, ,,  , A, n, t, h, o, n, y,  , H, o, p, k, i, n, s, ,,  , A, i, d, a, n,  , Q, u, i, n, n",7.902517985611511,0,0
+849,7.5,Quiz Show,PG-13,Drama,133,"R, a, l, p, h,  , F, i, e, n, n, e, s, ,,  , J, o, h, n,  , T, u, r, t, u, r, r, o, ,,  , R, o, b,  , M, o, r, r, o, w",7.902517985611511,0,0
+923,7.5,Across the Universe,PG-13,Drama,133,"E, v, a, n,  , R, a, c, h, e, l,  , W, o, o, d, ,,  , J, i, m,  , S, t, u, r, g, e, s, s, ,,  , J, o, e,  , A, n, d, e, r, s, o, n",7.902517985611511,0,0
+321,8.0,Brazil,R,Sci-Fi,132,"J, o, n, a, t, h, a, n,  , P, r, y, c, e, ,,  , K, i, m,  , G, r, e, i, s, t, ,,  , R, o, b, e, r, t,  , D, e,  , N, i, r, o",7.92,0,0
+532,7.8,X-Men: First Class,PG-13,Action,132,"J, a, m, e, s,  , M, c, A, v, o, y, ,,  , M, i, c, h, a, e, l,  , F, a, s, s, b, e, n, d, e, r, ,,  , J, e, n, n, i, f, e, r,  , L, a, w, r, e, n, c, e",7.884558823529411,0,0
+944,7.4,Terms of Endearment,R,Comedy,132,"S, h, i, r, l, e, y,  , M, a, c, L, a, i, n, e, ,,  , D, e, b, r, a,  , W, i, n, g, e, r, ,,  , J, a, c, k,  , N, i, c, h, o, l, s, o, n",7.822435897435897,0,0
+488,7.8,Star Trek Into Darkness,PG-13,Action,132,"C, h, r, i, s,  , P, i, n, e, ,,  , Z, a, c, h, a, r, y,  , Q, u, i, n, t, o, ,,  , Z, o, e,  , S, a, l, d, a, n, a",7.884558823529411,0,0
+152,8.2,V for Vendetta,R,Action,132,"H, u, g, o,  , W, e, a, v, i, n, g, ,,  , N, a, t, a, l, i, e,  , P, o, r, t, m, a, n, ,,  , R, u, p, e, r, t,  , G, r, a, v, e, s",7.884558823529411,0,0
+227,8.1,Million Dollar Baby,PG-13,Drama,132,"H, i, l, a, r, y,  , S, w, a, n, k, ,,  , C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , M, o, r, g, a, n,  , F, r, e, e, m, a, n",7.902517985611511,0,0
+107,8.3,For a Few Dollars More,APPROVED,Western,132,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , L, e, e,  , V, a, n,  , C, l, e, e, f, ,,  , G, i, a, n,  , M, a, r, i, a,  , V, o, l, o, n, t, é",8.255555555555555,0,0
+705,7.6,I Am Sam,PG-13,Drama,132,"S, e, a, n,  , P, e, n, n, ,,  , M, i, c, h, e, l, l, e,  , P, f, e, i, f, f, e, r, ,,  , D, a, k, o, t, a,  , F, a, n, n, i, n, g",7.902517985611511,0,0
+217,8.1,Memories of Murder,UNRATED,Crime,132,"K, a, n, g, -, h, o,  , S, o, n, g, ,,  , S, a, n, g, -, k, y, u, n, g,  , K, i, m, ,,  , R, o, e, -, h, a,  , K, i, m",7.916935483870968,0,0
+645,7.7,Sense and Sensibility,PG,Drama,131,"E, m, m, a,  , T, h, o, m, p, s, o, n, ,,  , K, a, t, e,  , W, i, n, s, l, e, t, ,,  , J, a, m, e, s,  , F, l, e, e, t",7.902517985611511,0,0
+760,7.6,Enemy at the Gates,R,Drama,131,"J, u, d, e,  , L, a, w, ,,  , E, d,  , H, a, r, r, i, s, ,,  , J, o, s, e, p, h,  , F, i, e, n, n, e, s",7.902517985611511,0,0
+474,7.8,The Best Offer,R,Crime,131,"G, e, o, f, f, r, e, y,  , R, u, s, h, ,,  , J, i, m,  , S, t, u, r, g, e, s, s, ,,  , S, y, l, v, i, a,  , H, o, e, k, s",7.916935483870968,0,0
+138,8.3,Die Hard,R,Action,131,"B, r, u, c, e,  , W, i, l, l, i, s, ,,  , A, l, a, n,  , R, i, c, k, m, a, n, ,,  , B, o, n, n, i, e,  , B, e, d, e, l, i, a",7.884558823529411,0,0
+219,8.1,Who's Afraid of Virginia Woolf?,TV-MA,Drama,131,"E, l, i, z, a, b, e, t, h,  , T, a, y, l, o, r, ,,  , R, i, c, h, a, r, d,  , B, u, r, t, o, n, ,,  , G, e, o, r, g, e,  , S, e, g, a, l",7.902517985611511,0,0
+140,8.3,The Wages of Fear,NOT RATED,Adventure,131,"Y, v, e, s,  , M, o, n, t, a, n, d, ,,  , C, h, a, r, l, e, s,  , V, a, n, e, l, ,,  , P, e, t, e, r,  , v, a, n,  , E, y, c, k",7.933333333333334,0,0
+248,8.1,X-Men: Days of Future Past,PG-13,Action,131,"P, a, t, r, i, c, k,  , S, t, e, w, a, r, t, ,,  , I, a, n,  , M, c, K, e, l, l, e, n, ,,  , H, u, g, h,  , J, a, c, k, m, a, n",7.884558823529411,0,0
+777,7.6,The Book Thief,PG-13,Drama,131,"S, o, p, h, i, e,  , N, é, l, i, s, s, e, ,,  , G, e, o, f, f, r, e, y,  , R, u, s, h, ,,  , E, m, i, l, y,  , W, a, t, s, o, n",7.902517985611511,0,0
+591,7.7,The Count of Monte Cristo,PG-13,Action,131,"J, i, m,  , C, a, v, i, e, z, e, l, ,,  , G, u, y,  , P, e, a, r, c, e, ,,  , R, i, c, h, a, r, d,  , H, a, r, r, i, s",7.884558823529411,0,0
+778,7.6,Die Hard: With a Vengeance,R,Action,131,"B, r, u, c, e,  , W, i, l, l, i, s, ,,  , J, e, r, e, m, y,  , I, r, o, n, s, ,,  , S, a, m, u, e, l,  , L, .,  , J, a, c, k, s, o, n",7.884558823529411,0,0
+802,7.6,Tell No One,UNRATED,Crime,131,"F, r, a, n, ç, o, i, s,  , C, l, u, z, e, t, ,,  , M, a, r, i, e, -, J, o, s, é, e,  , C, r, o, z, e, ,,  , A, n, d, r, é,  , D, u, s, s, o, l, l, i, e, r",7.916935483870968,0,0
+739,7.6,The Hurt Locker,R,Drama,131,"J, e, r, e, m, y,  , R, e, n, n, e, r, ,,  , A, n, t, h, o, n, y,  , M, a, c, k, i, e, ,,  , B, r, i, a, n,  , G, e, r, a, g, h, t, y",7.902517985611511,0,0
+119,8.3,Unforgiven,R,Western,131,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , G, e, n, e,  , H, a, c, k, m, a, n, ,,  , M, o, r, g, a, n,  , F, r, e, e, m, a, n",8.255555555555555,0,0
+304,8.0,Being There,PG,Comedy,130,"P, e, t, e, r,  , S, e, l, l, e, r, s, ,,  , S, h, i, r, l, e, y,  , M, a, c, L, a, i, n, e, ,,  , M, e, l, v, y, n,  , D, o, u, g, l, a, s",7.822435897435897,0,0
+623,7.7,Dawn of the Planet of the Apes,PG-13,Action,130,"G, a, r, y,  , O, l, d, m, a, n, ,,  , K, e, r, i,  , R, u, s, s, e, l, l, ,,  , A, n, d, y,  , S, e, r, k, i, s",7.884558823529411,0,0
+21,8.7,City of God,R,Crime,130,"A, l, e, x, a, n, d, r, e,  , R, o, d, r, i, g, u, e, s, ,,  , M, a, t, h, e, u, s,  , N, a, c, h, t, e, r, g, a, e, l, e, ,,  , L, e, a, n, d, r, o,  , F, i, r, m, i, n, o",7.916935483870968,0,0
+469,7.8,Tombstone,R,Action,130,"K, u, r, t,  , R, u, s, s, e, l, l, ,,  , V, a, l,  , K, i, l, m, e, r, ,,  , S, a, m,  , E, l, l, i, o, t, t",7.884558823529411,0,0
+22,8.7,It's a Wonderful Life,APPROVED,Drama,130,"J, a, m, e, s,  , S, t, e, w, a, r, t, ,,  , D, o, n, n, a,  , R, e, e, d, ,,  , L, i, o, n, e, l,  , B, a, r, r, y, m, o, r, e",7.902517985611511,0,0
+53,8.5,The Prestige,PG-13,Drama,130,"C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , H, u, g, h,  , J, a, c, k, m, a, n, ,,  , S, c, a, r, l, e, t, t,  , J, o, h, a, n, s, s, o, n",7.902517985611511,0,0
+893,7.5,In the Bedroom,R,Crime,130,"T, o, m,  , W, i, l, k, i, n, s, o, n, ,,  , S, i, s, s, y,  , S, p, a, c, e, k, ,,  , N, i, c, k,  , S, t, a, h, l",7.916935483870968,0,0
+561,7.8,Serpico,R,Biography,130,"A, l,  , P, a, c, i, n, o, ,,  , J, o, h, n,  , R, a, n, d, o, l, p, h, ,,  , J, a, c, k,  , K, e, h, o, e",7.862337662337662,0,0
+556,7.8,The Name of the Rose,R,Crime,130,"S, e, a, n,  , C, o, n, n, e, r, y, ,,  , C, h, r, i, s, t, i, a, n,  , S, l, a, t, e, r, ,,  , H, e, l, m, u, t,  , Q, u, a, l, t, i, n, g, e, r",7.916935483870968,0,0
+833,7.5,The Life of David Gale,R,Crime,130,"K, e, v, i, n,  , S, p, a, c, e, y, ,,  , K, a, t, e,  , W, i, n, s, l, e, t, ,,  , L, a, u, r, a,  , L, i, n, n, e, y",7.916935483870968,0,0
+211,8.1,Departures,PG-13,Drama,130,"M, a, s, a, h, i, r, o,  , M, o, t, o, k, i, ,,  , R, y, ô, k, o,  , H, i, r, o, s, u, e, ,,  , T, s, u, t, o, m, u,  , Y, a, m, a, z, a, k, i",7.902517985611511,0,0
+130,8.3,Chinatown,R,Drama,130,"J, a, c, k,  , N, i, c, h, o, l, s, o, n, ,,  , F, a, y, e,  , D, u, n, a, w, a, y, ,,  , J, o, h, n,  , H, u, s, t, o, n",7.902517985611511,0,0
+149,8.2,Rebecca,NOT RATED,Mystery,130,"L, a, u, r, e, n, c, e,  , O, l, i, v, i, e, r, ,,  , J, o, a, n,  , F, o, n, t, a, i, n, e, ,,  , G, e, o, r, g, e,  , S, a, n, d, e, r, s",7.975,0,0
+539,7.8,The Fugitive,PG-13,Action,130,"H, a, r, r, i, s, o, n,  , F, o, r, d, ,,  , T, o, m, m, y,  , L, e, e,  , J, o, n, e, s, ,,  , S, e, l, a,  , W, a, r, d",7.884558823529411,0,0
+222,8.1,Harry Potter and the Deathly Hallows: Part 2,PG-13,Adventure,130,"D, a, n, i, e, l,  , R, a, d, c, l, i, f, f, e, ,,  , E, m, m, a,  , W, a, t, s, o, n, ,,  , R, u, p, e, r, t,  , G, r, i, n, t",7.933333333333334,0,0
+922,7.5,Mud,PG-13,Drama,130,"M, a, t, t, h, e, w,  , M, c, C, o, n, a, u, g, h, e, y, ,,  , T, y, e,  , S, h, e, r, i, d, a, n, ,,  , J, a, c, o, b,  , L, o, f, l, a, n, d",7.902517985611511,0,0
+706,7.6,Fried Green Tomatoes,PG-13,Drama,130,"K, a, t, h, y,  , B, a, t, e, s, ,,  , J, e, s, s, i, c, a,  , T, a, n, d, y, ,,  , M, a, r, y,  , S, t, u, a, r, t,  , M, a, s, t, e, r, s, o, n",7.902517985611511,0,0
+428,7.9,Le passe,PG-13,Drama,130,"B, é, r, é, n, i, c, e,  , B, e, j, o, ,,  , T, a, h, a, r,  , R, a, h, i, m, ,,  , A, l, i,  , M, o, s, a, f, f, a",7.902517985611511,0,0
+141,8.3,The Secret in Their Eyes,R,Drama,129,"R, i, c, a, r, d, o,  , D, a, r, í, n, ,,  , S, o, l, e, d, a, d,  , V, i, l, l, a, m, i, l, ,,  , P, a, b, l, o,  , R, a, g, o",7.902517985611511,0,0
+910,7.5,2046,R,Drama,129,"T, o, n, y,  , C, h, i, u,  , W, a, i,  , L, e, u, n, g, ,,  , Z, i, y, i,  , Z, h, a, n, g, ,,  , F, a, y, e,  , W, o, n, g",7.902517985611511,0,0
+194,8.1,Kingsman: The Secret Service,R,Action,129,"C, o, l, i, n,  , F, i, r, t, h, ,,  , T, a, r, o, n,  , E, g, e, r, t, o, n, ,,  , S, a, m, u, e, l,  , L, .,  , J, a, c, k, s, o, n",7.884558823529411,0,0
+420,7.9,The Man Who Would Be King,PG,Action,129,"S, e, a, n,  , C, o, n, n, e, r, y, ,,  , M, i, c, h, a, e, l,  , C, a, i, n, e, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , P, l, u, m, m, e, r",7.884558823529411,0,0
+697,7.7,Inside Man,R,Crime,129,"D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , C, l, i, v, e,  , O, w, e, n, ,,  , J, o, d, i, e,  , F, o, s, t, e, r",7.916935483870968,0,0
+188,8.2,The Grapes of Wrath,NOT RATED,Drama,129,"H, e, n, r, y,  , F, o, n, d, a, ,,  , J, a, n, e,  , D, a, r, w, e, l, l, ,,  , J, o, h, n,  , C, a, r, r, a, d, i, n, e",7.902517985611511,0,0
+858,7.5,Sherlock Holmes: A Game of Shadows,PG-13,Action,129,"R, o, b, e, r, t,  , D, o, w, n, e, y,  , J, r, ., ,,  , J, u, d, e,  , L, a, w, ,,  , J, a, r, e, d,  , H, a, r, r, i, s",7.884558823529411,0,0
+525,7.8,Pride & Prejudice,PG,Drama,129,"K, e, i, r, a,  , K, n, i, g, h, t, l, e, y, ,,  , M, a, t, t, h, e, w,  , M, a, c, f, a, d, y, e, n, ,,  , B, r, e, n, d, a,  , B, l, e, t, h, y, n",7.902517985611511,0,0
+116,8.3,Mr. Smith Goes to Washington,NOT RATED,Drama,129,"J, a, m, e, s,  , S, t, e, w, a, r, t, ,,  , J, e, a, n,  , A, r, t, h, u, r, ,,  , C, l, a, u, d, e,  , R, a, i, n, s",7.902517985611511,0,0
+97,8.4,The Sting,PG,Comedy,129,"P, a, u, l,  , N, e, w, m, a, n, ,,  , R, o, b, e, r, t,  , R, e, d, f, o, r, d, ,,  , R, o, b, e, r, t,  , S, h, a, w",7.822435897435897,0,0
+616,7.7,Sympathy for Mr. Vengeance,R,Crime,129,"K, a, n, g, -, h, o,  , S, o, n, g, ,,  , H, a, -, k, y, u, n,  , S, h, i, n, ,,  , D, o, o, n, a,  , B, a, e",7.916935483870968,0,0
+648,7.7,Primal Fear,R,Crime,129,"R, i, c, h, a, r, d,  , G, e, r, e, ,,  , L, a, u, r, a,  , L, i, n, n, e, y, ,,  , E, d, w, a, r, d,  , N, o, r, t, o, n",7.916935483870968,0,0
+879,7.5,The Constant Gardener,R,Drama,129,"R, a, l, p, h,  , F, i, e, n, n, e, s, ,,  , R, a, c, h, e, l,  , W, e, i, s, z, ,,  , H, u, b, e, r, t,  , K, o, u, n, d, é",7.902517985611511,0,0
+627,7.7,The Blind Side,PG-13,Biography,129,"Q, u, i, n, t, o, n,  , A, a, r, o, n, ,,  , S, a, n, d, r, a,  , B, u, l, l, o, c, k, ,,  , T, i, m,  , M, c, G, r, a, w",7.862337662337662,0,0
+264,8.1,Twelve Monkeys,R,Mystery,129,"B, r, u, c, e,  , W, i, l, l, i, s, ,,  , M, a, d, e, l, e, i, n, e,  , S, t, o, w, e, ,,  , B, r, a, d,  , P, i, t, t",7.975,0,0
+527,7.8,Night on Earth,R,Comedy,129,"W, i, n, o, n, a,  , R, y, d, e, r, ,,  , G, e, n, a,  , R, o, w, l, a, n, d, s, ,,  , L, i, s, a, n, n, e,  , F, a, l, k",7.822435897435897,0,0
+124,8.3,Raging Bull,R,Biography,129,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , C, a, t, h, y,  , M, o, r, i, a, r, t, y, ,,  , J, o, e,  , P, e, s, c, i",7.862337662337662,0,0
+83,8.4,To Kill a Mockingbird,NOT RATED,Drama,129,"G, r, e, g, o, r, y,  , P, e, c, k, ,,  , J, o, h, n,  , M, e, g, n, a, ,,  , F, r, a, n, k,  , O, v, e, r, t, o, n",7.902517985611511,0,0
+558,7.8,The Game,R,Drama,129,"M, i, c, h, a, e, l,  , D, o, u, g, l, a, s, ,,  , D, e, b, o, r, a, h,  , K, a, r, a,  , U, n, g, e, r, ,,  , S, e, a, n,  , P, e, n, n",7.902517985611511,0,0
+756,7.6,Selma,PG-13,Biography,128,"D, a, v, i, d,  , O, y, e, l, o, w, o, ,,  , C, a, r, m, e, n,  , E, j, o, g, o, ,,  , T, i, m,  , R, o, t, h",7.862337662337662,0,0
+409,7.9,Hard Boiled,R,Action,128,"Y, u, n, -, F, a, t,  , C, h, o, w, ,,  , T, o, n, y,  , C, h, i, u,  , W, a, i,  , L, e, u, n, g, ,,  , T, e, r, e, s, a,  , M, o",7.884558823529411,0,0
+824,7.5,42,PG-13,Biography,128,"C, h, a, d, w, i, c, k,  , B, o, s, e, m, a, n, ,,  , T, ., R, .,  , K, n, i, g, h, t, ,,  , H, a, r, r, i, s, o, n,  , F, o, r, d",7.862337662337662,0,0
+270,8.1,Wings of Desire,PG-13,Drama,128,"B, r, u, n, o,  , G, a, n, z, ,,  , S, o, l, v, e, i, g,  , D, o, m, m, a, r, t, i, n, ,,  , O, t, t, o,  , S, a, n, d, e, r",7.902517985611511,0,0
+936,7.4,True Grit,,Adventure,128,"J, o, h, n,  , W, a, y, n, e, ,,  , K, i, m,  , D, a, r, b, y, ,,  , G, l, e, n,  , C, a, m, p, b, e, l, l",7.933333333333334,0,0
+838,7.5,The Class,PG-13,Drama,128,"F, r, a, n, ç, o, i, s,  , B, é, g, a, u, d, e, a, u, ,,  , A, g, a, m, e,  , M, a, l, e, m, b, o, -, E, m, e, n, e, ,,  , A, n, g, é, l, i, c, a,  , S, a, n, c, i, o",7.902517985611511,0,0
+76,8.4,Vertigo,APPROVED,Mystery,128,"J, a, m, e, s,  , S, t, e, w, a, r, t, ,,  , K, i, m,  , N, o, v, a, k, ,,  , B, a, r, b, a, r, a,  , B, e, l,  , G, e, d, d, e, s",7.975,0,0
+493,7.8,Mississippi Burning,R,Crime,128,"G, e, n, e,  , H, a, c, k, m, a, n, ,,  , W, i, l, l, e, m,  , D, a, f, o, e, ,,  , F, r, a, n, c, e, s,  , M, c, D, o, r, m, a, n, d",7.916935483870968,0,0
+491,7.8,The Magnificent Seven,NOT RATED,Action,128,"Y, u, l,  , B, r, y, n, n, e, r, ,,  , S, t, e, v, e,  , M, c, Q, u, e, e, n, ,,  , C, h, a, r, l, e, s,  , B, r, o, n, s, o, n",7.884558823529411,0,0
+726,7.6,Sherlock Holmes,PG-13,Action,128,"R, o, b, e, r, t,  , D, o, w, n, e, y,  , J, r, ., ,,  , J, u, d, e,  , L, a, w, ,,  , R, a, c, h, e, l,  , M, c, A, d, a, m, s",7.884558823529411,0,0
+342,8.0,Dead Poets Society,PG,Drama,128,"R, o, b, i, n,  , W, i, l, l, i, a, m, s, ,,  , R, o, b, e, r, t,  , S, e, a, n,  , L, e, o, n, a, r, d, ,,  , E, t, h, a, n,  , H, a, w, k, e",7.902517985611511,0,0
+905,7.5,Dracula,R,Horror,128,"G, a, r, y,  , O, l, d, m, a, n, ,,  , W, i, n, o, n, a,  , R, y, d, e, r, ,,  , A, n, t, h, o, n, y,  , H, o, p, k, i, n, s",7.806896551724138,0,0
+718,7.6,The Kite Runner,PG-13,Drama,128,"K, h, a, l, i, d,  , A, b, d, a, l, l, a, ,,  , A, h, m, a, d,  , K, h, a, n,  , M, a, h, m, o, o, d, z, a, d, a, ,,  , A, t, o, s, s, a,  , L, e, o, n, i",7.902517985611511,0,0
+700,7.6,Milk,R,Biography,128,"S, e, a, n,  , P, e, n, n, ,,  , J, o, s, h,  , B, r, o, l, i, n, ,,  , E, m, i, l, e,  , H, i, r, s, c, h",7.862337662337662,0,0
+560,7.8,Donnie Brasco,R,Biography,127,"A, l,  , P, a, c, i, n, o, ,,  , J, o, h, n, n, y,  , D, e, p, p, ,,  , M, i, c, h, a, e, l,  , M, a, d, s, e, n",7.862337662337662,0,0
+336,8.0,Life of Pi,PG,Adventure,127,"S, u, r, a, j,  , S, h, a, r, m, a, ,,  , I, r, r, f, a, n,  , K, h, a, n, ,,  , A, d, i, l,  , H, u, s, s, a, i, n",7.933333333333334,0,0
+605,7.7,Stardust,PG-13,Adventure,127,"C, h, a, r, l, i, e,  , C, o, x, ,,  , C, l, a, i, r, e,  , D, a, n, e, s, ,,  , S, i, e, n, n, a,  , M, i, l, l, e, r",7.933333333333334,0,0
+118,8.3,Indiana Jones and the Last Crusade,PG-13,Action,127,"H, a, r, r, i, s, o, n,  , F, o, r, d, ,,  , S, e, a, n,  , C, o, n, n, e, r, y, ,,  , A, l, i, s, o, n,  , D, o, o, d, y",7.884558823529411,0,0
+24,8.7,Se7en,R,Drama,127,"M, o, r, g, a, n,  , F, r, e, e, m, a, n, ,,  , B, r, a, d,  , P, i, t, t, ,,  , K, e, v, i, n,  , S, p, a, c, e, y",7.902517985611511,0,0
+418,7.9,Ed Wood,R,Biography,127,"J, o, h, n, n, y,  , D, e, p, p, ,,  , M, a, r, t, i, n,  , L, a, n, d, a, u, ,,  , S, a, r, a, h,  , J, e, s, s, i, c, a,  , P, a, r, k, e, r",7.862337662337662,0,0
+679,7.7,Moulin Rouge!,PG-13,Drama,127,"N, i, c, o, l, e,  , K, i, d, m, a, n, ,,  , E, w, a, n,  , M, c, G, r, e, g, o, r, ,,  , J, o, h, n,  , L, e, g, u, i, z, a, m, o",7.902517985611511,0,0
+189,8.2,"Black Cat, White Cat",R,Comedy,127,"B, a, j, r, a, m,  , S, e, v, e, r, d, z, a, n, ,,  , S, r, d, j, a, n,  , T, o, d, o, r, o, v, i, c, ,,  , B, r, a, n, k, a,  , K, a, t, i, c",7.822435897435897,0,0
+317,8.0,Dawn of the Dead,UNRATED,Horror,127,"D, a, v, i, d,  , E, m, g, e, ,,  , K, e, n,  , F, o, r, e, e, ,,  , S, c, o, t, t,  , H, .,  , R, e, i, n, i, g, e, r",7.806896551724138,0,0
+299,8.0,Jurassic Park,PG-13,Adventure,127,"S, a, m,  , N, e, i, l, l, ,,  , L, a, u, r, a,  , D, e, r, n, ,,  , J, e, f, f,  , G, o, l, d, b, l, u, m",7.933333333333334,0,0
+460,7.9,The World's Fastest Indian,PG-13,Biography,127,"A, n, t, h, o, n, y,  , H, o, p, k, i, n, s, ,,  , D, i, a, n, e,  , L, a, d, d, ,,  , I, a, i, n,  , R, e, a",7.862337662337662,0,0
+312,8.0,Star Trek,PG-13,Action,127,"C, h, r, i, s,  , P, i, n, e, ,,  , Z, a, c, h, a, r, y,  , Q, u, i, n, t, o, ,,  , S, i, m, o, n,  , P, e, g, g",7.884558823529411,0,0
+827,7.5,The Wind That Shakes the Barley,NOT RATED,Drama,127,"C, i, l, l, i, a, n,  , M, u, r, p, h, y, ,,  , P, a, d, r, a, i, c,  , D, e, l, a, n, e, y, ,,  , L, i, a, m,  , C, u, n, n, i, n, g, h, a, m",7.902517985611511,0,0
+477,7.8,Amour,PG-13,Drama,127,"J, e, a, n, -, L, o, u, i, s,  , T, r, i, n, t, i, g, n, a, n, t, ,,  , E, m, m, a, n, u, e, l, l, e,  , R, i, v, a, ,,  , I, s, a, b, e, l, l, e,  , H, u, p, p, e, r, t",7.902517985611511,0,0
+780,7.6,Midnight Run,R,Action,126,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , C, h, a, r, l, e, s,  , G, r, o, d, i, n, ,,  , Y, a, p, h, e, t,  , K, o, t, t, o",7.884558823529411,0,0
+479,7.8,The Motorcycle Diaries,R,Adventure,126,"G, a, e, l,  , G, a, r, c, í, a,  , B, e, r, n, a, l, ,,  , R, o, d, r, i, g, o,  , D, e,  , l, a,  , S, e, r, n, a, ,,  , M, í, a,  , M, a, e, s, t, r, o",7.933333333333334,0,0
+973,7.4,The Cider House Rules,PG-13,Drama,126,"T, o, b, e, y,  , M, a, g, u, i, r, e, ,,  , C, h, a, r, l, i, z, e,  , T, h, e, r, o, n, ,,  , M, i, c, h, a, e, l,  , C, a, i, n, e",7.902517985611511,0,0
+699,7.6,The Fifth Element,PG-13,Action,126,"B, r, u, c, e,  , W, i, l, l, i, s, ,,  , M, i, l, l, a,  , J, o, v, o, v, i, c, h, ,,  , G, a, r, y,  , O, l, d, m, a, n",7.884558823529411,0,0
+791,7.6,Sideways,R,Comedy,126,"P, a, u, l,  , G, i, a, m, a, t, t, i, ,,  , T, h, o, m, a, s,  , H, a, d, e, n,  , C, h, u, r, c, h, ,,  , V, i, r, g, i, n, i, a,  , M, a, d, s, e, n",7.822435897435897,0,0
+434,7.9,Iron Man,PG-13,Action,126,"R, o, b, e, r, t,  , D, o, w, n, e, y,  , J, r, ., ,,  , G, w, y, n, e, t, h,  , P, a, l, t, r, o, w, ,,  , T, e, r, r, e, n, c, e,  , H, o, w, a, r, d",7.884558823529411,0,0
+721,7.6,House of Sand and Fog,R,Drama,126,"J, e, n, n, i, f, e, r,  , C, o, n, n, e, l, l, y, ,,  , B, e, n,  , K, i, n, g, s, l, e, y, ,,  , R, o, n,  , E, l, d, a, r, d",7.902517985611511,0,0
+377,8.0,The Fault in Our Stars,PG-13,Drama,126,"S, h, a, i, l, e, n, e,  , W, o, o, d, l, e, y, ,,  , A, n, s, e, l,  , E, l, g, o, r, t, ,,  , N, a, t,  , W, o, l, f, f",7.902517985611511,0,0
+794,7.6,Hugo,PG,Adventure,126,"A, s, a,  , B, u, t, t, e, r, f, i, e, l, d, ,,  , C, h, l, o, ë,  , G, r, a, c, e,  , M, o, r, e, t, z, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , L, e, e",7.933333333333334,0,0
+487,7.8,Kaze tachinu,PG-13,Animation,126,"H, i, d, e, a, k, i,  , A, n, n, o, ,,  , H, i, d, e, t, o, s, h, i,  , N, i, s, h, i, j, i, m, a, ,,  , M, i, o, r, i,  , T, a, k, i, m, o, t, o",7.914516129032258,0,0
+801,7.6,Batman,PG-13,Action,126,"M, i, c, h, a, e, l,  , K, e, a, t, o, n, ,,  , J, a, c, k,  , N, i, c, h, o, l, s, o, n, ,,  , K, i, m,  , B, a, s, i, n, g, e, r",7.884558823529411,0,0
+782,7.6,The Great Debaters,PG-13,Biography,126,"D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , F, o, r, e, s, t,  , W, h, i, t, a, k, e, r, ,,  , K, i, m, b, e, r, l, y,  , E, l, i, s, e",7.862337662337662,0,0
+978,7.4,Wall Street,R,Crime,126,"C, h, a, r, l, i, e,  , S, h, e, e, n, ,,  , M, i, c, h, a, e, l,  , D, o, u, g, l, a, s, ,,  , T, a, m, a, r, a,  , T, u, n, i, e",7.916935483870968,0,0
+154,8.2,Cool Hand Luke,PG,Crime,126,"P, a, u, l,  , N, e, w, m, a, n, ,,  , G, e, o, r, g, e,  , K, e, n, n, e, d, y, ,,  , S, t, r, o, t, h, e, r,  , M, a, r, t, i, n",7.916935483870968,0,0
+100,8.3,The Treasure of the Sierra Madre,NOT RATED,Action,126,"H, u, m, p, h, r, e, y,  , B, o, g, a, r, t, ,,  , W, a, l, t, e, r,  , H, u, s, t, o, n, ,,  , T, i, m,  , H, o, l, t",7.884558823529411,0,0
+139,8.3,Good Will Hunting,R,Drama,126,"R, o, b, i, n,  , W, i, l, l, i, a, m, s, ,,  , M, a, t, t,  , D, a, m, o, n, ,,  , B, e, n,  , A, f, f, l, e, c, k",7.902517985611511,0,0
+323,8.0,Her,R,Drama,126,"J, o, a, q, u, i, n,  , P, h, o, e, n, i, x, ,,  , A, m, y,  , A, d, a, m, s, ,,  , S, c, a, r, l, e, t, t,  , J, o, h, a, n, s, s, o, n",7.902517985611511,0,0
+292,8.1,The Manchurian Candidate,APPROVED,Mystery,126,"F, r, a, n, k,  , S, i, n, a, t, r, a, ,,  , L, a, u, r, e, n, c, e,  , H, a, r, v, e, y, ,,  , J, a, n, e, t,  , L, e, i, g, h",7.975,0,0
+817,7.6,Saving Mr. Banks,PG-13,Biography,125,"E, m, m, a,  , T, h, o, m, p, s, o, n, ,,  , T, o, m,  , H, a, n, k, s, ,,  , A, n, n, i, e,  , R, o, s, e,  , B, u, c, k, l, e, y",7.862337662337662,0,0
+52,8.5,The Great Dictator,APPROVED,Comedy,125,"C, h, a, r, l, e, s,  , C, h, a, p, l, i, n, ,,  , P, a, u, l, e, t, t, e,  , G, o, d, d, a, r, d, ,,  , J, a, c, k,  , O, a, k, i, e",7.822435897435897,0,0
+310,8.0,Big Fish,PG-13,Adventure,125,"E, w, a, n,  , M, c, G, r, e, g, o, r, ,,  , A, l, b, e, r, t,  , F, i, n, n, e, y, ,,  , B, i, l, l, y,  , C, r, u, d, u, p",7.933333333333334,0,0
+843,7.5,Marathon Man,R,Crime,125,"D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , L, a, u, r, e, n, c, e,  , O, l, i, v, i, e, r, ,,  , R, o, y,  , S, c, h, e, i, d, e, r",7.916935483870968,0,0
+845,7.5,The Painted Veil,PG-13,Drama,125,"N, a, o, m, i,  , W, a, t, t, s, ,,  , E, d, w, a, r, d,  , N, o, r, t, o, n, ,,  , L, i, e, v,  , S, c, h, r, e, i, b, e, r",7.902517985611511,0,0
+260,8.1,The Sea Inside,PG-13,Biography,125,"J, a, v, i, e, r,  , B, a, r, d, e, m, ,,  , B, e, l, é, n,  , R, u, e, d, a, ,,  , L, o, l, a,  , D, u, e, ñ, a, s",7.862337662337662,0,0
+834,7.5,Life as a House,R,Drama,125,"H, a, y, d, e, n,  , C, h, r, i, s, t, e, n, s, e, n, ,,  , K, e, v, i, n,  , K, l, i, n, e, ,,  , K, r, i, s, t, i, n,  , S, c, o, t, t,  , T, h, o, m, a, s",7.902517985611511,0,0
+644,7.7,Philadelphia,PG-13,Drama,125,"T, o, m,  , H, a, n, k, s, ,,  , D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , R, o, b, e, r, t, a,  , M, a, x, w, e, l, l",7.902517985611511,0,0
+30,8.6,Spirited Away,PG,Animation,125,"D, a, v, e, i, g, h,  , C, h, a, s, e, ,,  , S, u, z, a, n, n, e,  , P, l, e, s, h, e, t, t, e, ,,  , M, i, y, u,  , I, r, i, n, o",7.914516129032258,0,0
+498,7.8,Fantasia,G,Animation,125,"L, e, o, p, o, l, d,  , S, t, o, k, o, w, s, k, i, ,,  , D, e, e, m, s,  , T, a, y, l, o, r, ,,  , C, o, r, e, y,  , B, u, r, t, o, n",7.914516129032258,0,0
+278,8.1,Dog Day Afternoon,R,Crime,125,"A, l,  , P, a, c, i, n, o, ,,  , J, o, h, n,  , C, a, z, a, l, e, ,,  , P, e, n, e, l, o, p, e,  , A, l, l, e, n",7.916935483870968,0,0
+786,7.6,The Town,R,Crime,125,"B, e, n,  , A, f, f, l, e, c, k, ,,  , R, e, b, e, c, c, a,  , H, a, l, l, ,,  , J, o, n,  , H, a, m, m",7.916935483870968,0,0
+103,8.3,The Apartment,APPROVED,Comedy,125,"J, a, c, k,  , L, e, m, m, o, n, ,,  , S, h, i, r, l, e, y,  , M, a, c, L, a, i, n, e, ,,  , F, r, e, d,  , M, a, c, M, u, r, r, a, y",7.822435897435897,0,0
+898,7.5,The Mission,PG,Adventure,125,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , J, e, r, e, m, y,  , I, r, o, n, s, ,,  , R, a, y,  , M, c, A, n, a, l, l, y",7.933333333333334,0,0
+267,8.1,Jaws,PG,Drama,124,"R, o, y,  , S, c, h, e, i, d, e, r, ,,  , R, o, b, e, r, t,  , S, h, a, w, ,,  , R, i, c, h, a, r, d,  , D, r, e, y, f, u, s, s",7.902517985611511,0,0
+857,7.5,Pleasantville,PG-13,Comedy,124,"T, o, b, e, y,  , M, a, g, u, i, r, e, ,,  , J, e, f, f,  , D, a, n, i, e, l, s, ,,  , J, o, a, n,  , A, l, l, e, n",7.822435897435897,0,0
+256,8.1,Akira,R,Animation,124,"N, o, z, o, m, u,  , S, a, s, a, k, i, ,,  , M, a, m, i,  , K, o, y, a, m, a, ,,  , M, i, t, s, u, o,  , I, w, a, t, a",7.914516129032258,0,0
+473,7.8,Ordinary People,R,Drama,124,"D, o, n, a, l, d,  , S, u, t, h, e, r, l, a, n, d, ,,  , M, a, r, y,  , T, y, l, e, r,  , M, o, o, r, e, ,,  , J, u, d, d,  , H, i, r, s, c, h",7.902517985611511,0,0
+829,7.5,Elizabeth,R,Biography,124,"C, a, t, e,  , B, l, a, n, c, h, e, t, t, ,,  , G, e, o, f, f, r, e, y,  , R, u, s, h, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , E, c, c, l, e, s, t, o, n",7.862337662337662,0,0
+241,8.1,Castle in the Sky,PG,Animation,124,"A, n, n, a,  , P, a, q, u, i, n, ,,  , J, a, m, e, s,  , V, a, n,  , D, e, r,  , B, e, e, k, ,,  , C, l, o, r, i, s,  , L, e, a, c, h, m, a, n",7.914516129032258,0,0
+831,7.5,Reign Over Me,R,Drama,124,"A, d, a, m,  , S, a, n, d, l, e, r, ,,  , D, o, n,  , C, h, e, a, d, l, e, ,,  , J, a, d, a,  , P, i, n, k, e, t, t,  , S, m, i, t, h",7.902517985611511,0,0
+448,7.9,Cabaret,PG,Drama,124,"L, i, z, a,  , M, i, n, n, e, l, l, i, ,,  , M, i, c, h, a, e, l,  , Y, o, r, k, ,,  , H, e, l, m, u, t,  , G, r, i, e, m",7.902517985611511,0,0
+596,7.7,21 Grams,R,Crime,124,"S, e, a, n,  , P, e, n, n, ,,  , B, e, n, i, c, i, o,  , D, e, l,  , T, o, r, o, ,,  , N, a, o, m, i,  , W, a, t, t, s",7.916935483870968,0,0
+768,7.6,The Reader,R,Drama,124,"K, a, t, e,  , W, i, n, s, l, e, t, ,,  , R, a, l, p, h,  , F, i, e, n, n, e, s, ,,  , B, r, u, n, o,  , G, a, n, z",7.902517985611511,0,0
+635,7.7,Match Point,R,Drama,124,"S, c, a, r, l, e, t, t,  , J, o, h, a, n, s, s, o, n, ,,  , J, o, n, a, t, h, a, n,  , R, h, y, s,  , M, e, y, e, r, s, ,,  , E, m, i, l, y,  , M, o, r, t, i, m, e, r",7.902517985611511,0,0
+12,8.8,Star Wars: Episode V - The Empire Strikes Back,PG,Action,124,"M, a, r, k,  , H, a, m, i, l, l, ,,  , H, a, r, r, i, s, o, n,  , F, o, r, d, ,,  , C, a, r, r, i, e,  , F, i, s, h, e, r",7.884558823529411,0,0
+693,7.7,The Player,R,Comedy,124,"T, i, m,  , R, o, b, b, i, n, s, ,,  , G, r, e, t, a,  , S, c, a, c, c, h, i, ,,  , F, r, e, d,  , W, a, r, d",7.822435897435897,0,0
+216,8.1,Sin City,R,Crime,124,"M, i, c, k, e, y,  , R, o, u, r, k, e, ,,  , C, l, i, v, e,  , O, w, e, n, ,,  , B, r, u, c, e,  , W, i, l, l, i, s",7.916935483870968,0,0
+725,7.6,Blow,R,Biography,124,"J, o, h, n, n, y,  , D, e, p, p, ,,  , P, e, n, é, l, o, p, e,  , C, r, u, z, ,,  , F, r, a, n, k, a,  , P, o, t, e, n, t, e",7.862337662337662,0,0
+148,8.2,The Elephant Man,PG,Biography,124,"A, n, t, h, o, n, y,  , H, o, p, k, i, n, s, ,,  , J, o, h, n,  , H, u, r, t, ,,  , A, n, n, e,  , B, a, n, c, r, o, f, t",7.862337662337662,0,0
+876,7.5,Freedom Writers,PG-13,Biography,123,"H, i, l, a, r, y,  , S, w, a, n, k, ,,  , I, m, e, l, d, a,  , S, t, a, u, n, t, o, n, ,,  , P, a, t, r, i, c, k,  , D, e, m, p, s, e, y",7.862337662337662,0,0
+251,8.1,The Man Who Shot Liberty Valance,APPROVED,Drama,123,"J, a, m, e, s,  , S, t, e, w, a, r, t, ,,  , J, o, h, n,  , W, a, y, n, e, ,,  , V, e, r, a,  , M, i, l, e, s",7.902517985611511,0,0
+73,8.4,Jodaeiye Nader az Simin,PG-13,Drama,123,"P, e, y, m, a, n,  , M, o, a, a, d, i, ,,  , L, e, i, l, a,  , H, a, t, a, m, i, ,,  , S, a, r, e, h,  , B, a, y, a, t",7.902517985611511,0,0
+689,7.7,Seven Pounds,PG-13,Drama,123,"W, i, l, l,  , S, m, i, t, h, ,,  , R, o, s, a, r, i, o,  , D, a, w, s, o, n, ,,  , W, o, o, d, y,  , H, a, r, r, e, l, s, o, n",7.902517985611511,0,0
+601,7.7,The Last King of Scotland,R,Biography,123,"J, a, m, e, s,  , M, c, A, v, o, y, ,,  , F, o, r, e, s, t,  , W, h, i, t, a, k, e, r, ,,  , G, i, l, l, i, a, n,  , A, n, d, e, r, s, o, n",7.862337662337662,0,0
+779,7.6,Interview with the Vampire: The Vampire Chronicles,R,Horror,123,"B, r, a, d,  , P, i, t, t, ,,  , T, o, m,  , C, r, u, i, s, e, ,,  , A, n, t, o, n, i, o,  , B, a, n, d, e, r, a, s",7.806896551724138,0,0
+505,7.8,About Time,R,Drama,123,"D, o, m, h, n, a, l, l,  , G, l, e, e, s, o, n, ,,  , R, a, c, h, e, l,  , M, c, A, d, a, m, s, ,,  , B, i, l, l,  , N, i, g, h, y",7.902517985611511,0,0
+367,8.0,Amarcord,R,Comedy,123,"M, a, g, a, l, i,  , N, o, ë, l, ,,  , B, r, u, n, o,  , Z, a, n, i, n, ,,  , P, u, p, e, l, l, a,  , M, a, g, g, i, o",7.822435897435897,0,0
+530,7.8,Atonement,R,Drama,123,"K, e, i, r, a,  , K, n, i, g, h, t, l, e, y, ,,  , J, a, m, e, s,  , M, c, A, v, o, y, ,,  , B, r, e, n, d, a,  , B, l, e, t, h, y, n",7.902517985611511,0,0
+163,8.2,Rush,R,Action,123,"D, a, n, i, e, l,  , B, r, ü, h, l, ,,  , C, h, r, i, s,  , H, e, m, s, w, o, r, t, h, ,,  , O, l, i, v, i, a,  , W, i, l, d, e",7.884558823529411,0,0
+550,7.8,The Theory of Everything,PG-13,Biography,123,"E, d, d, i, e,  , R, e, d, m, a, y, n, e, ,,  , F, e, l, i, c, i, t, y,  , J, o, n, e, s, ,,  , T, o, m,  , P, r, i, o, r",7.862337662337662,0,0
+165,8.2,My Sassy Girl,NOT RATED,Comedy,123,"T, a, e, -, h, y, u, n,  , C, h, a, ,,  , G, i, a, n, n, a,  , J, u, n, ,,  , I, n, -, m, u, n,  , K, i, m",7.822435897435897,0,0
+397,7.9,The Notebook,PG-13,Drama,123,"G, e, n, a,  , R, o, w, l, a, n, d, s, ,,  , J, a, m, e, s,  , G, a, r, n, e, r, ,,  , R, a, c, h, e, l,  , M, c, A, d, a, m, s",7.902517985611511,0,0
+322,8.0,The Exorcist,R,Horror,122,"E, l, l, e, n,  , B, u, r, s, t, y, n, ,,  , M, a, x,  , v, o, n,  , S, y, d, o, w, ,,  , L, i, n, d, a,  , B, l, a, i, r",7.806896551724138,0,0
+284,8.1,A Streetcar Named Desire,PG,Drama,122,"V, i, v, i, e, n,  , L, e, i, g, h, ,,  , M, a, r, l, o, n,  , B, r, a, n, d, o, ,,  , K, i, m,  , H, u, n, t, e, r",7.902517985611511,0,0
+67,8.4,American Beauty,R,Drama,122,"K, e, v, i, n,  , S, p, a, c, e, y, ,,  , A, n, n, e, t, t, e,  , B, e, n, i, n, g, ,,  , T, h, o, r, a,  , B, i, r, c, h",7.902517985611511,0,0
+724,7.6,Lord of War,R,Crime,122,"N, i, c, o, l, a, s,  , C, a, g, e, ,,  , E, t, h, a, n,  , H, a, w, k, e, ,,  , J, a, r, e, d,  , L, e, t, o",7.916935483870968,0,0
+784,7.6,Dead Man Walking,R,Crime,122,"S, u, s, a, n,  , S, a, r, a, n, d, o, n, ,,  , S, e, a, n,  , P, e, n, n, ,,  , R, o, b, e, r, t,  , P, r, o, s, k, y",7.916935483870968,0,0
+199,8.1,No Country for Old Men,R,Crime,122,"T, o, m, m, y,  , L, e, e,  , J, o, n, e, s, ,,  , J, a, v, i, e, r,  , B, a, r, d, e, m, ,,  , J, o, s, h,  , B, r, o, l, i, n",7.916935483870968,0,0
+155,8.2,Relatos salvajes,R,Comedy,122,"D, a, r, í, o,  , G, r, a, n, d, i, n, e, t, t, i, ,,  , M, a, r, í, a,  , M, a, r, u, l, l, ,,  , M, ó, n, i, c, a,  , V, i, l, l, a",7.822435897435897,0,0
+396,7.9,Almost Famous,R,Drama,122,"B, i, l, l, y,  , C, r, u, d, u, p, ,,  , P, a, t, r, i, c, k,  , F, u, g, i, t, ,,  , K, a, t, e,  , H, u, d, s, o, n",7.902517985611511,0,0
+70,8.4,Amelie,R,Comedy,122,"A, u, d, r, e, y,  , T, a, u, t, o, u, ,,  , M, a, t, h, i, e, u,  , K, a, s, s, o, v, i, t, z, ,,  , R, u, f, u, s",7.822435897435897,0,0
+574,7.8,Control,R,Biography,122,"S, a, m,  , R, i, l, e, y, ,,  , S, a, m, a, n, t, h, a,  , M, o, r, t, o, n, ,,  , C, r, a, i, g,  , P, a, r, k, i, n, s, o, n",7.862337662337662,0,0
+636,7.7,Training Day,R,Crime,122,"D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , E, t, h, a, n,  , H, a, w, k, e, ,,  , S, c, o, t, t,  , G, l, e, n, n",7.916935483870968,0,0
+918,7.5,Running Scared,R,Action,122,"P, a, u, l,  , W, a, l, k, e, r, ,,  , C, a, m, e, r, o, n,  , B, r, i, g, h, t, ,,  , C, h, a, z, z,  , P, a, l, m, i, n, t, e, r, i",7.884558823529411,0,0
+609,7.7,Frost/Nixon,R,Drama,122,"F, r, a, n, k,  , L, a, n, g, e, l, l, a, ,,  , M, i, c, h, a, e, l,  , S, h, e, e, n, ,,  , K, e, v, i, n,  , B, a, c, o, n",7.902517985611511,0,0
+392,8.0,Glory,R,Drama,122,"M, a, t, t, h, e, w,  , B, r, o, d, e, r, i, c, k, ,,  , D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , C, a, r, y,  , E, l, w, e, s",7.902517985611511,0,0
+555,7.8,3:10 to Yuma,R,Adventure,122,"R, u, s, s, e, l, l,  , C, r, o, w, e, ,,  , C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , B, e, n,  , F, o, s, t, e, r",7.933333333333334,0,0
+475,7.8,Silver Linings Playbook,R,Comedy,122,"B, r, a, d, l, e, y,  , C, o, o, p, e, r, ,,  , J, e, n, n, i, f, e, r,  , L, a, w, r, e, n, c, e, ,,  , R, o, b, e, r, t,  , D, e,  , N, i, r, o",7.822435897435897,0,0
+458,7.9,Hot Fuzz,R,Comedy,121,"S, i, m, o, n,  , P, e, g, g, ,,  , N, i, c, k,  , F, r, o, s, t, ,,  , M, a, r, t, i, n,  , F, r, e, e, m, a, n",7.822435897435897,0,0
+185,8.2,Network,R,Drama,121,"F, a, y, e,  , D, u, n, a, w, a, y, ,,  , W, i, l, l, i, a, m,  , H, o, l, d, e, n, ,,  , P, e, t, e, r,  , F, i, n, c, h",7.902517985611511,0,0
+741,7.6,Volver,R,Comedy,121,"P, e, n, é, l, o, p, e,  , C, r, u, z, ,,  , C, a, r, m, e, n,  , M, a, u, r, a, ,,  , L, o, l, a,  , D, u, e, ñ, a, s",7.822435897435897,0,0
+690,7.7,Midnight Express,R,Biography,121,"B, r, a, d,  , D, a, v, i, s, ,,  , I, r, e, n, e,  , M, i, r, a, c, l, e, ,,  , B, o,  , H, o, p, k, i, n, s",7.862337662337662,0,0
+749,7.6,Lone Survivor,R,Action,121,"M, a, r, k,  , W, a, h, l, b, e, r, g, ,,  , T, a, y, l, o, r,  , K, i, t, s, c, h, ,,  , E, m, i, l, e,  , H, i, r, s, c, h",7.884558823529411,0,0
+180,8.2,Hotel Rwanda,PG-13,Drama,121,"D, o, n,  , C, h, e, a, d, l, e, ,,  , S, o, p, h, i, e,  , O, k, o, n, e, d, o, ,,  , J, o, a, q, u, i, n,  , P, h, o, e, n, i, x",7.902517985611511,0,0
+900,7.5,The Three Burials of Melquiades Estrada,R,Adventure,121,"T, o, m, m, y,  , L, e, e,  , J, o, n, e, s, ,,  , B, a, r, r, y,  , P, e, p, p, e, r, ,,  , D, w, i, g, h, t,  , Y, o, a, k, a, m",7.933333333333334,0,0
+579,7.8,Awakenings,PG-13,Biography,121,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , R, o, b, i, n,  , W, i, l, l, i, a, m, s, ,,  , J, u, l, i, e,  , K, a, v, n, e, r",7.862337662337662,0,0
+785,7.6,The Piano,R,Drama,121,"H, o, l, l, y,  , H, u, n, t, e, r, ,,  , H, a, r, v, e, y,  , K, e, i, t, e, l, ,,  , S, a, m,  , N, e, i, l, l",7.902517985611511,0,0
+584,7.8,Good Bye Lenin!,R,Comedy,121,"D, a, n, i, e, l,  , B, r, ü, h, l, ,,  , K, a, t, r, i, n,  , S, a, ß, ,,  , C, h, u, l, p, a, n,  , K, h, a, m, a, t, o, v, a",7.822435897435897,0,0
+571,7.8,A Bronx Tale,R,Crime,121,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , C, h, a, z, z,  , P, a, l, m, i, n, t, e, r, i, ,,  , L, i, l, l, o,  , B, r, a, n, c, a, t, o",7.916935483870968,0,0
+594,7.7,Dead Man,R,Drama,121,"J, o, h, n, n, y,  , D, e, p, p, ,,  , G, a, r, y,  , F, a, r, m, e, r, ,,  , C, r, i, s, p, i, n,  , G, l, o, v, e, r",7.902517985611511,0,0
+196,8.1,Guardians of the Galaxy,PG-13,Action,121,"C, h, r, i, s,  , P, r, a, t, t, ,,  , V, i, n,  , D, i, e, s, e, l, ,,  , B, r, a, d, l, e, y,  , C, o, o, p, e, r",7.884558823529411,0,0
+182,8.2,The Battle of Algiers,NOT RATED,Crime,121,"B, r, a, h, i, m,  , H, a, d, j, a, d, j, ,,  , J, e, a, n,  , M, a, r, t, i, n, ,,  , Y, a, c, e, f,  , S, a, a, d, i",7.916935483870968,0,0
+19,8.7,Star Wars,PG,Action,121,"M, a, r, k,  , H, a, m, i, l, l, ,,  , H, a, r, r, i, s, o, n,  , F, o, r, d, ,,  , C, a, r, r, i, e,  , F, i, s, h, e, r",7.884558823529411,0,0
+846,7.5,A Simple Plan,R,Crime,121,"B, i, l, l,  , P, a, x, t, o, n, ,,  , B, i, l, l, y,  , B, o, b,  , T, h, o, r, n, t, o, n, ,,  , B, r, i, d, g, e, t,  , F, o, n, d, a",7.916935483870968,0,0
+344,8.0,Head-On,R,Drama,121,"B, i, r, o, l,  , Ü, n, e, l, ,,  , S, i, b, e, l,  , K, e, k, i, l, l, i, ,,  , G, ü, v, e, n,  , K, i, r, a, ç",7.902517985611511,0,0
+246,8.1,Stalag 17,NOT RATED,Comedy,120,"W, i, l, l, i, a, m,  , H, o, l, d, e, n, ,,  , D, o, n,  , T, a, y, l, o, r, ,,  , O, t, t, o,  , P, r, e, m, i, n, g, e, r",7.822435897435897,0,0
+77,8.4,Oldeuboi,R,Drama,120,"M, i, n, -, s, i, k,  , C, h, o, i, ,,  , J, i, -, t, a, e,  , Y, u, ,,  , H, y, e, -, j, e, o, n, g,  , K, a, n, g",7.902517985611511,0,0
+111,8.3,Some Like It Hot,NOT RATED,Comedy,120,"M, a, r, i, l, y, n,  , M, o, n, r, o, e, ,,  , T, o, n, y,  , C, u, r, t, i, s, ,,  , J, a, c, k,  , L, e, m, m, o, n",7.822435897435897,0,0
+945,7.4,Take Shelter,R,Drama,120,"M, i, c, h, a, e, l,  , S, h, a, n, n, o, n, ,,  , J, e, s, s, i, c, a,  , C, h, a, s, t, a, i, n, ,,  , S, h, e, a,  , W, h, i, g, h, a, m",7.902517985611511,0,0
+369,8.0,True Romance,R,Crime,120,"C, h, r, i, s, t, i, a, n,  , S, l, a, t, e, r, ,,  , P, a, t, r, i, c, i, a,  , A, r, q, u, e, t, t, e, ,,  , D, e, n, n, i, s,  , H, o, p, p, e, r",7.916935483870968,0,0
+728,7.6,La piel que habito,R,Thriller,120,"A, n, t, o, n, i, o,  , B, a, n, d, e, r, a, s, ,,  , E, l, e, n, a,  , A, n, a, y, a, ,,  , J, a, n,  , C, o, r, n, e, t",7.68,0,0
+875,7.5,Rust and Bone,R,Drama,120,"M, a, r, i, o, n,  , C, o, t, i, l, l, a, r, d, ,,  , M, a, t, t, h, i, a, s,  , S, c, h, o, e, n, a, e, r, t, s, ,,  , A, r, m, a, n, d,  , V, e, r, d, u, r, e",7.902517985611511,0,0
+195,8.1,Platoon,R,Drama,120,"C, h, a, r, l, i, e,  , S, h, e, e, n, ,,  , T, o, m,  , B, e, r, e, n, g, e, r, ,,  , W, i, l, l, e, m,  , D, a, f, o, e",7.902517985611511,0,0
+544,7.8,Argo,R,Drama,120,"B, e, n,  , A, f, f, l, e, c, k, ,,  , B, r, y, a, n,  , C, r, a, n, s, t, o, n, ,,  , J, o, h, n,  , G, o, o, d, m, a, n",7.902517985611511,0,0
+880,7.5,My Cousin Vinny,R,Comedy,120,"J, o, e,  , P, e, s, c, i, ,,  , M, a, r, i, s, a,  , T, o, m, e, i, ,,  , R, a, l, p, h,  , M, a, c, c, h, i, o",7.822435897435897,0,0
+548,7.8,The Experiment,R,Drama,120,"M, o, r, i, t, z,  , B, l, e, i, b, t, r, e, u, ,,  , C, h, r, i, s, t, i, a, n,  , B, e, r, k, e, l, ,,  , O, l, i, v, e, r,  , S, t, o, k, o, w, s, k, i",7.902517985611511,0,0
+554,7.8,The Social Network,PG-13,Biography,120,"J, e, s, s, e,  , E, i, s, e, n, b, e, r, g, ,,  , A, n, d, r, e, w,  , G, a, r, f, i, e, l, d, ,,  , J, u, s, t, i, n,  , T, i, m, b, e, r, l, a, k, e",7.862337662337662,0,0
+311,8.0,Slumdog Millionaire,R,Drama,120,"D, e, v,  , P, a, t, e, l, ,,  , F, r, e, i, d, a,  , P, i, n, t, o, ,,  , S, a, u, r, a, b, h,  , S, h, u, k, l, a",7.902517985611511,0,0
+797,7.6,Collateral,R,Crime,120,"T, o, m,  , C, r, u, i, s, e, ,,  , J, a, m, i, e,  , F, o, x, x, ,,  , J, a, d, a,  , P, i, n, k, e, t, t,  , S, m, i, t, h",7.916935483870968,0,0
+506,7.8,Blue Velvet,R,Crime,120,"I, s, a, b, e, l, l, a,  , R, o, s, s, e, l, l, i, n, i, ,,  , K, y, l, e,  , M, a, c, L, a, c, h, l, a, n, ,,  , D, e, n, n, i, s,  , H, o, p, p, e, r",7.916935483870968,0,0
+437,7.9,"Crouching Tiger, Hidden Dragon",PG-13,Action,120,"Y, u, n, -, F, a, t,  , C, h, o, w, ,,  , M, i, c, h, e, l, l, e,  , Y, e, o, h, ,,  , Z, i, y, i,  , Z, h, a, n, g",7.884558823529411,0,0
+848,7.5,The Man Who Knew Too Much,PG,Thriller,120,"J, a, m, e, s,  , S, t, e, w, a, r, t, ,,  , D, o, r, i, s,  , D, a, y, ,,  , B, r, e, n, d, a,  , d, e,  , B, a, n, z, i, e",7.68,0,0
+435,7.9,Do the Right Thing,R,Comedy,120,"D, a, n, n, y,  , A, i, e, l, l, o, ,,  , O, s, s, i, e,  , D, a, v, i, s, ,,  , R, u, b, y,  , D, e, e",7.822435897435897,0,0
+906,7.5,Looper,R,Action,119,"J, o, s, e, p, h,  , G, o, r, d, o, n, -, L, e, v, i, t, t, ,,  , B, r, u, c, e,  , W, i, l, l, i, s, ,,  , E, m, i, l, y,  , B, l, u, n, t",7.884558823529411,0,0
+34,8.6,American History X,R,Crime,119,"E, d, w, a, r, d,  , N, o, r, t, o, n, ,,  , E, d, w, a, r, d,  , F, u, r, l, o, n, g, ,,  , B, e, v, e, r, l, y,  , D, ', A, n, g, e, l, o",7.916935483870968,0,0
+654,7.7,Dangerous Liaisons,R,Drama,119,"G, l, e, n, n,  , C, l, o, s, e, ,,  , J, o, h, n,  , M, a, l, k, o, v, i, c, h, ,,  , M, i, c, h, e, l, l, e,  , P, f, e, i, f, f, e, r",7.902517985611511,0,0
+74,8.4,Citizen Kane,APPROVED,Drama,119,"O, r, s, o, n,  , W, e, l, l, e, s, ,,  , J, o, s, e, p, h,  , C, o, t, t, e, n, ,,  , D, o, r, o, t, h, y,  , C, o, m, i, n, g, o, r, e",7.902517985611511,0,0
+383,8.0,The Untouchables,R,Crime,119,"K, e, v, i, n,  , C, o, s, t, n, e, r, ,,  , S, e, a, n,  , C, o, n, n, e, r, y, ,,  , R, o, b, e, r, t,  , D, e,  , N, i, r, o",7.916935483870968,0,0
+366,8.0,Serenity,PG-13,Action,119,"N, a, t, h, a, n,  , F, i, l, l, i, o, n, ,,  , G, i, n, a,  , T, o, r, r, e, s, ,,  , C, h, i, w, e, t, e, l,  , E, j, i, o, f, o, r",7.884558823529411,0,0
+672,7.7,In a Better World,R,Drama,119,"M, i, k, a, e, l,  , P, e, r, s, b, r, a, n, d, t, ,,  , T, r, i, n, e,  , D, y, r, h, o, l, m, ,,  , M, a, r, k, u, s,  , R, y, g, a, a, r, d",7.902517985611511,0,0
+394,7.9,Birdman: Or (The Unexpected Virtue of Ignorance),R,Comedy,119,"M, i, c, h, a, e, l,  , K, e, a, t, o, n, ,,  , Z, a, c, h,  , G, a, l, i, f, i, a, n, a, k, i, s, ,,  , E, d, w, a, r, d,  , N, o, r, t, o, n",7.822435897435897,0,0
+147,8.2,Howl's Moving Castle,PG,Animation,119,"C, h, i, e, k, o,  , B, a, i, s, h, ô, ,,  , T, a, k, u, y, a,  , K, i, m, u, r, a, ,,  , T, a, t, s, u, y, a,  , G, a, s, h, û, i, n",7.914516129032258,0,0
+333,8.0,The Searchers,APPROVED,Adventure,119,"J, o, h, n,  , W, a, y, n, e, ,,  , J, e, f, f, r, e, y,  , H, u, n, t, e, r, ,,  , V, e, r, a,  , M, i, l, e, s",7.933333333333334,0,0
+809,7.6,House of Flying Daggers,PG-13,Action,119,"Z, i, y, i,  , Z, h, a, n, g, ,,  , T, a, k, e, s, h, i,  , K, a, n, e, s, h, i, r, o, ,,  , A, n, d, y,  , L, a, u",7.884558823529411,0,0
+411,7.9,The Bourne Identity,PG-13,Action,119,"F, r, a, n, k, a,  , P, o, t, e, n, t, e, ,,  , M, a, t, t,  , D, a, m, o, n, ,,  , C, h, r, i, s,  , C, o, o, p, e, r",7.884558823529411,0,0
+269,8.1,Rocky,PG,Drama,119,"S, y, l, v, e, s, t, e, r,  , S, t, a, l, l, o, n, e, ,,  , T, a, l, i, a,  , S, h, i, r, e, ,,  , B, u, r, t,  , Y, o, u, n, g",7.902517985611511,0,0
+572,7.8,The Birds,PG-13,Horror,119,"R, o, d,  , T, a, y, l, o, r, ,,  , T, i, p, p, i,  , H, e, d, r, e, n, ,,  , S, u, z, a, n, n, e,  , P, l, e, s, h, e, t, t, e",7.806896551724138,0,0
+452,7.9,The Man from Nowhere,R,Action,119,"B, i, n,  , W, o, n, ,,  , S, a, e, -, r, o, n,  , K, i, m, ,,  , T, a, e, -, h, o, o, n,  , K, i, m",7.884558823529411,0,0
+528,7.8,From Here to Eternity,NOT RATED,Drama,118,"B, u, r, t,  , L, a, n, c, a, s, t, e, r, ,,  , M, o, n, t, g, o, m, e, r, y,  , C, l, i, f, t, ,,  , D, e, b, o, r, a, h,  , K, e, r, r",7.902517985611511,0,0
+228,8.1,The Last Picture Show,R,Drama,118,"T, i, m, o, t, h, y,  , B, o, t, t, o, m, s, ,,  , J, e, f, f,  , B, r, i, d, g, e, s, ,,  , C, y, b, i, l, l,  , S, h, e, p, h, e, r, d",7.902517985611511,0,0
+963,7.4,La Femme Nikita,R,Action,118,"A, n, n, e,  , P, a, r, i, l, l, a, u, d, ,,  , M, a, r, c,  , D, u, r, e, t, ,,  , P, a, t, r, i, c, k,  , F, o, n, t, a, n, a",7.884558823529411,0,0
+934,7.4,"Crazy, Stupid, Love.",PG-13,Comedy,118,"S, t, e, v, e,  , C, a, r, e, l, l, ,,  , R, y, a, n,  , G, o, s, l, i, n, g, ,,  , J, u, l, i, a, n, n, e,  , M, o, o, r, e",7.822435897435897,0,0
+136,8.3,Pan's Labyrinth,R,Drama,118,"I, v, a, n, a,  , B, a, q, u, e, r, o, ,,  , A, r, i, a, d, n, a,  , G, i, l, ,,  , S, e, r, g, i,  , L, ó, p, e, z",7.902517985611511,0,0
+254,8.1,Roman Holiday,NOT RATED,Comedy,118,"G, r, e, g, o, r, y,  , P, e, c, k, ,,  , A, u, d, r, e, y,  , H, e, p, b, u, r, n, ,,  , E, d, d, i, e,  , A, l, b, e, r, t",7.822435897435897,0,0
+608,7.7,Fear and Loathing in Las Vegas,R,Comedy,118,"J, o, h, n, n, y,  , D, e, p, p, ,,  , B, e, n, i, c, i, o,  , D, e, l,  , T, o, r, o, ,,  , T, o, b, e, y,  , M, a, g, u, i, r, e",7.822435897435897,0,0
+274,8.1,The King's Speech,R,Biography,118,"C, o, l, i, n,  , F, i, r, t, h, ,,  , G, e, o, f, f, r, e, y,  , R, u, s, h, ,,  , H, e, l, e, n, a,  , B, o, n, h, a, m,  , C, a, r, t, e, r",7.862337662337662,0,0
+618,7.7,Shane,APPROVED,Drama,118,"A, l, a, n,  , L, a, d, d, ,,  , J, e, a, n,  , A, r, t, h, u, r, ,,  , V, a, n,  , H, e, f, l, i, n",7.902517985611511,0,0
+788,7.6,Boys Don't Cry,R,Biography,118,"H, i, l, a, r, y,  , S, w, a, n, k, ,,  , C, h, l, o, ë,  , S, e, v, i, g, n, y, ,,  , P, e, t, e, r,  , S, a, r, s, g, a, a, r, d",7.862337662337662,0,0
+930,7.4,Man on the Moon,R,Biography,118,"J, i, m,  , C, a, r, r, e, y, ,,  , D, a, n, n, y,  , D, e, V, i, t, o, ,,  , G, e, r, r, y,  , B, e, c, k, e, r",7.862337662337662,0,0
+764,7.6,Indiana Jones and the Temple of Doom,PG,Action,118,"H, a, r, r, i, s, o, n,  , F, o, r, d, ,,  , K, a, t, e,  , C, a, p, s, h, a, w, ,,  , J, o, n, a, t, h, a, n,  , K, e,  , Q, u, a, n",7.884558823529411,0,0
+27,8.6,The Silence of the Lambs,R,Drama,118,"J, o, d, i, e,  , F, o, s, t, e, r, ,,  , A, n, t, h, o, n, y,  , H, o, p, k, i, n, s, ,,  , L, a, w, r, e, n, c, e,  , A, .,  , B, o, n, n, e, y",7.902517985611511,0,0
+252,8.1,Arsenic and Old Lace,NOT RATED,Comedy,118,"C, a, r, y,  , G, r, a, n, t, ,,  , P, r, i, s, c, i, l, l, a,  , L, a, n, e, ,,  , R, a, y, m, o, n, d,  , M, a, s, s, e, y",7.822435897435897,0,0
+975,7.4,Back to the Future Part III,PG,Adventure,118,"M, i, c, h, a, e, l,  , J, .,  , F, o, x, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , L, l, o, y, d, ,,  , M, a, r, y,  , S, t, e, e, n, b, u, r, g, e, n",7.933333333333334,0,0
+562,7.8,What's Eating Gilbert Grape,PG-13,Drama,118,"J, o, h, n, n, y,  , D, e, p, p, ,,  , L, e, o, n, a, r, d, o,  , D, i, C, a, p, r, i, o, ,,  , J, u, l, i, e, t, t, e,  , L, e, w, i, s",7.902517985611511,0,0
+145,8.2,Blade Runner,R,Sci-Fi,117,"H, a, r, r, i, s, o, n,  , F, o, r, d, ,,  , R, u, t, g, e, r,  , H, a, u, e, r, ,,  , S, e, a, n,  , Y, o, u, n, g",7.92,0,0
+153,8.2,The Big Lebowski,R,Comedy,117,"J, e, f, f,  , B, r, i, d, g, e, s, ,,  , J, o, h, n,  , G, o, o, d, m, a, n, ,,  , J, u, l, i, a, n, n, e,  , M, o, o, r, e",7.822435897435897,0,0
+570,7.8,300,R,Action,117,"G, e, r, a, r, d,  , B, u, t, l, e, r, ,,  , L, e, n, a,  , H, e, a, d, e, y, ,,  , D, a, v, i, d,  , W, e, n, h, a, m",7.884558823529411,0,0
+863,7.5,Three Days of the Condor,R,Mystery,117,"R, o, b, e, r, t,  , R, e, d, f, o, r, d, ,,  , F, a, y, e,  , D, u, n, a, w, a, y, ,,  , C, l, i, f, f,  , R, o, b, e, r, t, s, o, n",7.975,0,0
+400,7.9,The Pursuit of Happyness,PG-13,Biography,117,"W, i, l, l,  , S, m, i, t, h, ,,  , T, h, a, n, d, i, e,  , N, e, w, t, o, n, ,,  , J, a, d, e, n,  , S, m, i, t, h",7.862337662337662,0,0
+193,8.2,Nausicaa of the Valley of the Wind,PG,Animation,117,"S, u, m, i,  , S, h, i, m, a, m, o, t, o, ,,  , M, a, h, i, t, o,  , T, s, u, j, i, m, u, r, a, ,,  , H, i, s, a, k, o,  , K, y, ô, d, a",7.914516129032258,0,0
+952,7.4,Pirate Radio,R,Comedy,117,"P, h, i, l, i, p,  , S, e, y, m, o, u, r,  , H, o, f, f, m, a, n, ,,  , B, i, l, l,  , N, i, g, h, y, ,,  , N, i, c, k,  , F, r, o, s, t",7.822435897435897,0,0
+407,7.9,Nightcrawler,R,Crime,117,"J, a, k, e,  , G, y, l, l, e, n, h, a, a, l, ,,  , R, e, n, e,  , R, u, s, s, o, ,,  , B, i, l, l,  , P, a, x, t, o, n",7.916935483870968,0,0
+587,7.7,Road to Perdition,R,Crime,117,"T, o, m,  , H, a, n, k, s, ,,  , T, y, l, e, r,  , H, o, e, c, h, l, i, n, ,,  , R, o, b,  , M, a, x, e, y",7.916935483870968,0,0
+346,8.0,Dallas Buyers Club,R,Biography,117,"M, a, t, t, h, e, w,  , M, c, C, o, n, a, u, g, h, e, y, ,,  , J, e, n, n, i, f, e, r,  , G, a, r, n, e, r, ,,  , J, a, r, e, d,  , L, e, t, o",7.862337662337662,0,0
+429,7.9,The Fall,R,Adventure,117,"L, e, e,  , P, a, c, e, ,,  , C, a, t, i, n, c, a,  , U, n, t, a, r, u, ,,  , J, u, s, t, i, n, e,  , W, a, d, d, e, l, l",7.933333333333334,0,0
+490,7.8,Open Your Eyes,R,Drama,117,"E, d, u, a, r, d, o,  , N, o, r, i, e, g, a, ,,  , P, e, n, é, l, o, p, e,  , C, r, u, z, ,,  , C, h, e, t, e,  , L, e, r, a",7.902517985611511,0,0
+598,7.7,Kick-Ass,R,Action,117,"A, a, r, o, n,  , T, a, y, l, o, r, -, J, o, h, n, s, o, n, ,,  , N, i, c, o, l, a, s,  , C, a, g, e, ,,  , C, h, l, o, ë,  , G, r, a, c, e,  , M, o, r, e, t, z",7.884558823529411,0,0
+57,8.5,Alien,R,Horror,117,"S, i, g, o, u, r, n, e, y,  , W, e, a, v, e, r, ,,  , T, o, m,  , S, k, e, r, r, i, t, t, ,,  , J, o, h, n,  , H, u, r, t",7.806896551724138,0,0
+692,7.7,MASH,R,Comedy,116,"D, o, n, a, l, d,  , S, u, t, h, e, r, l, a, n, d, ,,  , E, l, l, i, o, t, t,  , G, o, u, l, d, ,,  , T, o, m,  , S, k, e, r, r, i, t, t",7.822435897435897,0,0
+577,7.8,Ocean's Eleven,PG-13,Crime,116,"G, e, o, r, g, e,  , C, l, o, o, n, e, y, ,,  , B, r, a, d,  , P, i, t, t, ,,  , J, u, l, i, a,  , R, o, b, e, r, t, s",7.916935483870968,0,0
+161,8.2,Diabolique,UNRATED,Horror,116,"S, i, m, o, n, e,  , S, i, g, n, o, r, e, t, ,,  , V, é, r, a,  , C, l, o, u, z, o, t, ,,  , P, a, u, l,  , M, e, u, r, i, s, s, e",7.806896551724138,0,0
+102,8.3,Full Metal Jacket,R,Drama,116,"M, a, t, t, h, e, w,  , M, o, d, i, n, e, ,,  , R, .,  , L, e, e,  , E, r, m, e, y, ,,  , V, i, n, c, e, n, t,  , D, ', O, n, o, f, r, i, o",7.902517985611511,0,0
+803,7.6,Ghost Dog: The Way of the Samurai,R,Action,116,"F, o, r, e, s, t,  , W, h, i, t, a, k, e, r, ,,  , H, e, n, r, y,  , S, i, l, v, a, ,,  , J, o, h, n,  , T, o, r, m, e, y",7.884558823529411,0,0
+746,7.6,The Man Who Wasn't There,R,Crime,116,"B, i, l, l, y,  , B, o, b,  , T, h, o, r, n, t, o, n, ,,  , F, r, a, n, c, e, s,  , M, c, D, o, r, m, a, n, d, ,,  , M, i, c, h, a, e, l,  , B, a, d, a, l, u, c, c, o",7.916935483870968,0,0
+904,7.5,Sweeney Todd: The Demon Barber of Fleet Street,R,Drama,116,"J, o, h, n, n, y,  , D, e, p, p, ,,  , H, e, l, e, n, a,  , B, o, n, h, a, m,  , C, a, r, t, e, r, ,,  , A, l, a, n,  , R, i, c, k, m, a, n",7.902517985611511,0,0
+974,7.4,Tootsie,PG,Comedy,116,"D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , J, e, s, s, i, c, a,  , L, a, n, g, e, ,,  , T, e, r, i,  , G, a, r, r",7.822435897435897,0,0
+162,8.2,Gran Torino,R,Drama,116,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , B, e, e,  , V, a, n, g, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , C, a, r, l, e, y",7.902517985611511,0,0
+600,7.7,Barton Fink,R,Drama,116,"J, o, h, n,  , T, u, r, t, u, r, r, o, ,,  , J, o, h, n,  , G, o, o, d, m, a, n, ,,  , J, u, d, y,  , D, a, v, i, s",7.902517985611511,0,0
+54,8.5,Back to the Future,PG,Adventure,116,"M, i, c, h, a, e, l,  , J, .,  , F, o, x, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , L, l, o, y, d, ,,  , L, e, a,  , T, h, o, m, p, s, o, n",7.933333333333334,0,0
+446,7.9,The Fighter,R,Biography,116,"M, a, r, k,  , W, a, h, l, b, e, r, g, ,,  , C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , A, m, y,  , A, d, a, m, s",7.862337662337662,0,0
+733,7.6,The Blind Swordsman: Zatoichi,R,Action,116,"T, a, k, e, s, h, i,  , K, i, t, a, n, o, ,,  , T, a, d, a, n, o, b, u,  , A, s, a, n, o, ,,  , Y, u, i,  , N, a, t, s, u, k, a, w, a",7.884558823529411,0,0
+921,7.5,Trading Places,R,Comedy,116,"E, d, d, i, e,  , M, u, r, p, h, y, ,,  , D, a, n,  , A, y, k, r, o, y, d, ,,  , R, a, l, p, h,  , B, e, l, l, a, m, y",7.822435897435897,0,0
+25,8.6,Life Is Beautiful,PG-13,Comedy,116,"R, o, b, e, r, t, o,  , B, e, n, i, g, n, i, ,,  , N, i, c, o, l, e, t, t, a,  , B, r, a, s, c, h, i, ,,  , G, i, o, r, g, i, o,  , C, a, n, t, a, r, i, n, i",7.822435897435897,0,0
+902,7.5,Frenzy,R,Thriller,116,"J, o, n,  , F, i, n, c, h, ,,  , B, a, r, r, y,  , F, o, s, t, e, r, ,,  , A, l, e, c,  , M, c, C, o, w, e, n",7.68,0,0
+65,8.4,Witness for the Prosecution,APPROVED,Crime,116,"T, y, r, o, n, e,  , P, o, w, e, r, ,,  , M, a, r, l, e, n, e,  , D, i, e, t, r, i, c, h, ,,  , C, h, a, r, l, e, s,  , L, a, u, g, h, t, o, n",7.916935483870968,0,0
+261,8.1,Elite Squad,R,Action,115,"W, a, g, n, e, r,  , M, o, u, r, a, ,,  , A, n, d, r, é,  , R, a, m, i, r, o, ,,  , C, a, i, o,  , J, u, n, q, u, e, i, r, a",7.884558823529411,0,0
+360,8.0,Let the Right One In,R,Drama,115,"K, å, r, e,  , H, e, d, e, b, r, a, n, t, ,,  , L, i, n, a,  , L, e, a, n, d, e, r, s, s, o, n, ,,  , P, e, r,  , R, a, g, n, a, r",7.902517985611511,0,0
+564,7.8,Nebraska,R,Adventure,115,"B, r, u, c, e,  , D, e, r, n, ,,  , W, i, l, l,  , F, o, r, t, e, ,,  , J, u, n, e,  , S, q, u, i, b, b",7.933333333333334,0,0
+441,7.9,Miller's Crossing,R,Crime,115,"G, a, b, r, i, e, l,  , B, y, r, n, e, ,,  , A, l, b, e, r, t,  , F, i, n, n, e, y, ,,  , J, o, h, n,  , T, u, r, t, u, r, r, o",7.916935483870968,0,0
+239,8.1,Elite Squad: The Enemy Within,UNRATED,Action,115,"W, a, g, n, e, r,  , M, o, u, r, a, ,,  , I, r, a, n, d, h, i, r,  , S, a, n, t, o, s, ,,  , A, n, d, r, é,  , R, a, m, i, r, o",7.884558823529411,0,0
+546,7.8,Breakfast at Tiffany's,NOT RATED,Comedy,115,"A, u, d, r, e, y,  , H, e, p, b, u, r, n, ,,  , G, e, o, r, g, e,  , P, e, p, p, a, r, d, ,,  , P, a, t, r, i, c, i, a,  , N, e, a, l",7.822435897435897,0,0
+773,7.6,Disconnect,R,Drama,115,"J, a, s, o, n,  , B, a, t, e, m, a, n, ,,  , J, o, n, a, h,  , B, o, b, o, ,,  , H, a, l, e, y,  , R, a, m, m",7.902517985611511,0,0
+37,8.6,Raiders of the Lost Ark,PG,Action,115,"H, a, r, r, i, s, o, n,  , F, o, r, d, ,,  , K, a, r, e, n,  , A, l, l, e, n, ,,  , P, a, u, l,  , F, r, e, e, m, a, n",7.884558823529411,0,0
+121,8.3,Jagten,R,Drama,115,"M, a, d, s,  , M, i, k, k, e, l, s, e, n, ,,  , T, h, o, m, a, s,  , B, o,  , L, a, r, s, e, n, ,,  , A, n, n, i, k, a,  , W, e, d, d, e, r, k, o, p, p",7.902517985611511,0,0
+896,7.5,From Russia with Love,APPROVED,Action,115,"S, e, a, n,  , C, o, n, n, e, r, y, ,,  , R, o, b, e, r, t,  , S, h, a, w, ,,  , L, o, t, t, e,  , L, e, n, y, a",7.884558823529411,0,0
+468,7.9,E.T. the Extra-Terrestrial,PG,Family,115,"H, e, n, r, y,  , T, h, o, m, a, s, ,,  , D, r, e, w,  , B, a, r, r, y, m, o, r, e, ,,  , P, e, t, e, r,  , C, o, y, o, t, e",7.85,0,0
+790,7.6,Of Mice and Men,PG-13,Drama,115,"J, o, h, n,  , M, a, l, k, o, v, i, c, h, ,,  , G, a, r, y,  , S, i, n, i, s, e, ,,  , R, a, y,  , W, a, l, s, t, o, n",7.902517985611511,0,0
+417,7.9,Cowboy Bebop: The Movie,R,Animation,115,"B, e, a, u,  , B, i, l, l, i, n, g, s, l, e, a, ,,  , M, e, l, i, s, s, a,  , F, a, h, n, ,,  , N, i, c, h, o, l, a, s,  , G, u, e, s, t",7.914516129032258,0,0
+240,8.1,The Bourne Ultimatum,PG-13,Action,115,"M, a, t, t,  , D, a, m, o, n, ,,  , É, d, g, a, r,  , R, a, m, í, r, e, z, ,,  , J, o, a, n,  , A, l, l, e, n",7.884558823529411,0,0
+307,8.0,East of Eden,PG,Drama,115,"J, a, m, e, s,  , D, e, a, n, ,,  , R, a, y, m, o, n, d,  , M, a, s, s, e, y, ,,  , J, u, l, i, e,  , H, a, r, r, i, s",7.902517985611511,0,0
+378,8.0,The Incredibles,PG,Animation,115,"C, r, a, i, g,  , T, .,  , N, e, l, s, o, n, ,,  , S, a, m, u, e, l,  , L, .,  , J, a, c, k, s, o, n, ,,  , H, o, l, l, y,  , H, u, n, t, e, r",7.914516129032258,0,0
+413,7.9,Nine Queens,R,Crime,114,"R, i, c, a, r, d, o,  , D, a, r, í, n, ,,  , G, a, s, t, ó, n,  , P, a, u, l, s, ,,  , L, e, t, i, c, i, a,  , B, r, é, d, i, c, e",7.916935483870968,0,0
+602,7.7,Adaptation.,R,Comedy,114,"N, i, c, o, l, a, s,  , C, a, g, e, ,,  , M, e, r, y, l,  , S, t, r, e, e, p, ,,  , C, h, r, i, s,  , C, o, o, p, e, r",7.822435897435897,0,0
+573,7.8,Battle Royale,NOT RATED,Action,114,"T, a, t, s, u, y, a,  , F, u, j, i, w, a, r, a, ,,  , A, k, i,  , M, a, e, d, a, ,,  , T, a, r, ô,  , Y, a, m, a, m, o, t, o",7.884558823529411,0,0
+621,7.7,Gone Baby Gone,R,Crime,114,"M, o, r, g, a, n,  , F, r, e, e, m, a, n, ,,  , E, d,  , H, a, r, r, i, s, ,,  , C, a, s, e, y,  , A, f, f, l, e, c, k",7.916935483870968,0,0
+961,7.4,Capote,R,Biography,114,"P, h, i, l, i, p,  , S, e, y, m, o, u, r,  , H, o, f, f, m, a, n, ,,  , C, l, i, f, t, o, n,  , C, o, l, l, i, n, s,  , J, r, ., ,,  , C, a, t, h, e, r, i, n, e,  , K, e, e, n, e, r",7.862337662337662,0,0
+751,7.6,The Impossible,PG-13,Drama,114,"N, a, o, m, i,  , W, a, t, t, s, ,,  , E, w, a, n,  , M, c, G, r, e, g, o, r, ,,  , T, o, m,  , H, o, l, l, a, n, d",7.902517985611511,0,0
+977,7.4,Poltergeist,PG,Horror,114,"J, o, B, e, t, h,  , W, i, l, l, i, a, m, s, ,,  , H, e, a, t, h, e, r,  , O, ', R, o, u, r, k, e, ,,  , C, r, a, i, g,  , T, .,  , N, e, l, s, o, n",7.806896551724138,0,0
+810,7.6,The Hours,PG-13,Drama,114,"M, e, r, y, l,  , S, t, r, e, e, p, ,,  , N, i, c, o, l, e,  , K, i, d, m, a, n, ,,  , J, u, l, i, a, n, n, e,  , M, o, o, r, e",7.902517985611511,0,0
+209,8.1,The Imitation Game,PG-13,Biography,114,"B, e, n, e, d, i, c, t,  , C, u, m, b, e, r, b, a, t, c, h, ,,  , K, e, i, r, a,  , K, n, i, g, h, t, l, e, y, ,,  , M, a, t, t, h, e, w,  , G, o, o, d, e",7.862337662337662,0,0
+816,7.6,August Rush,PG,Drama,114,"F, r, e, d, d, i, e,  , H, i, g, h, m, o, r, e, ,,  , K, e, r, i,  , R, u, s, s, e, l, l, ,,  , J, o, n, a, t, h, a, n,  , R, h, y, s,  , M, e, y, e, r, s",7.902517985611511,0,0
+253,8.1,The Big Sleep,APPROVED,Crime,114,"H, u, m, p, h, r, e, y,  , B, o, g, a, r, t, ,,  , L, a, u, r, e, n,  , B, a, c, a, l, l, ,,  , J, o, h, n,  , R, i, d, g, e, l, y",7.916935483870968,0,0
+537,7.8,The Goonies,PG,Adventure,114,"S, e, a, n,  , A, s, t, i, n, ,,  , J, o, s, h,  , B, r, o, l, i, n, ,,  , J, e, f, f,  , C, o, h, e, n",7.933333333333334,0,0
+775,7.6,Hoosiers,PG,Drama,114,"G, e, n, e,  , H, a, c, k, m, a, n, ,,  , B, a, r, b, a, r, a,  , H, e, r, s, h, e, y, ,,  , D, e, n, n, i, s,  , H, o, p, p, e, r",7.902517985611511,0,0
+908,7.5,Bullitt,PG,Action,114,"S, t, e, v, e,  , M, c, Q, u, e, e, n, ,,  , J, a, c, q, u, e, l, i, n, e,  , B, i, s, s, e, t, ,,  , R, o, b, e, r, t,  , V, a, u, g, h, n",7.884558823529411,0,0
+825,7.5,Rudy,PG,Biography,114,"S, e, a, n,  , A, s, t, i, n, ,,  , J, o, n,  , F, a, v, r, e, a, u, ,,  , N, e, d,  , B, e, a, t, t, y",7.862337662337662,0,0
+823,7.5,Straw Dogs,UNRATED,Crime,113,"D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , S, u, s, a, n,  , G, e, o, r, g, e, ,,  , P, e, t, e, r,  , V, a, u, g, h, a, n",7.916935483870968,0,0
+46,8.5,Memento,R,Mystery,113,"G, u, y,  , P, e, a, r, c, e, ,,  , C, a, r, r, i, e, -, A, n, n, e,  , M, o, s, s, ,,  , J, o, e,  , P, a, n, t, o, l, i, a, n, o",7.975,0,0
+398,7.9,The Conversation,PG,Drama,113,"G, e, n, e,  , H, a, c, k, m, a, n, ,,  , J, o, h, n,  , C, a, z, a, l, e, ,,  , A, l, l, e, n,  , G, a, r, f, i, e, l, d",7.902517985611511,0,0
+218,8.1,Donnie Darko,R,Drama,113,"J, a, k, e,  , G, y, l, l, e, n, h, a, a, l, ,,  , J, e, n, a,  , M, a, l, o, n, e, ,,  , M, a, r, y,  , M, c, D, o, n, n, e, l, l",7.902517985611511,0,0
+819,7.6,Jacob's Ladder,R,Drama,113,"T, i, m,  , R, o, b, b, i, n, s, ,,  , E, l, i, z, a, b, e, t, h,  , P, e, ñ, a, ,,  , D, a, n, n, y,  , A, i, e, l, l, o",7.902517985611511,0,0
+582,7.8,Sabrina,UNRATED,Comedy,113,"H, u, m, p, h, r, e, y,  , B, o, g, a, r, t, ,,  , A, u, d, r, e, y,  , H, e, p, b, u, r, n, ,,  , W, i, l, l, i, a, m,  , H, o, l, d, e, n",7.822435897435897,0,0
+427,7.9,"4 Months, 3 Weeks and 2 Days",NOT RATED,Drama,113,"A, n, a, m, a, r, i, a,  , M, a, r, i, n, c, a, ,,  , V, l, a, d,  , I, v, a, n, o, v, ,,  , L, a, u, r, a,  , V, a, s, i, l, i, u",7.902517985611511,0,0
+696,7.7,Stranger Than Fiction,PG-13,Comedy,113,"W, i, l, l,  , F, e, r, r, e, l, l, ,,  , E, m, m, a,  , T, h, o, m, p, s, o, n, ,,  , D, u, s, t, i, n,  , H, o, f, f, m, a, n",7.822435897435897,0,0
+391,8.0,Edge of Tomorrow,PG-13,Action,113,"T, o, m,  , C, r, u, i, s, e, ,,  , E, m, i, l, y,  , B, l, u, n, t, ,,  , B, i, l, l,  , P, a, x, t, o, n",7.884558823529411,0,0
+585,7.7,Remember the Titans,PG,Biography,113,"D, e, n, z, e, l,  , W, a, s, h, i, n, g, t, o, n, ,,  , W, i, l, l,  , P, a, t, t, o, n, ,,  , W, o, o, d,  , H, a, r, r, i, s",7.862337662337662,0,0
+637,7.7,The Butterfly Effect,R,Sci-Fi,113,"A, s, h, t, o, n,  , K, u, t, c, h, e, r, ,,  , A, m, y,  , S, m, a, r, t, ,,  , M, e, l, o, r, a,  , W, a, l, t, e, r, s",7.92,0,0
+586,7.7,Star Trek II: The Wrath of Khan,PG,Action,113,"W, i, l, l, i, a, m,  , S, h, a, t, n, e, r, ,,  , L, e, o, n, a, r, d,  , N, i, m, o, y, ,,  , D, e, F, o, r, e, s, t,  , K, e, l, l, e, y",7.884558823529411,0,0
+320,8.0,Central Station,R,Drama,113,"F, e, r, n, a, n, d, a,  , M, o, n, t, e, n, e, g, r, o, ,,  , V, i, n, í, c, i, u, s,  , d, e,  , O, l, i, v, e, i, r, a, ,,  , M, a, r, í, l, i, a,  , P, ê, r, a",7.902517985611511,0,0
+792,7.6,High Fidelity,R,Comedy,113,"J, o, h, n,  , C, u, s, a, c, k, ,,  , I, b, e, n,  , H, j, e, j, l, e, ,,  , T, o, d, d,  , L, o, u, i, s, o",7.822435897435897,0,0
+761,7.6,Falling Down,R,Crime,113,"M, i, c, h, a, e, l,  , D, o, u, g, l, a, s, ,,  , R, o, b, e, r, t,  , D, u, v, a, l, l, ,,  , B, a, r, b, a, r, a,  , H, e, r, s, h, e, y",7.916935483870968,0,0
+92,8.4,Taxi Driver,R,Crime,113,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , J, o, d, i, e,  , F, o, s, t, e, r, ,,  , C, y, b, i, l, l,  , S, h, e, p, h, e, r, d",7.916935483870968,0,0
+885,7.5,Total Recall,R,Action,113,"A, r, n, o, l, d,  , S, c, h, w, a, r, z, e, n, e, g, g, e, r, ,,  , S, h, a, r, o, n,  , S, t, o, n, e, ,,  , M, i, c, h, a, e, l,  , I, r, o, n, s, i, d, e",7.884558823529411,0,0
+387,8.0,Midnight Cowboy,X,Drama,113,"D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , J, o, n,  , V, o, i, g, h, t, ,,  , S, y, l, v, i, a,  , M, i, l, e, s",7.902517985611511,0,0
+481,7.8,Evil,NOT RATED,Drama,113,"A, n, d, r, e, a, s,  , W, i, l, s, o, n, ,,  , H, e, n, r, i, k,  , L, u, n, d, s, t, r, ö, m, ,,  , G, u, s, t, a, f,  , S, k, a, r, s, g, å, r, d",7.902517985611511,0,0
+708,7.6,28 Days Later...,R,Horror,113,"C, i, l, l, i, a, n,  , M, u, r, p, h, y, ,,  , N, a, o, m, i, e,  , H, a, r, r, i, s, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , E, c, c, l, e, s, t, o, n",7.806896551724138,0,0
+315,8.0,Charade,NOT RATED,Comedy,113,"C, a, r, y,  , G, r, a, n, t, ,,  , A, u, d, r, e, y,  , H, e, p, b, u, r, n, ,,  , W, a, l, t, e, r,  , M, a, t, t, h, a, u",7.822435897435897,0,0
+710,7.6,Superbad,R,Comedy,113,"M, i, c, h, a, e, l,  , C, e, r, a, ,,  , J, o, n, a, h,  , H, i, l, l, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , M, i, n, t, z, -, P, l, a, s, s, e",7.822435897435897,0,0
+856,7.5,Scott Pilgrim vs. the World,PG-13,Action,112,"M, i, c, h, a, e, l,  , C, e, r, a, ,,  , M, a, r, y,  , E, l, i, z, a, b, e, t, h,  , W, i, n, s, t, e, a, d, ,,  , K, i, e, r, a, n,  , C, u, l, k, i, n",7.884558823529411,0,0
+920,7.5,Witness,R,Crime,112,"H, a, r, r, i, s, o, n,  , F, o, r, d, ,,  , K, e, l, l, y,  , M, c, G, i, l, l, i, s, ,,  , L, u, k, a, s,  , H, a, a, s",7.916935483870968,0,0
+847,7.5,The Conjuring,R,Horror,112,"P, a, t, r, i, c, k,  , W, i, l, s, o, n, ,,  , V, e, r, a,  , F, a, r, m, i, g, a, ,,  , R, o, n,  , L, i, v, i, n, g, s, t, o, n",7.806896551724138,0,0
+912,7.5,Smoke,R,Comedy,112,"H, a, r, v, e, y,  , K, e, i, t, e, l, ,,  , W, i, l, l, i, a, m,  , H, u, r, t, ,,  , G, i, a, n, c, a, r, l, o,  , E, s, p, o, s, i, t, o",7.822435897435897,0,0
+38,8.6,Rear Window,APPROVED,Mystery,112,"J, a, m, e, s,  , S, t, e, w, a, r, t, ,,  , G, r, a, c, e,  , K, e, l, l, y, ,,  , W, e, n, d, e, l, l,  , C, o, r, e, y",7.975,0,0
+972,7.4,Blue Valentine,NC-17,Drama,112,"R, y, a, n,  , G, o, s, l, i, n, g, ,,  , M, i, c, h, e, l, l, e,  , W, i, l, l, i, a, m, s, ,,  , J, o, h, n,  , D, o, m, a, n",7.902517985611511,0,0
+638,7.7,The City of Lost Children,R,Fantasy,112,"R, o, n,  , P, e, r, l, m, a, n, ,,  , D, a, n, i, e, l,  , E, m, i, l, f, o, r, k, ,,  , J, u, d, i, t, h,  , V, i, t, t, e, t",7.7,0,0
+368,8.0,Planet of the Apes,G,Adventure,112,"C, h, a, r, l, t, o, n,  , H, e, s, t, o, n, ,,  , R, o, d, d, y,  , M, c, D, o, w, a, l, l, ,,  , K, i, m,  , H, u, n, t, e, r",7.933333333333334,0,0
+349,8.0,District 9,R,Action,112,"S, h, a, r, l, t, o,  , C, o, p, l, e, y, ,,  , D, a, v, i, d,  , J, a, m, e, s, ,,  , J, a, s, o, n,  , C, o, p, e",7.884558823529411,0,0
+670,7.7,Sympathy for Lady Vengeance,R,Crime,112,"Y, e, o, n, g, -, a, e,  , L, e, e, ,,  , M, i, n, -, s, i, k,  , C, h, o, i, ,,  , S, h, i, -, h, o, o,  , K, i, m",7.916935483870968,0,0
+313,8.0,The Straight Story,G,Biography,112,"R, i, c, h, a, r, d,  , F, a, r, n, s, w, o, r, t, h, ,,  , S, i, s, s, y,  , S, p, a, c, e, k, ,,  , J, a, n, e,  , G, a, l, l, o, w, a, y,  , H, e, i, t, z",7.862337662337662,0,0
+286,8.1,The Diving Bell and the Butterfly,PG-13,Biography,112,"M, a, t, h, i, e, u,  , A, m, a, l, r, i, c, ,,  , E, m, m, a, n, u, e, l, l, e,  , S, e, i, g, n, e, r, ,,  , M, a, r, i, e, -, J, o, s, é, e,  , C, r, o, z, e",7.862337662337662,0,0
+432,7.9,Crash,R,Drama,112,"D, o, n,  , C, h, e, a, d, l, e, ,,  , S, a, n, d, r, a,  , B, u, l, l, o, c, k, ,,  , T, h, a, n, d, i, e,  , N, e, w, t, o, n",7.902517985611511,0,0
+872,7.5,We Need to Talk About Kevin,R,Drama,112,"T, i, l, d, a,  , S, w, i, n, t, o, n, ,,  , J, o, h, n,  , C, .,  , R, e, i, l, l, y, ,,  , E, z, r, a,  , M, i, l, l, e, r",7.902517985611511,0,0
+566,7.8,Boyz n the Hood,R,Crime,112,"C, u, b, a,  , G, o, o, d, i, n, g,  , J, r, ., ,,  , L, a, u, r, e, n, c, e,  , F, i, s, h, b, u, r, n, e, ,,  , H, u, d, h, a, i, l,  , A, l, -, A, m, i, r",7.916935483870968,0,0
+31,8.6,The Intouchables,R,Biography,112,"F, r, a, n, ç, o, i, s,  , C, l, u, z, e, t, ,,  , O, m, a, r,  , S, y, ,,  , A, n, n, e,  , L, e,  , N, y",7.862337662337662,0,0
+509,7.8,The Last of the Mohicans,R,Action,112,"D, a, n, i, e, l,  , D, a, y, -, L, e, w, i, s, ,,  , M, a, d, e, l, e, i, n, e,  , S, t, o, w, e, ,,  , R, u, s, s, e, l, l,  , M, e, a, n, s",7.884558823529411,0,0
+753,7.6,Escape from Alcatraz,PG,Action,112,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , P, a, t, r, i, c, k,  , M, c, G, o, o, h, a, n, ,,  , R, o, b, e, r, t, s,  , B, l, o, s, s, o, m",7.884558823529411,0,0
+870,7.5,The Ice Storm,R,Drama,112,"K, e, v, i, n,  , K, l, i, n, e, ,,  , J, o, a, n,  , A, l, l, e, n, ,,  , S, i, g, o, u, r, n, e, y,  , W, e, a, v, e, r",7.902517985611511,0,0
+931,7.4,Mean Streets,R,Crime,112,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , H, a, r, v, e, y,  , K, e, i, t, e, l, ,,  , D, a, v, i, d,  , P, r, o, v, a, l",7.916935483870968,0,0
+255,8.1,The Philadelphia Story,NOT RATED,Comedy,112,"C, a, r, y,  , G, r, a, n, t, ,,  , K, a, t, h, a, r, i, n, e,  , H, e, p, b, u, r, n, ,,  , J, a, m, e, s,  , S, t, e, w, a, r, t",7.822435897435897,0,0
+553,7.8,Being John Malkovich,R,Comedy,112,"J, o, h, n,  , C, u, s, a, c, k, ,,  , C, a, m, e, r, o, n,  , D, i, a, z, ,,  , C, a, t, h, e, r, i, n, e,  , K, e, e, n, e, r",7.822435897435897,0,0
+326,8.0,Talk to Her,R,Drama,112,"R, o, s, a, r, i, o,  , F, l, o, r, e, s, ,,  , J, a, v, i, e, r,  , C, á, m, a, r, a, ,,  , D, a, r, í, o,  , G, r, a, n, d, i, n, e, t, t, i",7.902517985611511,0,0
+198,8.1,Kill Bill: Vol. 1,R,Action,111,"U, m, a,  , T, h, u, r, m, a, n, ,,  , D, a, v, i, d,  , C, a, r, r, a, d, i, n, e, ,,  , D, a, r, y, l,  , H, a, n, n, a, h",7.884558823529411,0,0
+511,7.8,Rebel Without a Cause,PG-13,Drama,111,"J, a, m, e, s,  , D, e, a, n, ,,  , N, a, t, a, l, i, e,  , W, o, o, d, ,,  , S, a, l,  , M, i, n, e, o",7.902517985611511,0,0
+410,7.9,Bonnie and Clyde,APPROVED,Biography,111,"W, a, r, r, e, n,  , B, e, a, t, t, y, ,,  , F, a, y, e,  , D, u, n, a, w, a, y, ,,  , M, i, c, h, a, e, l,  , J, .,  , P, o, l, l, a, r, d",7.862337662337662,0,0
+769,7.6,The Omen,R,Horror,111,"G, r, e, g, o, r, y,  , P, e, c, k, ,,  , L, e, e,  , R, e, m, i, c, k, ,,  , H, a, r, v, e, y,  , S, t, e, p, h, e, n, s",7.806896551724138,0,0
+940,7.4,Much Ado About Nothing,PG-13,Comedy,111,"K, e, n, n, e, t, h,  , B, r, a, n, a, g, h, ,,  , E, m, m, a,  , T, h, o, m, p, s, o, n, ,,  , K, e, a, n, u,  , R, e, e, v, e, s",7.822435897435897,0,0
+795,7.6,Leaving Las Vegas,R,Drama,111,"N, i, c, o, l, a, s,  , C, a, g, e, ,,  , E, l, i, s, a, b, e, t, h,  , S, h, u, e, ,,  , J, u, l, i, a, n,  , S, a, n, d, s",7.902517985611511,0,0
+701,7.6,United 93,R,Action,111,"D, a, v, i, d,  , A, l, a, n,  , B, a, s, c, h, e, ,,  , O, l, i, v, i, a,  , T, h, i, r, l, b, y, ,,  , L, i, z, a,  , C, o, l, ó, n, -, Z, a, y, a, s",7.884558823529411,0,0
+401,7.9,The Killer,R,Action,111,"Y, u, n, -, F, a, t,  , C, h, o, w, ,,  , D, a, n, n, y,  , L, e, e, ,,  , S, a, l, l, y,  , Y, e, h",7.884558823529411,0,0
+332,8.0,Ratatouille,G,Animation,111,"B, r, a, d,  , G, a, r, r, e, t, t, ,,  , L, o, u,  , R, o, m, a, n, o, ,,  , P, a, t, t, o, n,  , O, s, w, a, l, t",7.914516129032258,0,0
+673,7.7,Blow-Up,NOT RATED,Drama,111,"D, a, v, i, d,  , H, e, m, m, i, n, g, s, ,,  , V, a, n, e, s, s, a,  , R, e, d, g, r, a, v, e, ,,  , S, a, r, a, h,  , M, i, l, e, s",7.902517985611511,0,0
+812,7.6,Star Trek: First Contact,PG-13,Action,111,"P, a, t, r, i, c, k,  , S, t, e, w, a, r, t, ,,  , J, o, n, a, t, h, a, n,  , F, r, a, k, e, s, ,,  , B, r, e, n, t,  , S, p, i, n, e, r",7.884558823529411,0,0
+919,7.5,Ghost World,R,Comedy,111,"S, t, e, v, e,  , B, u, s, c, e, m, i, ,,  , T, h, o, r, a,  , B, i, r, c, h, ,,  , S, c, a, r, l, e, t, t,  , J, o, h, a, n, s, s, o, n",7.822435897435897,0,0
+687,7.7,Spellbound,UNRATED,Film-Noir,111,"I, n, g, r, i, d,  , B, e, r, g, m, a, n, ,,  , G, r, e, g, o, r, y,  , P, e, c, k, ,,  , M, i, c, h, a, e, l,  , C, h, e, k, h, o, v",8.033333333333333,0,0
+639,7.7,Billy Elliot,PG-13,Comedy,110,"J, a, m, i, e,  , B, e, l, l, ,,  , J, u, l, i, e,  , W, a, l, t, e, r, s, ,,  , J, e, a, n,  , H, e, y, w, o, o, d",7.822435897435897,0,0
+28,8.6,Leon: The Professional,R,Crime,110,"J, e, a, n,  , R, e, n, o, ,,  , G, a, r, y,  , O, l, d, m, a, n, ,,  , N, a, t, a, l, i, e,  , P, o, r, t, m, a, n",7.916935483870968,0,0
+41,8.5,Sunset Blvd.,NOT RATED,Drama,110,"W, i, l, l, i, a, m,  , H, o, l, d, e, n, ,,  , G, l, o, r, i, a,  , S, w, a, n, s, o, n, ,,  , E, r, i, c, h,  , v, o, n,  , S, t, r, o, h, e, i, m",7.902517985611511,0,0
+662,7.7,True Grit,PG-13,Adventure,110,"J, e, f, f,  , B, r, i, d, g, e, s, ,,  , M, a, t, t,  , D, a, m, o, n, ,,  , H, a, i, l, e, e,  , S, t, e, i, n, f, e, l, d",7.933333333333334,0,0
+712,7.6,The Royal Tenenbaums,R,Comedy,110,"G, e, n, e,  , H, a, c, k, m, a, n, ,,  , G, w, y, n, e, t, h,  , P, a, l, t, r, o, w, ,,  , A, n, j, e, l, i, c, a,  , H, u, s, t, o, n",7.822435897435897,0,0
+96,8.4,Yojimbo,UNRATED,Action,110,"T, o, s, h, i, r, ô,  , M, i, f, u, n, e, ,,  , E, i, j, i, r, ô,  , T, ô, n, o, ,,  , T, a, t, s, u, y, a,  , N, a, k, a, d, a, i",7.884558823529411,0,0
+722,7.6,Lethal Weapon,R,Action,110,"M, e, l,  , G, i, b, s, o, n, ,,  , D, a, n, n, y,  , G, l, o, v, e, r, ,,  , G, a, r, y,  , B, u, s, e, y",7.884558823529411,0,0
+187,8.2,Butch Cassidy and the Sundance Kid,,Biography,110,"P, a, u, l,  , N, e, w, m, a, n, ,,  , R, o, b, e, r, t,  , R, e, d, f, o, r, d, ,,  , K, a, t, h, a, r, i, n, e,  , R, o, s, s",7.862337662337662,0,0
+709,7.6,The Illusionist,PG-13,Drama,110,"E, d, w, a, r, d,  , N, o, r, t, o, n, ,,  , J, e, s, s, i, c, a,  , B, i, e, l, ,,  , P, a, u, l,  , G, i, a, m, a, t, t, i",7.902517985611511,0,0
+850,7.5,American Graffiti,PG,Comedy,110,"R, i, c, h, a, r, d,  , D, r, e, y, f, u, s, s, ,,  , R, o, n,  , H, o, w, a, r, d, ,,  , P, a, u, l,  , L, e,  , M, a, t",7.822435897435897,0,0
+576,7.8,Deliverance,R,Adventure,110,"J, o, n,  , V, o, i, g, h, t, ,,  , B, u, r, t,  , R, e, y, n, o, l, d, s, ,,  , N, e, d,  , B, e, a, t, t, y",7.933333333333334,0,0
+852,7.5,Gallipoli,PG,Adventure,110,"M, e, l,  , G, i, b, s, o, n, ,,  , M, a, r, k,  , L, e, e, ,,  , B, i, l, l,  , K, e, r, r",7.933333333333334,0,0
+563,7.8,Goldfinger,APPROVED,Action,110,"S, e, a, n,  , C, o, n, n, e, r, y, ,,  , G, e, r, t,  , F, r, ö, b, e, ,,  , H, o, n, o, r,  , B, l, a, c, k, m, a, n",7.884558823529411,0,0
+549,7.8,Lucky Number Slevin,R,Crime,110,"J, o, s, h,  , H, a, r, t, n, e, t, t, ,,  , B, e, n,  , K, i, n, g, s, l, e, y, ,,  , M, o, r, g, a, n,  , F, r, e, e, m, a, n",7.916935483870968,0,0
+927,7.5,Brick,R,Crime,110,"J, o, s, e, p, h,  , G, o, r, d, o, n, -, L, e, v, i, t, t, ,,  , L, u, k, a, s,  , H, a, a, s, ,,  , E, m, i, l, i, e,  , d, e,  , R, a, v, i, n",7.916935483870968,0,0
+878,7.5,Buffalo '66,R,Comedy,110,"V, i, n, c, e, n, t,  , G, a, l, l, o, ,,  , C, h, r, i, s, t, i, n, a,  , R, i, c, c, i, ,,  , B, e, n,  , G, a, z, z, a, r, a",7.822435897435897,0,0
+580,7.8,The King of Comedy,PG,Comedy,109,"R, o, b, e, r, t,  , D, e,  , N, i, r, o, ,,  , J, e, r, r, y,  , L, e, w, i, s, ,,  , D, i, a, h, n, n, e,  , A, b, b, o, t, t",7.822435897435897,0,0
+422,7.9,Children of Men,R,Drama,109,"J, u, l, i, a, n, n, e,  , M, o, o, r, e, ,,  , C, l, i, v, e,  , O, w, e, n, ,,  , C, h, i, w, e, t, e, l,  , E, j, i, o, f, o, r",7.902517985611511,0,0
+969,7.4,Law Abiding Citizen,R,Crime,109,"G, e, r, a, r, d,  , B, u, t, l, e, r, ,,  , J, a, m, i, e,  , F, o, x, x, ,,  , L, e, s, l, i, e,  , B, i, b, b",7.916935483870968,0,0
+329,8.0,In the Heat of the Night,APPROVED,Crime,109,"S, i, d, n, e, y,  , P, o, i, t, i, e, r, ,,  , R, o, d,  , S, t, e, i, g, e, r, ,,  , W, a, r, r, e, n,  , O, a, t, e, s",7.916935483870968,0,0
+862,7.5,Malena,R,Drama,109,"M, o, n, i, c, a,  , B, e, l, l, u, c, c, i, ,,  , G, i, u, s, e, p, p, e,  , S, u, l, f, a, r, o, ,,  , L, u, c, i, a, n, o,  , F, e, d, e, r, i, c, o",7.902517985611511,0,0
+372,8.0,Before Midnight,R,Drama,109,"E, t, h, a, n,  , H, a, w, k, e, ,,  , J, u, l, i, e,  , D, e, l, p, y, ,,  , S, e, a, m, u, s,  , D, a, v, e, y, -, F, i, t, z, p, a, t, r, i, c, k",7.902517985611511,0,0
+958,7.4,My Sister's Keeper,PG-13,Drama,109,"C, a, m, e, r, o, n,  , D, i, a, z, ,,  , A, b, i, g, a, i, l,  , B, r, e, s, l, i, n, ,,  , A, l, e, c,  , B, a, l, d, w, i, n",7.902517985611511,0,0
+39,8.6,Psycho,R,Horror,109,"A, n, t, h, o, n, y,  , P, e, r, k, i, n, s, ,,  , J, a, n, e, t,  , L, e, i, g, h, ,,  , V, e, r, a,  , M, i, l, e, s",7.806896551724138,0,0
+681,7.7,End of Watch,R,Crime,109,"J, a, k, e,  , G, y, l, l, e, n, h, a, a, l, ,,  , M, i, c, h, a, e, l,  , P, e, ñ, a, ,,  , A, n, n, a,  , K, e, n, d, r, i, c, k",7.916935483870968,0,0
+438,7.9,Lilya 4-Ever,R,Crime,109,"O, k, s, a, n, a,  , A, k, i, n, s, h, i, n, a, ,,  , A, r, t, y, o, m,  , B, o, g, u, c, h, a, r, s, k, i, y, ,,  , P, a, v, e, l,  , P, o, n, o, m, a, r, y, o, v",7.916935483870968,0,0
+916,7.5,Up in the Air,R,Drama,109,"G, e, o, r, g, e,  , C, l, o, o, n, e, y, ,,  , V, e, r, a,  , F, a, r, m, i, g, a, ,,  , A, n, n, a,  , K, e, n, d, r, i, c, k",7.902517985611511,0,0
+723,7.6,Animal House,R,Comedy,109,"J, o, h, n,  , B, e, l, u, s, h, i, ,,  , K, a, r, e, n,  , A, l, l, e, n, ,,  , T, o, m,  , H, u, l, c, e",7.822435897435897,0,0
+186,8.2,The Thing,R,Horror,109,"K, u, r, t,  , R, u, s, s, e, l, l, ,,  , W, i, l, f, o, r, d,  , B, r, i, m, l, e, y, ,,  , K, e, i, t, h,  , D, a, v, i, d",7.806896551724138,0,0
+830,7.5,Green Street Hooligans,R,Crime,109,"E, l, i, j, a, h,  , W, o, o, d, ,,  , C, h, a, r, l, i, e,  , H, u, n, n, a, m, ,,  , C, l, a, i, r, e,  , F, o, r, l, a, n, i",7.916935483870968,0,0
+772,7.6,Secondhand Lions,PG,Comedy,109,"H, a, l, e, y,  , J, o, e, l,  , O, s, m, e, n, t, ,,  , M, i, c, h, a, e, l,  , C, a, i, n, e, ,,  , R, o, b, e, r, t,  , D, u, v, a, l, l",7.822435897435897,0,0
+406,7.9,The Wrestler,R,Drama,109,"M, i, c, k, e, y,  , R, o, u, r, k, e, ,,  , M, a, r, i, s, a,  , T, o, m, e, i, ,,  , E, v, a, n,  , R, a, c, h, e, l,  , W, o, o, d",7.902517985611511,0,0
+350,8.0,Shadow of a Doubt,APPROVED,Thriller,108,"T, e, r, e, s, a,  , W, r, i, g, h, t, ,,  , J, o, s, e, p, h,  , C, o, t, t, e, n, ,,  , M, a, c, d, o, n, a, l, d,  , C, a, r, e, y",7.68,0,0
+750,7.6,A Fish Called Wanda,R,Comedy,108,"J, o, h, n,  , C, l, e, e, s, e, ,,  , J, a, m, i, e,  , L, e, e,  , C, u, r, t, i, s, ,,  , K, e, v, i, n,  , K, l, i, n, e",7.822435897435897,0,0
+757,7.6,Funny Games,UNRATED,Crime,108,"S, u, s, a, n, n, e,  , L, o, t, h, a, r, ,,  , U, l, r, i, c, h,  , M, ü, h, e, ,,  , A, r, n, o,  , F, r, i, s, c, h",7.916935483870968,0,0
+331,8.0,Black Swan,R,Drama,108,"N, a, t, a, l, i, e,  , P, o, r, t, m, a, n, ,,  , M, i, l, a,  , K, u, n, i, s, ,,  , V, i, n, c, e, n, t,  , C, a, s, s, e, l",7.902517985611511,0,0
+440,7.9,The Boondock Saints,R,Action,108,"W, i, l, l, e, m,  , D, a, f, o, e, ,,  , S, e, a, n,  , P, a, t, r, i, c, k,  , F, l, a, n, e, r, y, ,,  , N, o, r, m, a, n,  , R, e, e, d, u, s",7.884558823529411,0,0
+567,7.8,The Bourne Supremacy,PG-13,Action,108,"M, a, t, t,  , D, a, m, o, n, ,,  , F, r, a, n, k, a,  , P, o, t, e, n, t, e, ,,  , J, o, a, n,  , A, l, l, e, n",7.884558823529411,0,0
+472,7.8,Guess Who's Coming to Dinner,UNRATED,Comedy,108,"S, p, e, n, c, e, r,  , T, r, a, c, y, ,,  , S, i, d, n, e, y,  , P, o, i, t, i, e, r, ,,  , K, a, t, h, a, r, i, n, e,  , H, e, p, b, u, r, n",7.822435897435897,0,0
+950,7.4,Bound,R,Crime,108,"J, e, n, n, i, f, e, r,  , T, i, l, l, y, ,,  , G, i, n, a,  , G, e, r, s, h, o, n, ,,  , J, o, e,  , P, a, n, t, o, l, i, a, n, o",7.916935483870968,0,0
+520,7.8,Back to the Future Part II,PG,Adventure,108,"M, i, c, h, a, e, l,  , J, .,  , F, o, x, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , L, l, o, y, d, ,,  , L, e, a,  , T, h, o, m, p, s, o, n",7.933333333333334,0,0
+215,8.1,La Strada,NOT RATED,Drama,108,"A, n, t, h, o, n, y,  , Q, u, i, n, n, ,,  , G, i, u, l, i, e, t, t, a,  , M, a, s, i, n, a, ,,  , R, i, c, h, a, r, d,  , B, a, s, e, h, a, r, t",7.902517985611511,0,0
+230,8.1,Cat on a Hot Tin Roof,APPROVED,Drama,108,"E, l, i, z, a, b, e, t, h,  , T, a, y, l, o, r, ,,  , P, a, u, l,  , N, e, w, m, a, n, ,,  , B, u, r, l,  , I, v, e, s",7.902517985611511,0,0
+122,8.3,On the Waterfront,NOT RATED,Crime,108,"M, a, r, l, o, n,  , B, r, a, n, d, o, ,,  , K, a, r, l,  , M, a, l, d, e, n, ,,  , L, e, e,  , J, .,  , C, o, b, b",7.916935483870968,0,0
+514,7.8,October Sky,PG,Biography,108,"J, a, k, e,  , G, y, l, l, e, n, h, a, a, l, ,,  , C, h, r, i, s,  , C, o, o, p, e, r, ,,  , L, a, u, r, a,  , D, e, r, n",7.862337662337662,0,0
+765,7.6,Ip Man 2,R,Action,108,"D, o, n, n, i, e,  , Y, e, n, ,,  , X, i, a, o, m, i, n, g,  , H, u, a, n, g, ,,  , S, a, m, m, o,  , K, a, m, -, B, o,  , H, u, n, g",7.884558823529411,0,0
+91,8.4,Eternal Sunshine of the Spotless Mind,R,Drama,108,"J, i, m,  , C, a, r, r, e, y, ,,  , K, a, t, e,  , W, i, n, s, l, e, t, ,,  , T, o, m,  , W, i, l, k, i, n, s, o, n",7.902517985611511,0,0
+151,8.2,"Lock, Stock and Two Smoking Barrels",R,Comedy,107,"J, a, s, o, n,  , F, l, e, m, y, n, g, ,,  , D, e, x, t, e, r,  , F, l, e, t, c, h, e, r, ,,  , N, i, c, k,  , M, o, r, a, n",7.822435897435897,0,0
+382,8.0,In Bruges,R,Comedy,107,"C, o, l, i, n,  , F, a, r, r, e, l, l, ,,  , B, r, e, n, d, a, n,  , G, l, e, e, s, o, n, ,,  , C, i, a, r, á, n,  , H, i, n, d, s",7.822435897435897,0,0
+815,7.6,Equilibrium,R,Action,107,"C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , S, e, a, n,  , B, e, a, n, ,,  , E, m, i, l, y,  , W, a, t, s, o, n",7.884558823529411,0,0
+970,7.4,Wonder Boys,R,Drama,107,"M, i, c, h, a, e, l,  , D, o, u, g, l, a, s, ,,  , T, o, b, e, y,  , M, a, g, u, i, r, e, ,,  , F, r, a, n, c, e, s,  , M, c, D, o, r, m, a, n, d",7.902517985611511,0,0
+800,7.6,Field of Dreams,PG,Drama,107,"K, e, v, i, n,  , C, o, s, t, n, e, r, ,,  , J, a, m, e, s,  , E, a, r, l,  , J, o, n, e, s, ,,  , R, a, y,  , L, i, o, t, t, a",7.902517985611511,0,0
+191,8.2,The Sixth Sense,PG-13,Drama,107,"B, r, u, c, e,  , W, i, l, l, i, s, ,,  , H, a, l, e, y,  , J, o, e, l,  , O, s, m, e, n, t, ,,  , T, o, n, i,  , C, o, l, l, e, t, t, e",7.902517985611511,0,0
+496,7.8,Misery,R,Thriller,107,"J, a, m, e, s,  , C, a, a, n, ,,  , K, a, t, h, y,  , B, a, t, e, s, ,,  , R, i, c, h, a, r, d,  , F, a, r, n, s, w, o, r, t, h",7.68,0,0
+123,8.3,The General,UNRATED,Action,107,"B, u, s, t, e, r,  , K, e, a, t, o, n, ,,  , M, a, r, i, o, n,  , M, a, c, k, ,,  , G, l, e, n,  , C, a, v, e, n, d, e, r",7.884558823529411,0,0
+462,7.9,Down by Law,R,Comedy,107,"T, o, m,  , W, a, i, t, s, ,,  , J, o, h, n,  , L, u, r, i, e, ,,  , R, o, b, e, r, t, o,  , B, e, n, i, g, n, i",7.822435897435897,0,0
+793,7.6,The Meaning of Life,R,Comedy,107,"J, o, h, n,  , C, l, e, e, s, e, ,,  , T, e, r, r, y,  , G, i, l, l, i, a, m, ,,  , E, r, i, c,  , I, d, l, e",7.822435897435897,0,0
+79,8.4,Double Indemnity,PASSED,Crime,107,"F, r, e, d,  , M, a, c, M, u, r, r, a, y, ,,  , B, a, r, b, a, r, a,  , S, t, a, n, w, y, c, k, ,,  , E, d, w, a, r, d,  , G, .,  , R, o, b, i, n, s, o, n",7.916935483870968,0,0
+281,8.1,The Terminator,R,Action,107,"A, r, n, o, l, d,  , S, c, h, w, a, r, z, e, n, e, g, g, e, r, ,,  , L, i, n, d, a,  , H, a, m, i, l, t, o, n, ,,  , M, i, c, h, a, e, l,  , B, i, e, h, n",7.884558823529411,0,0
+33,8.6,Whiplash,R,Drama,107,"M, i, l, e, s,  , T, e, l, l, e, r, ,,  , J, ., K, .,  , S, i, m, m, o, n, s, ,,  , M, e, l, i, s, s, a,  , B, e, n, o, i, s, t",7.902517985611511,0,0
+946,7.4,Far from Heaven,PG-13,Drama,107,"J, u, l, i, a, n, n, e,  , M, o, o, r, e, ,,  , D, e, n, n, i, s,  , Q, u, a, i, d, ,,  , D, e, n, n, i, s,  , H, a, y, s, b, e, r, t",7.902517985611511,0,0
+483,7.8,Withnail & I,R,Comedy,107,"R, i, c, h, a, r, d,  , E, .,  , G, r, a, n, t, ,,  , P, a, u, l,  , M, c, G, a, n, n, ,,  , R, i, c, h, a, r, d,  , G, r, i, f, f, i, t, h, s",7.822435897435897,0,0
+470,7.8,Predator,R,Action,107,"A, r, n, o, l, d,  , S, c, h, w, a, r, z, e, n, e, g, g, e, r, ,,  , C, a, r, l,  , W, e, a, t, h, e, r, s, ,,  , K, e, v, i, n,  , P, e, t, e, r,  , H, a, l, l",7.884558823529411,0,0
+235,8.1,Yip Man,R,Action,106,"D, o, n, n, i, e,  , Y, e, n, ,,  , S, i, m, o, n,  , Y, a, m, ,,  , S, i, u, -, W, o, n, g,  , F, a, n",7.884558823529411,0,0
+899,7.5,In the Loop,NOT RATED,Comedy,106,"T, o, m,  , H, o, l, l, a, n, d, e, r, ,,  , P, e, t, e, r,  , C, a, p, a, l, d, i, ,,  , J, a, m, e, s,  , G, a, n, d, o, l, f, i, n, i",7.822435897435897,0,0
+915,7.5,Bad Education,NC-17,Crime,106,"G, a, e, l,  , G, a, r, c, í, a,  , B, e, r, n, a, l, ,,  , F, e, l, e,  , M, a, r, t, í, n, e, z, ,,  , J, a, v, i, e, r,  , C, á, m, a, r, a",7.916935483870968,0,0
+632,7.7,Boy A,R,Drama,106,"A, n, d, r, e, w,  , G, a, r, f, i, e, l, d, ,,  , P, e, t, e, r,  , M, u, l, l, a, n, ,,  , S, h, a, u, n,  , E, v, a, n, s",7.902517985611511,0,0
+868,7.5,Everything Is Illuminated,PG-13,Comedy,106,"E, l, i, j, a, h,  , W, o, o, d, ,,  , E, u, g, e, n, e,  , H, u, t, z, ,,  , B, o, r, i, s,  , L, e, s, k, i, n",7.822435897435897,0,0
+499,7.8,Gattaca,PG-13,Drama,106,"E, t, h, a, n,  , H, a, w, k, e, ,,  , U, m, a,  , T, h, u, r, m, a, n, ,,  , J, u, d, e,  , L, a, w",7.902517985611511,0,0
+298,8.0,The Graduate,APPROVED,Comedy,106,"D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , A, n, n, e,  , B, a, n, c, r, o, f, t, ,,  , K, a, t, h, a, r, i, n, e,  , R, o, s, s",7.822435897435897,0,0
+695,7.7,Y Tu Mama Tambien,R,Drama,106,"M, a, r, i, b, e, l,  , V, e, r, d, ú, ,,  , G, a, e, l,  , G, a, r, c, í, a,  , B, e, r, n, a, l, ,,  , D, a, n, i, e, l,  , G, i, m, é, n, e, z,  , C, a, c, h, o",7.902517985611511,0,0
+866,7.5,To Catch a Thief,APPROVED,Mystery,106,"C, a, r, y,  , G, r, a, n, t, ,,  , G, r, a, c, e,  , K, e, l, l, y, ,,  , J, e, s, s, i, e,  , R, o, y, c, e,  , L, a, n, d, i, s",7.975,0,0
+23,8.7,The Usual Suspects,R,Crime,106,"K, e, v, i, n,  , S, p, a, c, e, y, ,,  , G, a, b, r, i, e, l,  , B, y, r, n, e, ,,  , C, h, a, z, z,  , P, a, l, m, i, n, t, e, r, i",7.916935483870968,0,0
+280,8.1,Young Frankenstein,PG,Comedy,106,"G, e, n, e,  , W, i, l, d, e, r, ,,  , M, a, d, e, l, i, n, e,  , K, a, h, n, ,,  , M, a, r, t, y,  , F, e, l, d, m, a, n",7.822435897435897,0,0
+887,7.5,The Devil's Backbone,R,Drama,106,"M, a, r, i, s, a,  , P, a, r, e, d, e, s, ,,  , E, d, u, a, r, d, o,  , N, o, r, i, e, g, a, ,,  , F, e, d, e, r, i, c, o,  , L, u, p, p, i",7.902517985611511,0,0
+522,7.8,"O Brother, Where Art Thou?",PG-13,Adventure,106,"G, e, o, r, g, e,  , C, l, o, o, n, e, y, ,,  , J, o, h, n,  , T, u, r, t, u, r, r, o, ,,  , T, i, m,  , B, l, a, k, e,  , N, e, l, s, o, n",7.933333333333334,0,0
+547,7.8,Finding Neverland,PG,Biography,106,"J, o, h, n, n, y,  , D, e, p, p, ,,  , K, a, t, e,  , W, i, n, s, l, e, t, ,,  , J, u, l, i, e,  , C, h, r, i, s, t, i, e",7.862337662337662,0,0
+861,7.5,The Orphanage,R,Drama,105,"B, e, l, é, n,  , R, u, e, d, a, ,,  , F, e, r, n, a, n, d, o,  , C, a, y, o, ,,  , R, o, g, e, r,  , P, r, í, n, c, e, p",7.902517985611511,0,0
+787,7.6,Rise of the Planet of the Apes,PG-13,Action,105,"J, a, m, e, s,  , F, r, a, n, c, o, ,,  , A, n, d, y,  , S, e, r, k, i, s, ,,  , F, r, e, i, d, a,  , P, i, n, t, o",7.884558823529411,0,0
+704,7.6,High Plains Drifter,R,Western,105,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , V, e, r, n, a,  , B, l, o, o, m, ,,  , M, a, r, i, a, n, n, a,  , H, i, l, l",8.255555555555555,0,0
+171,8.2,Dial M for Murder,PG,Crime,105,"R, a, y,  , M, i, l, l, a, n, d, ,,  , G, r, a, c, e,  , K, e, l, l, y, ,,  , R, o, b, e, r, t,  , C, u, m, m, i, n, g, s",7.916935483870968,0,0
+144,8.2,It Happened One Night,UNRATED,Comedy,105,"C, l, a, r, k,  , G, a, b, l, e, ,,  , C, l, a, u, d, e, t, t, e,  , C, o, l, b, e, r, t, ,,  , W, a, l, t, e, r,  , C, o, n, n, o, l, l, y",7.822435897435897,0,0
+604,7.7,Mysterious Skin,NC-17,Drama,105,"B, r, a, d, y,  , C, o, r, b, e, t, ,,  , J, o, s, e, p, h,  , G, o, r, d, o, n, -, L, e, v, i, t, t, ,,  , E, l, i, s, a, b, e, t, h,  , S, h, u, e",7.902517985611511,0,0
+516,7.8,Ghostbusters,PG,Comedy,105,"B, i, l, l,  , M, u, r, r, a, y, ,,  , D, a, n,  , A, y, k, r, o, y, d, ,,  , S, i, g, o, u, r, n, e, y,  , W, e, a, v, e, r",7.822435897435897,0,0
+575,7.8,Kramer vs. Kramer,APPROVED,Drama,105,"D, u, s, t, i, n,  , H, o, f, f, m, a, n, ,,  , M, e, r, y, l,  , S, t, r, e, e, p, ,,  , J, a, n, e,  , A, l, e, x, a, n, d, e, r",7.902517985611511,0,0
+951,7.4,Sleepy Hollow,R,Drama,105,"J, o, h, n, n, y,  , D, e, p, p, ,,  , C, h, r, i, s, t, i, n, a,  , R, i, c, c, i, ,,  , M, i, r, a, n, d, a,  , R, i, c, h, a, r, d, s, o, n",7.902517985611511,0,0
+626,7.7,Shine,PG-13,Biography,105,"G, e, o, f, f, r, e, y,  , R, u, s, h, ,,  , A, r, m, i, n,  , M, u, e, l, l, e, r, -, S, t, a, h, l, ,,  , J, u, s, t, i, n,  , B, r, a, i, n, e",7.862337662337662,0,0
+965,7.4,Limitless,PG-13,Mystery,105,"B, r, a, d, l, e, y,  , C, o, o, p, e, r, ,,  , A, n, n, a,  , F, r, i, e, l, ,,  , A, b, b, i, e,  , C, o, r, n, i, s, h",7.975,0,0
+507,7.8,In America,PG-13,Drama,105,"P, a, d, d, y,  , C, o, n, s, i, d, i, n, e, ,,  , S, a, m, a, n, t, h, a,  , M, o, r, t, o, n, ,,  , D, j, i, m, o, n,  , H, o, u, n, s, o, u",7.902517985611511,0,0
+393,8.0,The African Queen,PG,Adventure,105,"H, u, m, p, h, r, e, y,  , B, o, g, a, r, t, ,,  , K, a, t, h, a, r, i, n, e,  , H, e, p, b, u, r, n, ,,  , R, o, b, e, r, t,  , M, o, r, l, e, y",7.933333333333334,0,0
+238,8.1,Before Sunrise,R,Drama,105,"E, t, h, a, n,  , H, a, w, k, e, ,,  , J, u, l, i, e,  , D, e, l, p, y, ,,  , A, n, d, r, e, a,  , E, c, k, e, r, t",7.902517985611511,0,0
+291,8.1,The Return,UNRATED,Drama,105,"V, l, a, d, i, m, i, r,  , G, a, r, i, n, ,,  , I, v, a, n,  , D, o, b, r, o, n, r, a, v, o, v, ,,  , K, o, n, s, t, a, n, t, i, n,  , L, a, v, r, o, n, e, n, k, o",7.902517985611511,0,0
+242,8.1,The Celebration,R,Drama,105,"U, l, r, i, c, h,  , T, h, o, m, s, e, n, ,,  , H, e, n, n, i, n, g,  , M, o, r, i, t, z, e, n, ,,  , T, h, o, m, a, s,  , B, o,  , L, a, r, s, e, n",7.902517985611511,0,0
+379,8.0,Edward Scissorhands,PG-13,Drama,105,"J, o, h, n, n, y,  , D, e, p, p, ,,  , W, i, n, o, n, a,  , R, y, d, e, r, ,,  , D, i, a, n, n, e,  , W, i, e, s, t",7.902517985611511,0,0
+523,7.8,Repulsion,UNRATED,Drama,105,"C, a, t, h, e, r, i, n, e,  , D, e, n, e, u, v, e, ,,  , I, a, n,  , H, e, n, d, r, y, ,,  , J, o, h, n,  , F, r, a, s, e, r",7.902517985611511,0,0
+643,7.7,The Visitor,PG-13,Drama,104,"R, i, c, h, a, r, d,  , J, e, n, k, i, n, s, ,,  , H, a, a, z,  , S, l, e, i, m, a, n, ,,  , D, a, n, a, i,  , G, u, r, i, r, a",7.902517985611511,0,0
+917,7.5,Begin Again,R,Drama,104,"K, e, i, r, a,  , K, n, i, g, h, t, l, e, y, ,,  , M, a, r, k,  , R, u, f, f, a, l, o, ,,  , A, d, a, m,  , L, e, v, i, n, e",7.902517985611511,0,0
+954,7.4,X-Men,PG-13,Action,104,"P, a, t, r, i, c, k,  , S, t, e, w, a, r, t, ,,  , H, u, g, h,  , J, a, c, k, m, a, n, ,,  , I, a, n,  , M, c, K, e, l, l, e, n",7.884558823529411,0,0
+314,8.0,Crimes and Misdemeanors,PG-13,Comedy,104,"M, a, r, t, i, n,  , L, a, n, d, a, u, ,,  , W, o, o, d, y,  , A, l, l, e, n, ,,  , B, i, l, l,  , B, e, r, n, s, t, e, i, n",7.822435897435897,0,0
+907,7.5,The Proposition,R,Crime,104,"R, a, y,  , W, i, n, s, t, o, n, e, ,,  , G, u, y,  , P, e, a, r, c, e, ,,  , E, m, i, l, y,  , W, a, t, s, o, n",7.916935483870968,0,0
+956,7.4,Manhattan Murder Mystery,PG,Comedy,104,"W, o, o, d, y,  , A, l, l, e, n, ,,  , D, i, a, n, e,  , K, e, a, t, o, n, ,,  , J, e, r, r, y,  , A, d, l, e, r",7.822435897435897,0,0
+890,7.5,"The Adventures of Priscilla, Queen of the Desert",R,Comedy,104,"H, u, g, o,  , W, e, a, v, i, n, g, ,,  , G, u, y,  , P, e, a, r, c, e, ,,  , T, e, r, e, n, c, e,  , S, t, a, m, p",7.822435897435897,0,0
+265,8.1,Harvey,NOT RATED,Comedy,104,"J, a, m, e, s,  , S, t, e, w, a, r, t, ,,  , J, o, s, e, p, h, i, n, e,  , H, u, l, l, ,,  , P, e, g, g, y,  , D, o, w",7.822435897435897,0,0
+736,7.6,The Others,PG-13,Horror,104,"N, i, c, o, l, e,  , K, i, d, m, a, n, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , E, c, c, l, e, s, t, o, n, ,,  , F, i, o, n, n, u, l, a,  , F, l, a, n, a, g, a, n",7.806896551724138,0,0
+859,7.5,Doubt,PG-13,Drama,104,"M, e, r, y, l,  , S, t, r, e, e, p, ,,  , P, h, i, l, i, p,  , S, e, y, m, o, u, r,  , H, o, f, f, m, a, n, ,,  , A, m, y,  , A, d, a, m, s",7.902517985611511,0,0
+653,7.7,Fearless,PG-13,Action,104,"J, e, t,  , L, i, ,,  , L, i,  , S, u, n, ,,  , Y, o, n, g,  , D, o, n, g",7.884558823529411,0,0
+502,7.8,The French Connection,R,Action,104,"G, e, n, e,  , H, a, c, k, m, a, n, ,,  , R, o, y,  , S, c, h, e, i, d, e, r, ,,  , F, e, r, n, a, n, d, o,  , R, e, y",7.884558823529411,0,0
+771,7.6,Braindead,R,Comedy,104,"T, i, m, o, t, h, y,  , B, a, l, m, e, ,,  , D, i, a, n, a,  , P, e, ñ, a, l, v, e, r, ,,  , E, l, i, z, a, b, e, t, h,  , M, o, o, d, y",7.822435897435897,0,0
+669,7.7,Who Framed Roger Rabbit,PG,Animation,104,"B, o, b,  , H, o, s, k, i, n, s, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , L, l, o, y, d, ,,  , J, o, a, n, n, a,  , C, a, s, s, i, d, y",7.914516129032258,0,0
+873,7.5,Felon,R,Crime,104,"S, t, e, p, h, e, n,  , D, o, r, f, f, ,,  , M, a, r, i, s, o, l,  , N, i, c, h, o, l, s, ,,  , V, i, n, c, e, n, t,  , M, i, l, l, e, r",7.916935483870968,0,0
+926,7.5,Inside Llewyn Davis,R,Drama,104,"O, s, c, a, r,  , I, s, a, a, c, ,,  , C, a, r, e, y,  , M, u, l, l, i, g, a, n, ,,  , J, o, h, n,  , G, o, o, d, m, a, n",7.902517985611511,0,0
+949,7.4,Home Alone,PG,Comedy,103,"M, a, c, a, u, l, a, y,  , C, u, l, k, i, n, ,,  , J, o, e,  , P, e, s, c, i, ,,  , D, a, n, i, e, l,  , S, t, e, r, n",7.822435897435897,0,0
+295,8.1,The Truman Show,PG,Drama,103,"J, i, m,  , C, a, r, r, e, y, ,,  , E, d,  , H, a, r, r, i, s, ,,  , L, a, u, r, a,  , L, i, n, n, e, y",7.902517985611511,0,0
+243,8.1,"Spring, Summer, Fall, Winter... and Spring",R,Drama,103,"K, i, -, d, u, k,  , K, i, m, ,,  , Y, e, o, n, g, -, s, u,  , O, h, ,,  , J, o, n, g, -, h, o,  , K, i, m",7.902517985611511,0,0
+911,7.5,Transamerica,R,Adventure,103,"F, e, l, i, c, i, t, y,  , H, u, f, f, m, a, n, ,,  , K, e, v, i, n,  , Z, e, g, e, r, s, ,,  , F, i, o, n, n, u, l, a,  , F, l, a, n, a, g, a, n",7.933333333333334,0,0
+461,7.9,Kiki's Delivery Service,G,Animation,103,"K, i, r, s, t, e, n,  , D, u, n, s, t, ,,  , M, i, n, a, m, i,  , T, a, k, a, y, a, m, a, ,,  , R, e, i,  , S, a, k, u, m, a",7.914516129032258,0,0
+459,7.9,Ferris Bueller's Day Off,PG-13,Comedy,103,"M, a, t, t, h, e, w,  , B, r, o, d, e, r, i, c, k, ,,  , A, l, a, n,  , R, u, c, k, ,,  , M, i, a,  , S, a, r, a",7.822435897435897,0,0
+450,7.9,My Left Foot,R,Biography,103,"D, a, n, i, e, l,  , D, a, y, -, L, e, w, i, s, ,,  , B, r, e, n, d, a,  , F, r, i, c, k, e, r, ,,  , A, l, i, s, o, n,  , W, h, e, l, a, n",7.862337662337662,0,0
+370,8.0,Hannah and Her Sisters,PG-13,Comedy,103,"M, i, a,  , F, a, r, r, o, w, ,,  , D, i, a, n, n, e,  , W, i, e, s, t, ,,  , M, i, c, h, a, e, l,  , C, a, i, n, e",7.822435897435897,0,0
+960,7.4,The Way Way Back,PG-13,Comedy,103,"S, t, e, v, e,  , C, a, r, e, l, l, ,,  , T, o, n, i,  , C, o, l, l, e, t, t, e, ,,  , A, l, l, i, s, o, n,  , J, a, n, n, e, y",7.822435897435897,0,0
+675,7.7,Kiss Kiss Bang Bang,R,Action,103,"R, o, b, e, r, t,  , D, o, w, n, e, y,  , J, r, ., ,,  , V, a, l,  , K, i, l, m, e, r, ,,  , M, i, c, h, e, l, l, e,  , M, o, n, a, g, h, a, n",7.884558823529411,0,0
+81,8.4,Toy Story 3,G,Animation,103,"T, o, m,  , H, a, n, k, s, ,,  , T, i, m,  , A, l, l, e, n, ,,  , J, o, a, n,  , C, u, s, a, c, k",7.914516129032258,0,0
+94,8.4,Singin' in the Rain,APPROVED,Comedy,103,"G, e, n, e,  , K, e, l, l, y, ,,  , D, o, n, a, l, d,  , O, ', C, o, n, n, o, r, ,,  , D, e, b, b, i, e,  , R, e, y, n, o, l, d, s",7.822435897435897,0,0
+655,7.7,Saw,R,Horror,103,"C, a, r, y,  , E, l, w, e, s, ,,  , L, e, i, g, h,  , W, h, a, n, n, e, l, l, ,,  , D, a, n, n, y,  , G, l, o, v, e, r",7.806896551724138,0,0
+224,8.1,The Wizard of Oz,PASSED,Adventure,102,"J, u, d, y,  , G, a, r, l, a, n, d, ,,  , F, r, a, n, k,  , M, o, r, g, a, n, ,,  , R, a, y,  , B, o, l, g, e, r",7.933333333333334,0,0
+279,8.1,The Perks of Being a Wallflower,PG-13,Drama,102,"L, o, g, a, n,  , L, e, r, m, a, n, ,,  , E, m, m, a,  , W, a, t, s, o, n, ,,  , E, z, r, a,  , M, i, l, l, e, r",7.902517985611511,0,0
+32,8.6,Casablanca,PG,Drama,102,"H, u, m, p, h, r, e, y,  , B, o, g, a, r, t, ,,  , I, n, g, r, i, d,  , B, e, r, g, m, a, n, ,,  , P, a, u, l,  , H, e, n, r, e, i, d",7.902517985611511,0,0
+752,7.6,Garden State,R,Comedy,102,"Z, a, c, h,  , B, r, a, f, f, ,,  , P, e, t, e, r,  , S, a, r, s, g, a, a, r, d, ,,  , N, a, t, a, l, i, e,  , P, o, r, t, m, a, n",7.822435897435897,0,0
+381,8.0,How to Train Your Dragon 2,PG,Animation,102,"J, a, y,  , B, a, r, u, c, h, e, l, ,,  , C, a, t, e,  , B, l, a, n, c, h, e, t, t, ,,  , G, e, r, a, r, d,  , B, u, t, l, e, r",7.914516129032258,0,0
+664,7.7,Frozen,PG,Animation,102,"K, r, i, s, t, e, n,  , B, e, l, l, ,,  , I, d, i, n, a,  , M, e, n, z, e, l, ,,  , J, o, n, a, t, h, a, n,  , G, r, o, f, f",7.914516129032258,0,0
+515,7.8,Dirty Harry,R,Action,102,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , A, n, d, r, e, w,  , R, o, b, i, n, s, o, n, ,,  , H, a, r, r, y,  , G, u, a, r, d, i, n, o",7.884558823529411,0,0
+84,8.4,Requiem for a Dream,R,Drama,102,"E, l, l, e, n,  , B, u, r, s, t, y, n, ,,  , J, a, r, e, d,  , L, e, t, o, ,,  , J, e, n, n, i, f, e, r,  , C, o, n, n, e, l, l, y",7.902517985611511,0,0
+832,7.5,RoboCop,R,Action,102,"P, e, t, e, r,  , W, e, l, l, e, r, ,,  , N, a, n, c, y,  , A, l, l, e, n, ,,  , D, a, n,  , O, ', H, e, r, l, i, h, y",7.884558823529411,0,0
+395,7.9,Big Hero 6,PG,Animation,102,"R, y, a, n,  , P, o, t, t, e, r, ,,  , S, c, o, t, t,  , A, d, s, i, t, ,,  , J, a, m, i, e,  , C, h, u, n, g",7.914516129032258,0,0
+106,8.3,Snatch.,R,Comedy,102,"J, a, s, o, n,  , S, t, a, t, h, a, m, ,,  , B, r, a, d,  , P, i, t, t, ,,  , B, e, n, i, c, i, o,  , D, e, l,  , T, o, r, o",7.822435897435897,0,0
+610,7.7,Enter the Dragon,R,Action,102,"B, r, u, c, e,  , L, e, e, ,,  , J, o, h, n,  , S, a, x, o, n, ,,  , J, i, m,  , K, e, l, l, y",7.884558823529411,0,0
+717,7.6,The Legend of Drunken Master,R,Action,102,"J, a, c, k, i, e,  , C, h, a, n, ,,  , H, o, -, S, u, n, g,  , P, a, k, ,,  , L, u, n, g,  , T, i",7.884558823529411,0,0
+953,7.4,The NeverEnding Story,PG,Adventure,102,"N, o, a, h,  , H, a, t, h, a, w, a, y, ,,  , B, a, r, r, e, t,  , O, l, i, v, e, r, ,,  , T, a, m, i,  , S, t, r, o, n, a, c, h",7.933333333333334,0,0
+650,7.7,Dazed and Confused,R,Comedy,102,"J, a, s, o, n,  , L, o, n, d, o, n, ,,  , W, i, l, e, y,  , W, i, g, g, i, n, s, ,,  , M, a, t, t, h, e, w,  , M, c, C, o, n, a, u, g, h, e, y",7.822435897435897,0,0
+729,7.6,The Crow,R,Action,102,"B, r, a, n, d, o, n,  , L, e, e, ,,  , M, i, c, h, a, e, l,  , W, i, n, c, o, t, t, ,,  , R, o, c, h, e, l, l, e,  , D, a, v, i, s",7.884558823529411,0,0
+897,7.5,Calvary,R,Drama,102,"B, r, e, n, d, a, n,  , G, l, e, e, s, o, n, ,,  , C, h, r, i, s,  , O, ', D, o, w, d, ,,  , K, e, l, l, y,  , R, e, i, l, l, y",7.902517985611511,0,0
+732,7.6,American Psycho,R,Crime,102,"C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , J, u, s, t, i, n,  , T, h, e, r, o, u, x, ,,  , J, o, s, h,  , L, u, c, a, s",7.916935483870968,0,0
+327,8.0,The Adventures of Robin Hood,PG,Action,102,"E, r, r, o, l,  , F, l, y, n, n, ,,  , O, l, i, v, i, a,  , d, e,  , H, a, v, i, l, l, a, n, d, ,,  , B, a, s, i, l,  , R, a, t, h, b, o, n, e",7.884558823529411,0,0
+285,8.1,Bringing Up Baby,APPROVED,Comedy,102,"K, a, t, h, a, r, i, n, e,  , H, e, p, b, u, r, n, ,,  , C, a, r, y,  , G, r, a, n, t, ,,  , C, h, a, r, l, e, s,  , R, u, g, g, l, e, s",7.822435897435897,0,0
+840,7.5,American Splendor,R,Biography,101,"P, a, u, l,  , G, i, a, m, a, t, t, i, ,,  , S, h, a, r, i,  , S, p, r, i, n, g, e, r,  , B, e, r, m, a, n, ,,  , H, a, r, v, e, y,  , P, e, k, a, r",7.862337662337662,0,0
+937,7.4,Labyrinth,PG,Adventure,101,"D, a, v, i, d,  , B, o, w, i, e, ,,  , J, e, n, n, i, f, e, r,  , C, o, n, n, e, l, l, y, ,,  , T, o, b, y,  , F, r, o, u, d",7.933333333333334,0,0
+521,7.8,Belle de Jour,APPROVED,Drama,101,"C, a, t, h, e, r, i, n, e,  , D, e, n, e, u, v, e, ,,  , J, e, a, n,  , S, o, r, e, l, ,,  , M, i, c, h, e, l,  , P, i, c, c, o, l, i",7.902517985611511,0,0
+855,7.5,Maria Full of Grace,R,Crime,101,"C, a, t, a, l, i, n, a,  , S, a, n, d, i, n, o,  , M, o, r, e, n, o, ,,  , G, u, i, l, i, e, d,  , L, o, p, e, z, ,,  , O, r, l, a, n, d, o,  , T, o, b, ó, n",7.916935483870968,0,0
+275,8.1,Groundhog Day,PG,Comedy,101,"B, i, l, l,  , M, u, r, r, a, y, ,,  , A, n, d, i, e,  , M, a, c, D, o, w, e, l, l, ,,  , C, h, r, i, s,  , E, l, l, i, o, t, t",7.822435897435897,0,0
+416,7.9,All About My Mother,R,Drama,101,"C, e, c, i, l, i, a,  , R, o, t, h, ,,  , M, a, r, i, s, a,  , P, a, r, e, d, e, s, ,,  , C, a, n, d, e, l, a,  , P, e, ñ, a",7.902517985611511,0,0
+874,7.5,Still Alice,PG-13,Drama,101,"J, u, l, i, a, n, n, e,  , M, o, o, r, e, ,,  , A, l, e, c,  , B, a, l, d, w, i, n, ,,  , K, r, i, s, t, e, n,  , S, t, e, w, a, r, t",7.902517985611511,0,0
+454,7.9,Little Miss Sunshine,R,Adventure,101,"S, t, e, v, e,  , C, a, r, e, l, l, ,,  , T, o, n, i,  , C, o, l, l, e, t, t, e, ,,  , G, r, e, g,  , K, i, n, n, e, a, r",7.933333333333334,0,0
+518,7.8,Wreck-It Ralph,PG,Animation,101,"J, o, h, n,  , C, .,  , R, e, i, l, l, y, ,,  , J, a, c, k,  , M, c, B, r, a, y, e, r, ,,  , J, a, n, e,  , L, y, n, c, h",7.914516129032258,0,0
+237,8.1,Notorious,APPROVED,Drama,101,"C, a, r, y,  , G, r, a, n, t, ,,  , I, n, g, r, i, d,  , B, e, r, g, m, a, n, ,,  , C, l, a, u, d, e,  , R, a, i, n, s",7.902517985611511,0,0
+740,7.6,The Raid: Redemption,R,Action,101,"I, k, o,  , U, w, a, i, s, ,,  , A, n, a, n, d, a,  , G, e, o, r, g, e, ,,  , R, a, y,  , S, a, h, e, t, a, p, y",7.884558823529411,0,0
+625,7.7,Ponyo,G,Animation,101,"C, a, t, e,  , B, l, a, n, c, h, e, t, t, ,,  , M, a, t, t,  , D, a, m, o, n, ,,  , L, i, a, m,  , N, e, e, s, o, n",7.914516129032258,0,0
+589,7.7,The Machinist,R,Drama,101,"C, h, r, i, s, t, i, a, n,  , B, a, l, e, ,,  , J, e, n, n, i, f, e, r,  , J, a, s, o, n,  , L, e, i, g, h, ,,  , A, i, t, a, n, a,  , S, á, n, c, h, e, z, -, G, i, j, ó, n",7.902517985611511,0,0
+212,8.1,Infernal Affairs,R,Crime,101,"A, n, d, y,  , L, a, u, ,,  , T, o, n, y,  , C, h, i, u,  , W, a, i,  , L, e, u, n, g, ,,  , A, n, t, h, o, n, y,  , C, h, a, u, -, S, a, n, g,  , W, o, n, g",7.916935483870968,0,0
+200,8.1,Le Samourai,PG,Crime,101,"A, l, a, i, n,  , D, e, l, o, n, ,,  , N, a, t, h, a, l, i, e,  , D, e, l, o, n, ,,  , F, r, a, n, ç, o, i, s,  , P, é, r, i, e, r",7.916935483870968,0,0
+565,7.8,The Sandlot,PG,Comedy,101,"T, o, m,  , G, u, i, r, y, ,,  , M, i, k, e,  , V, i, t, a, r, ,,  , P, a, t, r, i, c, k,  , R, e, n, n, a",7.822435897435897,0,0
+680,7.7,Whale Rider,PG-13,Drama,101,"K, e, i, s, h, a,  , C, a, s, t, l, e, -, H, u, g, h, e, s, ,,  , R, a, w, i, r, i,  , P, a, r, a, t, e, n, e, ,,  , V, i, c, k, y,  , H, a, u, g, h, t, o, n",7.902517985611511,0,0
+543,7.8,Lost in Translation,R,Drama,101,"B, i, l, l,  , M, u, r, r, a, y, ,,  , S, c, a, r, l, e, t, t,  , J, o, h, a, n, s, s, o, n, ,,  , G, i, o, v, a, n, n, i,  , R, i, b, i, s, i",7.902517985611511,0,0
+652,7.7,This Is England,UNRATED,Crime,101,"T, h, o, m, a, s,  , T, u, r, g, o, o, s, e, ,,  , S, t, e, p, h, e, n,  , G, r, a, h, a, m, ,,  , J, o,  , H, a, r, t, l, e, y",7.916935483870968,0,0
+229,8.1,Strangers on a Train,APPROVED,Crime,101,"F, a, r, l, e, y,  , G, r, a, n, g, e, r, ,,  , R, o, b, e, r, t,  , W, a, l, k, e, r, ,,  , R, u, t, h,  , R, o, m, a, n",7.916935483870968,0,0
+492,7.8,Drive,R,Crime,100,"R, y, a, n,  , G, o, s, l, i, n, g, ,,  , C, a, r, e, y,  , M, u, l, l, i, g, a, n, ,,  , B, r, y, a, n,  , C, r, a, n, s, t, o, n",7.916935483870968,0,0
+799,7.6,Hodejegerne,R,Crime,100,"A, k, s, e, l,  , H, e, n, n, i, e, ,,  , S, y, n, n, ø, v, e,  , M, a, c, o, d, y,  , L, u, n, d, ,,  , N, i, k, o, l, a, j,  , C, o, s, t, e, r, -, W, a, l, d, a, u",7.916935483870968,0,0
+494,7.8,The Lego Movie,PG,Animation,100,"C, h, r, i, s,  , P, r, a, t, t, ,,  , W, i, l, l,  , F, e, r, r, e, l, l, ,,  , E, l, i, z, a, b, e, t, h,  , B, a, n, k, s",7.914516129032258,0,0
+471,7.8,Tangled,PG,Animation,100,"M, a, n, d, y,  , M, o, o, r, e, ,,  , Z, a, c, h, a, r, y,  , L, e, v, i, ,,  , D, o, n, n, a,  , M, u, r, p, h, y",7.914516129032258,0,0
+497,7.8,Willy Wonka & the Chocolate Factory,G,Family,100,"G, e, n, e,  , W, i, l, d, e, r, ,,  , J, a, c, k,  , A, l, b, e, r, t, s, o, n, ,,  , P, e, t, e, r,  , O, s, t, r, u, m",7.85,0,0
+376,8.0,King Kong,UNRATED,Adventure,100,"F, a, y,  , W, r, a, y, ,,  , R, o, b, e, r, t,  , A, r, m, s, t, r, o, n, g, ,,  , B, r, u, c, e,  , C, a, b, o, t",7.933333333333334,0,0
+463,7.9,Glengarry Glen Ross,R,Drama,100,"A, l,  , P, a, c, i, n, o, ,,  , J, a, c, k,  , L, e, m, m, o, n, ,,  , A, l, e, c,  , B, a, l, d, w, i, n",7.902517985611511,0,0
+192,8.2,Finding Nemo,G,Animation,100,"A, l, b, e, r, t,  , B, r, o, o, k, s, ,,  , E, l, l, e, n,  , D, e, G, e, n, e, r, e, s, ,,  , A, l, e, x, a, n, d, e, r,  , G, o, u, l, d",7.914516129032258,0,0
+597,7.7,50/50,R,Comedy,100,"J, o, s, e, p, h,  , G, o, r, d, o, n, -, L, e, v, i, t, t, ,,  , S, e, t, h,  , R, o, g, e, n, ,,  , A, n, n, a,  , K, e, n, d, r, i, c, k",7.822435897435897,0,0
+356,8.0,The Artist,PG-13,Comedy,100,"J, e, a, n,  , D, u, j, a, r, d, i, n, ,,  , B, é, r, é, n, i, c, e,  , B, e, j, o, ,,  , J, o, h, n,  , G, o, o, d, m, a, n",7.822435897435897,0,0
+169,8.2,The Maltese Falcon,NOT RATED,Crime,100,"H, u, m, p, h, r, e, y,  , B, o, g, a, r, t, ,,  , M, a, r, y,  , A, s, t, o, r, ,,  , G, l, a, d, y, s,  , G, e, o, r, g, e",7.916935483870968,0,0
+929,7.5,Say Anything...,PG-13,Comedy,100,"J, o, h, n,  , C, u, s, a, c, k, ,,  , I, o, n, e,  , S, k, y, e, ,,  , J, o, h, n,  , M, a, h, o, n, e, y",7.822435897435897,0,0
+666,7.7,Eastern Promises,R,Crime,100,"N, a, o, m, i,  , W, a, t, t, s, ,,  , V, i, g, g, o,  , M, o, r, t, e, n, s, e, n, ,,  , A, r, m, i, n,  , M, u, e, l, l, e, r, -, S, t, a, h, l",7.916935483870968,0,0
+583,7.8,Dark City,R,Mystery,100,"R, u, f, u, s,  , S, e, w, e, l, l, ,,  , K, i, e, f, e, r,  , S, u, t, h, e, r, l, a, n, d, ,,  , J, e, n, n, i, f, e, r,  , C, o, n, n, e, l, l, y",7.975,0,0
+519,7.8,The Hangover,R,Comedy,100,"Z, a, c, h,  , G, a, l, i, f, i, a, n, a, k, i, s, ,,  , B, r, a, d, l, e, y,  , C, o, o, p, e, r, ,,  , J, u, s, t, i, n,  , B, a, r, t, h, a",7.822435897435897,0,0
+412,7.9,Key Largo,UNRATED,Crime,100,"H, u, m, p, h, r, e, y,  , B, o, g, a, r, t, ,,  , E, d, w, a, r, d,  , G, .,  , R, o, b, i, n, s, o, n, ,,  , L, a, u, r, e, n,  , B, a, c, a, l, l",7.916935483870968,0,0
+657,7.7,Coraline,PG,Animation,100,"D, a, k, o, t, a,  , F, a, n, n, i, n, g, ,,  , T, e, r, i,  , H, a, t, c, h, e, r, ,,  , J, o, h, n,  , H, o, d, g, m, a, n",7.914516129032258,0,0
+178,8.2,The 400 Blows,NOT RATED,Crime,99,"J, e, a, n, -, P, i, e, r, r, e,  , L, é, a, u, d, ,,  , A, l, b, e, r, t,  , R, é, m, y, ,,  , C, l, a, i, r, e,  , M, a, u, r, i, e, r",7.916935483870968,0,0
+90,8.4,Reservoir Dogs,R,Crime,99,"H, a, r, v, e, y,  , K, e, i, t, e, l, ,,  , T, i, m,  , R, o, t, h, ,,  , M, i, c, h, a, e, l,  , M, a, d, s, e, n",7.916935483870968,0,0
+903,7.5,Heavenly Creatures,R,Biography,99,"M, e, l, a, n, i, e,  , L, y, n, s, k, e, y, ,,  , K, a, t, e,  , W, i, n, s, l, e, t, ,,  , S, a, r, a, h,  , P, e, i, r, s, e",7.862337662337662,0,0
+651,7.7,Blood Simple.,R,Crime,99,"J, o, h, n,  , G, e, t, z, ,,  , F, r, a, n, c, e, s,  , M, c, D, o, r, m, a, n, d, ,,  , D, a, n,  , H, e, d, a, y, a",7.916935483870968,0,0
+403,7.9,Ying xiong,PG-13,Action,99,"J, e, t,  , L, i, ,,  , T, o, n, y,  , C, h, i, u,  , W, a, i,  , L, e, u, n, g, ,,  , M, a, g, g, i, e,  , C, h, e, u, n, g",7.884558823529411,0,0
+214,8.1,The Grand Budapest Hotel,R,Adventure,99,"R, a, l, p, h,  , F, i, e, n, n, e, s, ,,  , F, .,  , M, u, r, r, a, y,  , A, b, r, a, h, a, m, ,,  , M, a, t, h, i, e, u,  , A, m, a, l, r, i, c",7.933333333333334,0,0
+962,7.4,Driving Miss Daisy,PG,Comedy,99,"M, o, r, g, a, n,  , F, r, e, e, m, a, n, ,,  , J, e, s, s, i, c, a,  , T, a, n, d, y, ,,  , D, a, n,  , A, y, k, r, o, y, d",7.822435897435897,0,0
+276,8.1,A Fistful of Dollars,R,Action,99,"C, l, i, n, t,  , E, a, s, t, w, o, o, d, ,,  , G, i, a, n,  , M, a, r, i, a,  , V, o, l, o, n, t, é, ,,  , M, a, r, i, a, n, n, e,  , K, o, c, h",7.884558823529411,0,0
+352,8.0,Shaun of the Dead,R,Comedy,99,"S, i, m, o, n,  , P, e, g, g, ,,  , N, i, c, k,  , F, r, o, s, t, ,,  , K, a, t, e,  , A, s, h, f, i, e, l, d",7.822435897435897,0,0
+552,7.8,Kung Fu Hustle,R,Action,99,"S, t, e, p, h, e, n,  , C, h, o, w, ,,  , W, a, h,  , Y, u, e, n, ,,  , Q, i, u,  , Y, u, e, n",7.884558823529411,0,0
+247,8.1,Three Colors: Red,R,Drama,99,"I, r, è, n, e,  , J, a, c, o, b, ,,  , J, e, a, n, -, L, o, u, i, s,  , T, r, i, n, t, i, g, n, a, n, t, ,,  , F, r, é, d, é, r, i, q, u, e,  , F, e, d, e, r",7.902517985611511,0,0
+774,7.6,A Single Man,R,Drama,99,"C, o, l, i, n,  , F, i, r, t, h, ,,  , J, u, l, i, a, n, n, e,  , M, o, o, r, e, ,,  , M, a, t, t, h, e, w,  , G, o, o, d, e",7.902517985611511,0,0
+63,8.4,M,NOT RATED,Crime,99,"P, e, t, e, r,  , L, o, r, r, e, ,,  , E, l, l, e, n,  , W, i, d, m, a, n, n, ,,  , I, n, g, e,  , L, a, n, d, g, u, t",7.916935483870968,0,0
+737,7.6,The Party,PG,Comedy,99,"P, e, t, e, r,  , S, e, l, l, e, r, s, ,,  , C, l, a, u, d, i, n, e,  , L, o, n, g, e, t, ,,  , N, a, t, a, l, i, a,  , B, o, r, i, s, o, v, a",7.822435897435897,0,0
+599,7.7,Delicatessen,R,Comedy,99,"M, a, r, i, e, -, L, a, u, r, e,  , D, o, u, g, n, a, c, ,,  , D, o, m, i, n, i, q, u, e,  , P, i, n, o, n, ,,  , P, a, s, c, a, l,  , B, e, n, e, z, e, c, h",7.822435897435897,0,0
+64,8.4,WALL-E,G,Animation,98,"B, e, n,  , B, u, r, t, t, ,,  , E, l, i, s, s, a,  , K, n, i, g, h, t, ,,  , J, e, f, f,  , G, a, r, l, i, n",7.914516129032258,0,0
+234,8.1,La Haine,NOT RATED,Crime,98,"V, i, n, c, e, n, t,  , C, a, s, s, e, l, ,,  , H, u, b, e, r, t,  , K, o, u, n, d, é, ,,  , S, a, ï, d,  , T, a, g, h, m, a, o, u, i",7.916935483870968,0,0
+363,8.0,Three Colors: Blue,R,Drama,98,"J, u, l, i, e, t, t, e,  , B, i, n, o, c, h, e, ,,  , Z, b, i, g, n, i, e, w,  , Z, a, m, a, c, h, o, w, s, k, i, ,,  , J, u, l, i, e,  , D, e, l, p, y",7.902517985611511,0,0
+232,8.1,Chungking Express,PG-13,Drama,98,"B, r, i, g, i, t, t, e,  , L, i, n, ,,  , T, a, k, e, s, h, i,  , K, a, n, e, s, h, i, r, o, ,,  , T, o, n, y,  , C, h, i, u,  , W, a, i,  , L, e, u, n, g",7.902517985611511,0,0
+250,8.1,In the Mood for Love,PG,Drama,98,"T, o, n, y,  , C, h, i, u,  , W, a, i,  , L, e, u, n, g, ,,  , M, a, g, g, i, e,  , C, h, e, u, n, g, ,,  , P, i, n, g,  , L, a, m,  , S, i, u",7.902517985611511,0,0
+160,8.2,How to Train Your Dragon,PG,Animation,98,"J, a, y,  , B, a, r, u, c, h, e, l, ,,  , G, e, r, a, r, d,  , B, u, t, l, e, r, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , M, i, n, t, z, -, P, l, a, s, s, e",7.914516129032258,0,0
+682,7.7,Philomena,PG-13,Biography,98,"J, u, d, i,  , D, e, n, c, h, ,,  , S, t, e, v, e,  , C, o, o, g, a, n, ,,  , S, o, p, h, i, e,  , K, e, n, n, e, d, y,  , C, l, a, r, k",7.862337662337662,0,0
+747,7.6,The Counterfeiters,R,Crime,98,"K, a, r, l,  , M, a, r, k, o, v, i, c, s, ,,  , A, u, g, u, s, t,  , D, i, e, h, l, ,,  , D, e, v, i, d,  , S, t, r, i, e, s, o, w",7.916935483870968,0,0
+839,7.5,Bullets Over Broadway,R,Comedy,98,"J, o, h, n,  , C, u, s, a, c, k, ,,  , D, i, a, n, n, e,  , W, i, e, s, t, ,,  , J, e, n, n, i, f, e, r,  , T, i, l, l, y",7.822435897435897,0,0
+811,7.6,The Damned United,R,Biography,98,"C, o, l, m,  , M, e, a, n, e, y, ,,  , H, e, n, r, y,  , G, o, o, d, m, a, n, ,,  , D, a, v, i, d,  , R, o, p, e, r",7.862337662337662,0,0
+835,7.5,Despicable Me 2,PG,Animation,98,"S, t, e, v, e,  , C, a, r, e, l, l, ,,  , K, r, i, s, t, e, n,  , W, i, i, g, ,,  , B, e, n, j, a, m, i, n,  , B, r, a, t, t",7.914516129032258,0,0
+176,8.2,Fargo,R,Crime,98,"W, i, l, l, i, a, m,  , H, .,  , M, a, c, y, ,,  , F, r, a, n, c, e, s,  , M, c, D, o, r, m, a, n, d, ,,  , S, t, e, v, e,  , B, u, s, c, e, m, i",7.916935483870968,0,0
+179,8.2,The Princess Bride,PG,Adventure,98,"C, a, r, y,  , E, l, w, e, s, ,,  , M, a, n, d, y,  , P, a, t, i, n, k, i, n, ,,  , R, o, b, i, n,  , W, r, i, g, h, t",7.933333333333334,0,0
+619,7.7,Forbidden Planet,PASSED,Action,98,"W, a, l, t, e, r,  , P, i, d, g, e, o, n, ,,  , A, n, n, e,  , F, r, a, n, c, i, s, ,,  , L, e, s, l, i, e,  , N, i, e, l, s, e, n",7.884558823529411,0,0
+957,7.4,National Lampoon's Vacation,R,Comedy,98,"C, h, e, v, y,  , C, h, a, s, e, ,,  , B, e, v, e, r, l, y,  , D, ', A, n, g, e, l, o, ,,  , I, m, o, g, e, n, e,  , C, o, c, a",7.822435897435897,0,0
+345,8.0,No Man's Land,R,Drama,98,"B, r, a, n, k, o,  , D, j, u, r, i, c, ,,  , R, e, n, e,  , B, i, t, o, r, a, j, a, c, ,,  , F, i, l, i, p,  , S, o, v, a, g, o, v, i, c",7.902517985611511,0,0
+592,7.7,Detachment,NOT RATED,Drama,98,"A, d, r, i, e, n,  , B, r, o, d, y, ,,  , C, h, r, i, s, t, i, n, a,  , H, e, n, d, r, i, c, k, s, ,,  , M, a, r, c, i, a,  , G, a, y,  , H, a, r, d, e, n",7.902517985611511,0,0
+453,7.9,Toki o kakeru shojo,NOT RATED,Animation,98,"R, i, i, s, a,  , N, a, k, a, ,,  , T, a, k, u, y, a,  , I, s, h, i, d, a, ,,  , M, i, t, s, u, t, a, k, a,  , I, t, a, k, u, r, a",7.914516129032258,0,0
+663,7.7,After Hours,R,Comedy,97,"G, r, i, f, f, i, n,  , D, u, n, n, e, ,,  , R, o, s, a, n, n, a,  , A, r, q, u, e, t, t, e, ,,  , V, e, r, n, a,  , B, l, o, o, m",7.822435897435897,0,0
+399,7.9,The Breakfast Club,R,Comedy,97,"E, m, i, l, i, o,  , E, s, t, e, v, e, z, ,,  , J, u, d, d,  , N, e, l, s, o, n, ,,  , M, o, l, l, y,  , R, i, n, g, w, a, l, d",7.822435897435897,0,0
+371,8.0,Moon,R,Drama,97,"S, a, m,  , R, o, c, k, w, e, l, l, ,,  , K, e, v, i, n,  , S, p, a, c, e, y, ,,  , D, o, m, i, n, i, q, u, e,  , M, c, E, l, l, i, g, o, t, t",7.902517985611511,0,0
+837,7.5,Menace II Society,R,Crime,97,"T, y, r, i, n,  , T, u, r, n, e, r, ,,  , L, a, r, e, n, z,  , T, a, t, e, ,,  , J, u, n, e,  , K, y, o, t, o,  , L, u",7.916935483870968,0,0
+928,7.5,Clerks II,R,Comedy,97,"B, r, i, a, n,  , O, ', H, a, l, l, o, r, a, n, ,,  , J, e, f, f,  , A, n, d, e, r, s, o, n, ,,  , R, o, s, a, r, i, o,  , D, a, w, s, o, n",7.822435897435897,0,0
+439,7.9,The Chorus,PG-13,Drama,97,"G, é, r, a, r, d,  , J, u, g, n, o, t, ,,  , F, r, a, n, ç, o, i, s,  , B, e, r, l, é, a, n, d, ,,  , J, e, a, n, -, B, a, p, t, i, s, t, e,  , M, a, u, n, i, e, r",7.902517985611511,0,0
+781,7.6,An American Werewolf in London,R,Comedy,97,"D, a, v, i, d,  , N, a, u, g, h, t, o, n, ,,  , J, e, n, n, y,  , A, g, u, t, t, e, r, ,,  , J, o, e,  , B, e, l, c, h, e, r",7.822435897435897,0,0
+939,7.4,Predestination,R,Drama,97,"E, t, h, a, n,  , H, a, w, k, e, ,,  , S, a, r, a, h,  , S, n, o, o, k, ,,  , N, o, a, h,  , T, a, y, l, o, r",7.902517985611511,0,0
+943,7.4,The Bucket List,PG-13,Adventure,97,"J, a, c, k,  , N, i, c, h, o, l, s, o, n, ,,  , M, o, r, g, a, n,  , F, r, e, e, m, a, n, ,,  , S, e, a, n,  , H, a, y, e, s",7.933333333333334,0,0
+821,7.6,Christmas Vacation,PG-13,Comedy,97,"C, h, e, v, y,  , C, h, a, s, e, ,,  , B, e, v, e, r, l, y,  , D, ', A, n, g, e, l, o, ,,  , J, u, l, i, e, t, t, e,  , L, e, w, i, s",7.822435897435897,0,0
+419,7.9,Stagecoach,NOT RATED,Adventure,96,"J, o, h, n,  , W, a, y, n, e, ,,  , C, l, a, i, r, e,  , T, r, e, v, o, r, ,,  , A, n, d, y,  , D, e, v, i, n, e",7.933333333333334,0,0
+806,7.6,Juno,PG-13,Comedy,96,"E, l, l, e, n,  , P, a, g, e, ,,  , M, i, c, h, a, e, l,  , C, e, r, a, ,,  , J, e, n, n, i, f, e, r,  , G, a, r, n, e, r",7.822435897435897,0,0
+358,8.0,The Lady Vanishes,PASSED,Comedy,96,"M, a, r, g, a, r, e, t,  , L, o, c, k, w, o, o, d, ,,  , M, i, c, h, a, e, l,  , R, e, d, g, r, a, v, e, ,,  , P, a, u, l,  , L, u, k, a, s",7.822435897435897,0,0
+134,8.3,The Seventh Seal,NOT RATED,Drama,96,"M, a, x,  , v, o, n,  , S, y, d, o, w, ,,  , G, u, n, n, a, r,  , B, j, ö, r, n, s, t, r, a, n, d, ,,  , B, e, n, g, t,  , E, k, e, r, o, t",7.902517985611511,0,0
+5,8.9,12 Angry Men,NOT RATED,Drama,96,"H, e, n, r, y,  , F, o, n, d, a, ,,  , L, e, e,  , J, .,  , C, o, b, b, ,,  , M, a, r, t, i, n,  , B, a, l, s, a, m",7.902517985611511,0,0
+763,7.6,Hunger,NOT RATED,Biography,96,"S, t, u, a, r, t,  , G, r, a, h, a, m, ,,  , L, a, i, n, e,  , M, e, g, a, w, ,,  , B, r, i, a, n,  , M, i, l, l, i, g, a, n",7.862337662337662,0,0
+126,8.3,Up,PG,Animation,96,"E, d, w, a, r, d,  , A, s, n, e, r, ,,  , J, o, r, d, a, n,  , N, a, g, a, i, ,,  , J, o, h, n,  , R, a, t, z, e, n, b, e, r, g, e, r",7.914516129032258,0,0
+883,7.5,A History of Violence,R,Crime,96,"V, i, g, g, o,  , M, o, r, t, e, n, s, e, n, ,,  , M, a, r, i, a,  , B, e, l, l, o, ,,  , E, d,  , H, a, r, r, i, s",7.916935483870968,0,0
+719,7.6,When Harry Met Sally...,R,Comedy,96,"B, i, l, l, y,  , C, r, y, s, t, a, l, ,,  , M, e, g,  , R, y, a, n, ,,  , C, a, r, r, i, e,  , F, i, s, h, e, r",7.822435897435897,0,0
+451,7.9,Miracle on 34th Street,APPROVED,Comedy,96,"E, d, m, u, n, d,  , G, w, e, n, n, ,,  , M, a, u, r, e, e, n,  , O, ', H, a, r, a, ,,  , J, o, h, n,  , P, a, y, n, e",7.822435897435897,0,0
+334,8.0,Short Term 12,R,Drama,96,"B, r, i, e,  , L, a, r, s, o, n, ,,  , F, r, a, n, t, z,  , T, u, r, n, e, r, ,,  , J, o, h, n,  , G, a, l, l, a, g, h, e, r,  , J, r, .",7.902517985611511,0,0
+305,8.0,Persepolis,PG-13,Animation,96,"C, h, i, a, r, a,  , M, a, s, t, r, o, i, a, n, n, i, ,,  , C, a, t, h, e, r, i, n, e,  , D, e, n, e, u, v, e, ,,  , G, e, n, a,  , R, o, w, l, a, n, d, s",7.914516129032258,0,0
+959,7.4,Deconstructing Harry,R,Comedy,96,"W, o, o, d, y,  , A, l, l, e, n, ,,  , J, u, d, y,  , D, a, v, i, s, ,,  , J, u, l, i, a,  , L, o, u, i, s, -, D, r, e, y, f, u, s",7.822435897435897,0,0
+860,7.5,The Fly,R,Horror,96,"J, e, f, f,  , G, o, l, d, b, l, u, m, ,,  , G, e, e, n, a,  , D, a, v, i, s, ,,  , J, o, h, n,  , G, e, t, z",7.806896551724138,0,0
+319,8.0,Manhattan,R,Comedy,96,"W, o, o, d, y,  , A, l, l, e, n, ,,  , D, i, a, n, e,  , K, e, a, t, o, n, ,,  , M, a, r, i, e, l,  , H, e, m, i, n, g, w, a, y",7.822435897435897,0,0
+353,8.0,Night of the Living Dead,UNRATED,Horror,96,"D, u, a, n, e,  , J, o, n, e, s, ,,  , J, u, d, i, t, h,  , O, ', D, e, a, ,,  , K, a, r, l,  , H, a, r, d, m, a, n",7.806896551724138,0,0
+617,7.7,Despicable Me,PG,Animation,95,"S, t, e, v, e,  , C, a, r, e, l, l, ,,  , J, a, s, o, n,  , S, e, g, e, l, ,,  , R, u, s, s, e, l, l,  , B, r, a, n, d",7.914516129032258,0,0
+715,7.6,Man Bites Dog,NC-17,Comedy,95,"B, e, n, o, î, t,  , P, o, e, l, v, o, o, r, d, e, ,,  , J, a, c, q, u, e, l, i, n, e,  , P, o, e, l, v, o, o, r, d, e, -, P, a, p, p, a, e, r, t, ,,  , N, e, l, l, y,  , P, a, p, p, a, e, r, t",7.822435897435897,0,0
+175,8.2,Touch of Evil,PG-13,Crime,95,"C, h, a, r, l, t, o, n,  , H, e, s, t, o, n, ,,  , O, r, s, o, n,  , W, e, l, l, e, s, ,,  , J, a, n, e, t,  , L, e, i, g, h",7.916935483870968,0,0
+48,8.5,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,PG,Comedy,95,"P, e, t, e, r,  , S, e, l, l, e, r, s, ,,  , G, e, o, r, g, e,  , C, .,  , S, c, o, t, t, ,,  , S, t, e, r, l, i, n, g,  , H, a, y, d, e, n",7.822435897435897,0,0
+128,8.3,The Gold Rush,NOT RATED,Adventure,95,"C, h, a, r, l, e, s,  , C, h, a, p, l, i, n, ,,  , M, a, c, k,  , S, w, a, i, n, ,,  , T, o, m,  , M, u, r, r, a, y",7.933333333333334,0,0
+542,7.8,(500) Days of Summer,PG-13,Comedy,95,"Z, o, o, e, y,  , D, e, s, c, h, a, n, e, l, ,,  , J, o, s, e, p, h,  , G, o, r, d, o, n, -, L, e, v, i, t, t, ,,  , G, e, o, f, f, r, e, y,  , A, r, e, n, d",7.822435897435897,0,0
+308,8.0,Pink Floyd The Wall,R,Animation,95,"B, o, b,  , G, e, l, d, o, f, ,,  , C, h, r, i, s, t, i, n, e,  , H, a, r, g, r, e, a, v, e, s, ,,  , J, a, m, e, s,  , L, a, u, r, e, n, s, o, n",7.914516129032258,0,0
+942,7.4,Raising Arizona,PG-13,Comedy,94,"N, i, c, o, l, a, s,  , C, a, g, e, ,,  , H, o, l, l, y,  , H, u, n, t, e, r, ,,  , T, r, e, y,  , W, i, l, s, o, n",7.822435897435897,0,0
+667,7.7,Midnight in Paris,PG-13,Comedy,94,"O, w, e, n,  , W, i, l, s, o, n, ,,  , R, a, c, h, e, l,  , M, c, A, d, a, m, s, ,,  , K, a, t, h, y,  , B, a, t, e, s",7.822435897435897,0,0
+503,7.8,The Boy in the Striped Pajamas,PG-13,Drama,94,"A, s, a,  , B, u, t, t, e, r, f, i, e, l, d, ,,  , D, a, v, i, d,  , T, h, e, w, l, i, s, ,,  , R, u, p, e, r, t,  , F, r, i, e, n, d",7.902517985611511,0,0
+172,8.2,Trainspotting,R,Drama,94,"E, w, a, n,  , M, c, G, r, e, g, o, r, ,,  , E, w, e, n,  , B, r, e, m, n, e, r, ,,  , J, o, n, n, y,  , L, e, e,  , M, i, l, l, e, r",7.902517985611511,0,0
+501,7.8,Porco Rosso,PG,Animation,94,"S, h, û, i, c, h, i, r, ô,  , M, o, r, i, y, a, m, a, ,,  , T, o, k, i, k, o,  , K, a, t, ô, ,,  , S, a, n, s, h, i,  , K, a, t, s, u, r, a",7.914516129032258,0,0
+698,7.6,127 Hours,R,Adventure,94,"J, a, m, e, s,  , F, r, a, n, c, o, ,,  , A, m, b, e, r,  , T, a, m, b, l, y, n, ,,  , K, a, t, e,  , M, a, r, a",7.933333333333334,0,0
+744,7.6,Mad Max 2: The Road Warrior,R,Action,94,"M, e, l,  , G, i, b, s, o, n, ,,  , B, r, u, c, e,  , S, p, e, n, c, e, ,,  , M, i, c, h, a, e, l,  , P, r, e, s, t, o, n",7.884558823529411,0,0
+190,8.2,Life of Brian,R,Comedy,94,"G, r, a, h, a, m,  , C, h, a, p, m, a, n, ,,  , J, o, h, n,  , C, l, e, e, s, e, ,,  , M, i, c, h, a, e, l,  , P, a, l, i, n",7.822435897435897,0,0
+674,7.7,The Secret World of Arrietty,G,Animation,94,"B, r, i, d, g, i, t,  , M, e, n, d, l, e, r, ,,  , A, m, y,  , P, o, e, h, l, e, r, ,,  , W, i, l, l,  , A, r, n, e, t, t",7.914516129032258,0,0
+347,8.0,Days of Heaven,PG,Drama,94,"R, i, c, h, a, r, d,  , G, e, r, e, ,,  , B, r, o, o, k, e,  , A, d, a, m, s, ,,  , S, a, m,  , S, h, e, p, a, r, d",7.902517985611511,0,0
+266,8.1,A Christmas Story,PG,Comedy,94,"P, e, t, e, r,  , B, i, l, l, i, n, g, s, l, e, y, ,,  , M, e, l, i, n, d, a,  , D, i, l, l, o, n, ,,  , D, a, r, r, e, n,  , M, c, G, a, v, i, n",7.822435897435897,0,0
+425,7.9,Badlands,PG,Crime,94,"M, a, r, t, i, n,  , S, h, e, e, n, ,,  , S, i, s, s, y,  , S, p, a, c, e, k, ,,  , W, a, r, r, e, n,  , O, a, t, e, s",7.916935483870968,0,0
+510,7.8,Moonrise Kingdom,PG-13,Adventure,94,"J, a, r, e, d,  , G, i, l, m, a, n, ,,  , K, a, r, a,  , H, a, y, w, a, r, d, ,,  , B, r, u, c, e,  , W, i, l, l, i, s",7.933333333333334,0,0
+465,7.9,Adam's Apples,R,Comedy,94,"U, l, r, i, c, h,  , T, h, o, m, s, e, n, ,,  , M, a, d, s,  , M, i, k, k, e, l, s, e, n, ,,  , N, i, c, o, l, a, s,  , B, r, o",7.822435897435897,0,0
+588,7.7,Rushmore,R,Comedy,93,"J, a, s, o, n,  , S, c, h, w, a, r, t, z, m, a, n, ,,  , B, i, l, l,  , M, u, r, r, a, y, ,,  , O, l, i, v, i, a,  , W, i, l, l, i, a, m, s",7.822435897435897,0,0
+685,7.7,First Blood,R,Action,93,"S, y, l, v, e, s, t, e, r,  , S, t, a, l, l, o, n, e, ,,  , B, r, i, a, n,  , D, e, n, n, e, h, y, ,,  , R, i, c, h, a, r, d,  , C, r, e, n, n, a",7.884558823529411,0,0
+328,8.0,"Aguirre, the Wrath of God",NOT RATED,Adventure,93,"K, l, a, u, s,  , K, i, n, s, k, i, ,,  , R, u, y,  , G, u, e, r, r, a, ,,  , H, e, l, e, n, a,  , R, o, j, o",7.933333333333334,0,0
+894,7.5,Source Code,PG-13,Mystery,93,"J, a, k, e,  , G, y, l, l, e, n, h, a, a, l, ,,  , M, i, c, h, e, l, l, e,  , M, o, n, a, g, h, a, n, ,,  , V, e, r, a,  , F, a, r, m, i, g, a",7.975,0,0
+208,8.1,Annie Hall,PG,Comedy,93,"W, o, o, d, y,  , A, l, l, e, n, ,,  , D, i, a, n, e,  , K, e, a, t, o, n, ,,  , T, o, n, y,  , R, o, b, e, r, t, s",7.822435897435897,0,0
+545,7.8,Blazing Saddles,R,Comedy,93,"C, l, e, a, v, o, n,  , L, i, t, t, l, e, ,,  , G, e, n, e,  , W, i, l, d, e, r, ,,  , S, l, i, m,  , P, i, c, k, e, n, s",7.822435897435897,0,0
+798,7.6,"Planes, Trains & Automobiles",R,Comedy,93,"S, t, e, v, e,  , M, a, r, t, i, n, ,,  , J, o, h, n,  , C, a, n, d, y, ,,  , L, a, i, l, a,  , R, o, b, i, n, s",7.822435897435897,0,0
+105,8.3,The Third Man,NOT RATED,Film-Noir,93,"O, r, s, o, n,  , W, e, l, l, e, s, ,,  , J, o, s, e, p, h,  , C, o, t, t, e, n, ,,  , A, l, i, d, a,  , V, a, l, l, i",8.033333333333333,0,0
+805,7.6,Keith,PG-13,Drama,93,"E, l, i, s, a, b, e, t, h,  , H, a, r, n, o, i, s, ,,  , J, e, s, s, e,  , M, c, C, a, r, t, n, e, y, ,,  , M, a, r, g, o,  , H, a, r, s, h, m, a, n",7.902517985611511,0,0
+168,8.2,Hachi: A Dog's Tale,G,Drama,93,"R, i, c, h, a, r, d,  , G, e, r, e, ,,  , J, o, a, n,  , A, l, l, e, n, ,,  , C, a, r, y, -, H, i, r, o, y, u, k, i,  , T, a, g, a, w, a",7.902517985611511,0,0
+593,7.7,Love Me If You Dare,R,Comedy,93,"G, u, i, l, l, a, u, m, e,  , C, a, n, e, t, ,,  , M, a, r, i, o, n,  , C, o, t, i, l, l, a, r, d, ,,  , T, h, i, b, a, u, l, t,  , V, e, r, h, a, e, g, h, e",7.822435897435897,0,0
+455,7.9,Taken,PG-13,Action,93,"L, i, a, m,  , N, e, e, s, o, n, ,,  , M, a, g, g, i, e,  , G, r, a, c, e, ,,  , F, a, m, k, e,  , J, a, n, s, s, e, n",7.884558823529411,0,0
+822,7.5,"Good Night, and Good Luck.",PG,Drama,93,"D, a, v, i, d,  , S, t, r, a, t, h, a, i, r, n, ,,  , G, e, o, r, g, e,  , C, l, o, o, n, e, y, ,,  , P, a, t, r, i, c, i, a,  , C, l, a, r, k, s, o, n",7.902517985611511,0,0
+87,8.4,Bicycle Thieves,NOT RATED,Drama,93,"L, a, m, b, e, r, t, o,  , M, a, g, g, i, o, r, a, n, i, ,,  , E, n, z, o,  , S, t, a, i, o, l, a, ,,  , L, i, a, n, e, l, l, a,  , C, a, r, e, l, l",7.902517985611511,0,0
+167,8.2,Mary and Max,NOT RATED,Animation,92,"T, o, n, i,  , C, o, l, l, e, t, t, e, ,,  , P, h, i, l, i, p,  , S, e, y, m, o, u, r,  , H, o, f, f, m, a, n, ,,  , E, r, i, c,  , B, a, n, a",7.914516129032258,0,0
+925,7.5,Notes on a Scandal,R,Drama,92,"C, a, t, e,  , B, l, a, n, c, h, e, t, t, ,,  , J, u, d, i,  , D, e, n, c, h, ,,  , A, n, d, r, e, w,  , S, i, m, p, s, o, n",7.902517985611511,0,0
+933,7.4,Beetlejuice,PG,Comedy,92,"A, l, e, c,  , B, a, l, d, w, i, n, ,,  , G, e, e, n, a,  , D, a, v, i, s, ,,  , M, i, c, h, a, e, l,  , K, e, a, t, o, n",7.822435897435897,0,0
+633,7.7,The Warriors,R,Action,92,"M, i, c, h, a, e, l,  , B, e, c, k, ,,  , J, a, m, e, s,  , R, e, m, a, r, ,,  , D, o, r, s, e, y,  , W, r, i, g, h, t",7.884558823529411,0,0
+913,7.5,Suspiria,X,Horror,92,"J, e, s, s, i, c, a,  , H, a, r, p, e, r, ,,  , S, t, e, f, a, n, i, a,  , C, a, s, i, n, i, ,,  , F, l, a, v, i, o,  , B, u, c, c, i",7.806896551724138,0,0
+714,7.6,Thank You for Smoking,R,Comedy,92,"A, a, r, o, n,  , E, c, k, h, a, r, t, ,,  , C, a, m, e, r, o, n,  , B, r, i, g, h, t, ,,  , M, a, r, i, a,  , B, e, l, l, o",7.822435897435897,0,0
+233,8.1,The Night of the Hunter,APPROVED,Crime,92,"R, o, b, e, r, t,  , M, i, t, c, h, u, m, ,,  , S, h, e, l, l, e, y,  , W, i, n, t, e, r, s, ,,  , L, i, l, l, i, a, n,  , G, i, s, h",7.916935483870968,0,0
+743,7.6,Kung Fu Panda,PG,Animation,92,"J, a, c, k,  , B, l, a, c, k, ,,  , I, a, n,  , M, c, S, h, a, n, e, ,,  , A, n, g, e, l, i, n, a,  , J, o, l, i, e",7.914516129032258,0,0
+277,8.1,"Monsters, Inc.",G,Animation,92,"B, i, l, l, y,  , C, r, y, s, t, a, l, ,,  , J, o, h, n,  , G, o, o, d, m, a, n, ,,  , M, a, r, y,  , G, i, b, b, s",7.914516129032258,0,0
+464,7.9,Clerks,R,Comedy,92,"B, r, i, a, n,  , O, ', H, a, l, l, o, r, a, n, ,,  , J, e, f, f,  , A, n, d, e, r, s, o, n, ,,  , M, a, r, i, l, y, n,  , G, h, i, g, l, i, o, t, t, i",7.822435897435897,0,0
+414,7.9,Toy Story 2,G,Animation,92,"T, o, m,  , H, a, n, k, s, ,,  , T, i, m,  , A, l, l, e, n, ,,  , J, o, a, n,  , C, u, s, a, c, k",7.914516129032258,0,0
+484,7.8,The Day the Earth Stood Still,APPROVED,Sci-Fi,92,"M, i, c, h, a, e, l,  , R, e, n, n, i, e, ,,  , P, a, t, r, i, c, i, a,  , N, e, a, l, ,,  , H, u, g, h,  , M, a, r, l, o, w, e",7.92,0,0
+287,8.1,His Girl Friday,APPROVED,Comedy,92,"C, a, r, y,  , G, r, a, n, t, ,,  , R, o, s, a, l, i, n, d,  , R, u, s, s, e, l, l, ,,  , R, a, l, p, h,  , B, e, l, l, a, m, y",7.822435897435897,0,0
+127,8.3,Wild Strawberries,UNRATED,Drama,91,"V, i, c, t, o, r,  , S, j, ö, s, t, r, ö, m, ,,  , B, i, b, i,  , A, n, d, e, r, s, s, o, n, ,,  , I, n, g, r, i, d,  , T, h, u, l, i, n",7.902517985611511,0,0
+101,8.3,Monty Python and the Holy Grail,PG,Adventure,91,"G, r, a, h, a, m,  , C, h, a, p, m, a, n, ,,  , J, o, h, n,  , C, l, e, e, s, e, ,,  , E, r, i, c,  , I, d, l, e",7.933333333333334,0,0
+646,7.7,Three Colors: White,R,Comedy,91,"Z, b, i, g, n, i, e, w,  , Z, a, m, a, c, h, o, w, s, k, i, ,,  , J, u, l, i, e,  , D, e, l, p, y, ,,  , J, a, n, u, s, z,  , G, a, j, o, s",7.822435897435897,0,0
+869,7.5,A Nightmare on Elm Street,R,Horror,91,"H, e, a, t, h, e, r,  , L, a, n, g, e, n, k, a, m, p, ,,  , J, o, h, n, n, y,  , D, e, p, p, ,,  , R, o, b, e, r, t,  , E, n, g, l, u, n, d",7.806896551724138,0,0
+449,7.9,Halloween,R,Drama,91,"D, o, n, a, l, d,  , P, l, e, a, s, e, n, c, e, ,,  , J, a, m, i, e,  , L, e, e,  , C, u, r, t, i, s, ,,  , T, o, n, y,  , M, o, r, a, n",7.902517985611511,0,0
+408,7.9,Gravity,PG-13,Sci-Fi,91,"S, a, n, d, r, a,  , B, u, l, l, o, c, k, ,,  , G, e, o, r, g, e,  , C, l, o, o, n, e, y, ,,  , E, d,  , H, a, r, r, i, s",7.92,0,0
+282,8.1,Harold and Maude,GP,Comedy,91,"R, u, t, h,  , G, o, r, d, o, n, ,,  , B, u, d,  , C, o, r, t, ,,  , V, i, v, i, a, n,  , P, i, c, k, l, e, s",7.822435897435897,0,0
+867,7.5,Best in Show,PG-13,Comedy,90,"F, r, e, d,  , W, i, l, l, a, r, d, ,,  , E, u, g, e, n, e,  , L, e, v, y, ,,  , C, a, t, h, e, r, i, n, e,  , O, ', H, a, r, a",7.822435897435897,0,0
+357,8.0,Aladdin,G,Animation,90,"S, c, o, t, t,  , W, e, i, n, g, e, r, ,,  , R, o, b, i, n,  , W, i, l, l, i, a, m, s, ,,  , L, i, n, d, a,  , L, a, r, k, i, n",7.914516129032258,0,0
+443,7.9,Shrek,PG,Animation,90,"M, i, k, e,  , M, y, e, r, s, ,,  , E, d, d, i, e,  , M, u, r, p, h, y, ,,  , C, a, m, e, r, o, n,  , D, i, a, z",7.914516129032258,0,0
+971,7.4,Death at a Funeral,R,Comedy,90,"M, a, t, t, h, e, w,  , M, a, c, f, a, d, y, e, n, ,,  , P, e, t, e, r,  , D, i, n, k, l, a, g, e, ,,  , E, w, e, n,  , B, r, e, m, n, e, r",7.822435897435897,0,0
+590,7.7,Flipped,PG,Comedy,90,"M, a, d, e, l, i, n, e,  , C, a, r, r, o, l, l, ,,  , C, a, l, l, a, n,  , M, c, A, u, l, i, f, f, e, ,,  , R, e, b, e, c, c, a,  , D, e,  , M, o, r, n, a, y",7.822435897435897,0,0
+607,7.7,Paprika,R,Animation,90,"M, e, g, u, m, i,  , H, a, y, a, s, h, i, b, a, r, a, ,,  , T, ô, r, u,  , E, m, o, r, i, ,,  , K, a, t, s, u, n, o, s, u, k, e,  , H, o, r, i",7.914516129032258,0,0
+384,8.0,Breathless,UNRATED,Crime,90,"J, e, a, n, -, P, a, u, l,  , B, e, l, m, o, n, d, o, ,,  , J, e, a, n,  , S, e, b, e, r, g, ,,  , D, a, n, i, e, l,  , B, o, u, l, a, n, g, e, r",7.916935483870968,0,0
+61,8.5,Grave of the Fireflies,UNRATED,Animation,89,"T, s, u, t, o, m, u,  , T, a, t, s, u, m, i, ,,  , A, y, a, n, o,  , S, h, i, r, a, i, s, h, i, ,,  , A, k, e, m, i,  , Y, a, m, a, g, u, c, h, i",7.914516129032258,0,0
+947,7.4,Eraserhead,UNRATED,Drama,89,"J, a, c, k,  , N, a, n, c, e, ,,  , C, h, a, r, l, o, t, t, e,  , S, t, e, w, a, r, t, ,,  , A, l, l, e, n,  , J, o, s, e, p, h",7.902517985611511,0,0
+55,8.5,The Lion King,G,Animation,89,"M, a, t, t, h, e, w,  , B, r, o, d, e, r, i, c, k, ,,  , J, e, r, e, m, y,  , I, r, o, n, s, ,,  , J, a, m, e, s,  , E, a, r, l,  , J, o, n, e, s",7.914516129032258,0,0
+631,7.7,Show Me Love,UNRATED,Comedy,89,"A, l, e, x, a, n, d, r, a,  , D, a, h, l, s, t, r, ö, m, ,,  , R, e, b, e, c, k, a,  , L, i, l, j, e, b, e, r, g, ,,  , E, r, i, c, a,  , C, a, r, l, s, o, n",7.822435897435897,0,0
+206,8.1,Stand by Me,R,Adventure,89,"W, i, l,  , W, h, e, a, t, o, n, ,,  , R, i, v, e, r,  , P, h, o, e, n, i, x, ,,  , C, o, r, e, y,  , F, e, l, d, m, a, n",7.933333333333334,0,0
+783,7.6,Tucker and Dale vs. Evil,R,Comedy,89,"T, y, l, e, r,  , L, a, b, i, n, e, ,,  , A, l, a, n,  , T, u, d, y, k, ,,  , K, a, t, r, i, n, a,  , B, o, w, d, e, n",7.822435897435897,0,0
+480,7.8,Office Space,R,Comedy,89,"R, o, n,  , L, i, v, i, n, g, s, t, o, n, ,,  , J, e, n, n, i, f, e, r,  , A, n, i, s, t, o, n, ,,  , D, a, v, i, d,  , H, e, r, m, a, n",7.822435897435897,0,0
+614,7.7,The Station Agent,R,Comedy,89,"P, e, t, e, r,  , D, i, n, k, l, a, g, e, ,,  , P, a, t, r, i, c, i, a,  , C, l, a, r, k, s, o, n, ,,  , B, o, b, b, y,  , C, a, n, n, a, v, a, l, e",7.822435897435897,0,0
+524,7.8,Airplane!,PG,Comedy,88,"R, o, b, e, r, t,  , H, a, y, s, ,,  , J, u, l, i, e,  , H, a, g, e, r, t, y, ,,  , L, e, s, l, i, e,  , N, i, e, l, s, e, n",7.822435897435897,0,0
+210,8.1,Laura,APPROVED,Film-Noir,88,"G, e, n, e,  , T, i, e, r, n, e, y, ,,  , D, a, n, a,  , A, n, d, r, e, w, s, ,,  , C, l, i, f, t, o, n,  , W, e, b, b",8.033333333333333,0,0
+844,7.5,Pinocchio,APPROVED,Animation,88,"D, i, c, k, i, e,  , J, o, n, e, s, ,,  , C, h, r, i, s, t, i, a, n,  , R, u, b, ,,  , M, e, l,  , B, l, a, n, c",7.914516129032258,0,0
+98,8.4,Rashomon,UNRATED,Crime,88,"T, o, s, h, i, r, ô,  , M, i, f, u, n, e, ,,  , M, a, c, h, i, k, o,  , K, y, ô, ,,  , M, a, s, a, y, u, k, i,  , M, o, r, i",7.916935483870968,0,0
+615,7.7,Zombieland,R,Comedy,88,"J, e, s, s, e,  , E, i, s, e, n, b, e, r, g, ,,  , E, m, m, a,  , S, t, o, n, e, ,,  , W, o, o, d, y,  , H, a, r, r, e, l, s, o, n",7.822435897435897,0,0
+225,8.1,3-Iron,R,Crime,88,"S, e, u, n, g, -, y, e, o, n,  , L, e, e, ,,  , H, y, u, n, -, k, y, o, o, n,  , L, e, e, ,,  , H, y, u, k, -, h, o,  , K, w, o, n",7.916935483870968,0,0
+882,7.5,Mulan,G,Animation,88,"M, i, n, g, -, N, a,  , W, e, n, ,,  , E, d, d, i, e,  , M, u, r, p, h, y, ,,  , B, D,  , W, o, n, g",7.914516129032258,0,0
+641,7.7,The Producers,PG,Comedy,88,"Z, e, r, o,  , M, o, s, t, e, l, ,,  , G, e, n, e,  , W, i, l, d, e, r, ,,  , D, i, c, k,  , S, h, a, w, n",7.822435897435897,0,0
+656,7.7,Snow White and the Seven Dwarfs,APPROVED,Animation,88,"A, d, r, i, a, n, a,  , C, a, s, e, l, o, t, t, i, ,,  , H, a, r, r, y,  , S, t, o, c, k, w, e, l, l, ,,  , L, u, c, i, l, l, e,  , L, a,  , V, e, r, n, e",7.914516129032258,0,0
+58,8.5,Paths of Glory,APPROVED,Drama,88,"K, i, r, k,  , D, o, u, g, l, a, s, ,,  , R, a, l, p, h,  , M, e, e, k, e, r, ,,  , A, d, o, l, p, h, e,  , M, e, n, j, o, u",7.902517985611511,0,0
+688,7.7,The Wicker Man,R,Horror,88,"E, d, w, a, r, d,  , W, o, o, d, w, a, r, d, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , L, e, e, ,,  , D, i, a, n, e,  , C, i, l, e, n, t, o",7.806896551724138,0,0
+966,7.4,The Simpsons Movie,PG-13,Animation,87,"D, a, n,  , C, a, s, t, e, l, l, a, n, e, t, a, ,,  , J, u, l, i, e,  , K, a, v, n, e, r, ,,  , N, a, n, c, y,  , C, a, r, t, w, r, i, g, h, t",7.914516129032258,0,0
+29,8.6,City Lights,PASSED,Comedy,87,"C, h, a, r, l, e, s,  , C, h, a, p, l, i, n, ,,  , V, i, r, g, i, n, i, a,  , C, h, e, r, r, i, l, l, ,,  , F, l, o, r, e, n, c, e,  , L, e, e",7.822435897435897,0,0
+512,7.8,Fantastic Mr. Fox,PG,Animation,87,"G, e, o, r, g, e,  , C, l, o, o, n, e, y, ,,  , M, e, r, y, l,  , S, t, r, e, e, p, ,,  , B, i, l, l,  , M, u, r, r, a, y",7.914516129032258,0,0
+612,7.7,A Hard Day's Night,APPROVED,Comedy,87,"J, o, h, n,  , L, e, n, n, o, n, ,,  , P, a, u, l,  , M, c, C, a, r, t, n, e, y, ,,  , G, e, o, r, g, e,  , H, a, r, r, i, s, o, n",7.822435897435897,0,0
+35,8.6,Modern Times,G,Comedy,87,"C, h, a, r, l, e, s,  , C, h, a, p, l, i, n, ,,  , P, a, u, l, e, t, t, e,  , G, o, d, d, a, r, d, ,,  , H, e, n, r, y,  , B, e, r, g, m, a, n",7.822435897435897,0,0
+948,7.4,Frances Ha,R,Comedy,86,"G, r, e, t, a,  , G, e, r, w, i, g, ,,  , M, i, c, k, e, y,  , S, u, m, n, e, r, ,,  , A, d, a, m,  , D, r, i, v, e, r",7.822435897435897,0,0
+386,8.0,The Iron Giant,PG,Animation,86,"E, l, i,  , M, a, r, i, e, n, t, h, a, l, ,,  , H, a, r, r, y,  , C, o, n, n, i, c, k,  , J, r, ., ,,  , J, e, n, n, i, f, e, r,  , A, n, i, s, t, o, n",7.914516129032258,0,0
+467,7.9,The 39 Steps,UNRATED,Mystery,86,"R, o, b, e, r, t,  , D, o, n, a, t, ,,  , M, a, d, e, l, e, i, n, e,  , C, a, r, r, o, l, l, ,,  , L, u, c, i, e,  , M, a, n, n, h, e, i, m",7.975,0,0
+131,8.3,My Neighbor Totoro,G,Animation,86,"H, i, t, o, s, h, i,  , T, a, k, a, g, i, ,,  , N, o, r, i, k, o,  , H, i, d, a, k, a, ,,  , C, h, i, k, a,  , S, a, k, a, m, o, t, o",7.914516129032258,0,0
+668,7.7,The Muppet Christmas Carol,G,Comedy,85,"M, i, c, h, a, e, l,  , C, a, i, n, e, ,,  , D, a, v, e,  , G, o, e, l, z, ,,  , S, t, e, v, e,  , W, h, i, t, m, i, r, e",7.822435897435897,0,0
+402,7.9,Once,R,Drama,85,"G, l, e, n,  , H, a, n, s, a, r, d, ,,  , M, a, r, k, é, t, a,  , I, r, g, l, o, v, á, ,,  , H, u, g, h,  , W, a, l, s, h",7.902517985611511,0,0
+820,7.6,The Curse of the Were-Rabbit,G,Animation,85,"P, e, t, e, r,  , S, a, l, l, i, s, ,,  , H, e, l, e, n, a,  , B, o, n, h, a, m,  , C, a, r, t, e, r, ,,  , R, a, l, p, h,  , F, i, e, n, n, e, s",7.914516129032258,0,0
+703,7.6,Dracula,APPROVED,Horror,85,"B, e, l, a,  , L, u, g, o, s, i, ,,  , H, e, l, e, n,  , C, h, a, n, d, l, e, r, ,,  , D, a, v, i, d,  , M, a, n, n, e, r, s",7.806896551724138,0,0
+892,7.5,Fruitvale Station,R,Biography,85,"M, i, c, h, a, e, l,  , B, .,  , J, o, r, d, a, n, ,,  , M, e, l, o, n, i, e,  , D, i, a, z, ,,  , O, c, t, a, v, i, a,  , S, p, e, n, c, e, r",7.862337662337662,0,0
+796,7.6,The Evil Dead,NC-17,Horror,85,"B, r, u, c, e,  , C, a, m, p, b, e, l, l, ,,  , E, l, l, e, n,  , S, a, n, d, w, e, i, s, s, ,,  , R, i, c, h, a, r, d,  , D, e, M, a, n, i, n, c, o, r",7.806896551724138,0,0
+236,8.1,High Noon,PG,Western,85,"G, a, r, y,  , C, o, o, p, e, r, ,,  , G, r, a, c, e,  , K, e, l, l, y, ,,  , T, h, o, m, a, s,  , M, i, t, c, h, e, l, l",8.255555555555555,0,0
+735,7.6,The Naked Gun: From the Files of Police Squad!,PG-13,Comedy,85,"L, e, s, l, i, e,  , N, i, e, l, s, e, n, ,,  , P, r, i, s, c, i, l, l, a,  , P, r, e, s, l, e, y, ,,  , O, ., J, .,  , S, i, m, p, s, o, n",7.822435897435897,0,0
+272,8.1,The Killing,APPROVED,Crime,85,"S, t, e, r, l, i, n, g,  , H, a, y, d, e, n, ,,  , C, o, l, e, e, n,  , G, r, a, y, ,,  , V, i, n, c, e,  , E, d, w, a, r, d, s",7.916935483870968,0,0
+294,8.1,Beauty and the Beast,G,Animation,84,"P, a, i, g, e,  , O, ', H, a, r, a, ,,  , R, o, b, b, y,  , B, e, n, s, o, n, ,,  , R, i, c, h, a, r, d,  , W, h, i, t, e",7.914516129032258,0,0
+486,7.8,Evil Dead II,X,Comedy,84,"B, r, u, c, e,  , C, a, m, p, b, e, l, l, ,,  , S, a, r, a, h,  , B, e, r, r, y, ,,  , D, a, n,  , H, i, c, k, s",7.822435897435897,0,0
+886,7.5,Pi,R,Drama,84,"S, e, a, n,  , G, u, l, l, e, t, t, e, ,,  , M, a, r, k,  , M, a, r, g, o, l, i, s, ,,  , B, e, n,  , S, h, e, n, k, m, a, n",7.902517985611511,0,0
+343,8.0,Ghost in the Shell,NOT RATED,Animation,83,"A, t, s, u, k, o,  , T, a, n, a, k, a, ,,  , I, e, m, a, s, a,  , K, a, y, u, m, i, ,,  , A, k, i, o,  , Ô, t, s, u, k, a",7.914516129032258,0,0
+759,7.6,Robin Hood,G,Animation,83,"B, r, i, a, n,  , B, e, d, f, o, r, d, ,,  , P, h, i, l,  , H, a, r, r, i, s, ,,  , R, o, g, e, r,  , M, i, l, l, e, r",7.914516129032258,0,0
+881,7.5,The Texas Chain Saw Massacre,R,Horror,83,"M, a, r, i, l, y, n,  , B, u, r, n, s, ,,  , E, d, w, i, n,  , N, e, a, l, ,,  , A, l, l, e, n,  , D, a, n, z, i, g, e, r",7.806896551724138,0,0
+766,7.6,The Little Mermaid,G,Animation,83,"J, o, d, i,  , B, e, n, s, o, n, ,,  , S, a, m, u, e, l,  , E, .,  , W, r, i, g, h, t, ,,  , R, e, n, e,  , A, u, b, e, r, j, o, n, o, i, s",7.914516129032258,0,0
+174,8.2,Persona,NOT RATED,Drama,83,"B, i, b, i,  , A, n, d, e, r, s, s, o, n, ,,  , L, i, v,  , U, l, l, m, a, n, n, ,,  , M, a, r, g, a, r, e, t, h, a,  , K, r, o, o, k",7.902517985611511,0,0
+306,8.0,This Is Spinal Tap,R,Comedy,82,"R, o, b,  , R, e, i, n, e, r, ,,  , M, i, c, h, a, e, l,  , M, c, K, e, a, n, ,,  , C, h, r, i, s, t, o, p, h, e, r,  , G, u, e, s, t",7.822435897435897,0,0
+595,7.7,The Purple Rose of Cairo,PG,Comedy,82,"M, i, a,  , F, a, r, r, o, w, ,,  , J, e, f, f,  , D, a, n, i, e, l, s, ,,  , D, a, n, n, y,  , A, i, e, l, l, o",7.822435897435897,0,0
+738,7.6,Army of Darkness,R,Comedy,81,"B, r, u, c, e,  , C, a, m, p, b, e, l, l, ,,  , E, m, b, e, t, h,  , D, a, v, i, d, t, z, ,,  , M, a, r, c, u, s,  , G, i, l, b, e, r, t",7.822435897435897,0,0
+541,7.8,South Park: Bigger Longer & Uncut,R,Animation,81,"T, r, e, y,  , P, a, r, k, e, r, ,,  , M, a, t, t,  , S, t, o, n, e, ,,  , M, a, r, y,  , K, a, y,  , B, e, r, g, m, a, n",7.914516129032258,0,0
+117,8.3,Toy Story,G,Animation,81,"T, o, m,  , H, a, n, k, s, ,,  , T, i, m,  , A, l, l, e, n, ,,  , D, o, n,  , R, i, c, k, l, e, s",7.914516129032258,0,0
+789,7.6,Ice Age,PG,Animation,81,"D, e, n, i, s,  , L, e, a, r, y, ,,  , J, o, h, n,  , L, e, g, u, i, z, a, m, o, ,,  , R, a, y,  , R, o, m, a, n, o",7.914516129032258,0,0
+330,8.0,Nosferatu,UNRATED,Horror,81,"M, a, x,  , S, c, h, r, e, c, k, ,,  , G, r, e, t, a,  , S, c, h, r, ö, d, e, r, ,,  , R, u, t, h,  , L, a, n, d, s, h, o, f, f",7.806896551724138,0,0
+853,7.5,L'illusionniste,PG,Animation,80,"J, e, a, n, -, C, l, a, u, d, e,  , D, o, n, d, a, ,,  , E, i, l, i, d, h,  , R, a, n, k, i, n, ,,  , D, u, n, c, a, n,  , M, a, c, N, e, i, l",7.914516129032258,0,0
+297,8.0,Rope,PG,Crime,80,"J, a, m, e, s,  , S, t, e, w, a, r, t, ,,  , J, o, h, n,  , D, a, l, l, ,,  , F, a, r, l, e, y,  , G, r, a, n, g, e, r",7.916935483870968,0,0
+283,8.1,Before Sunset,R,Drama,80,"E, t, h, a, n,  , H, a, w, k, e, ,,  , J, u, l, i, e,  , D, e, l, p, y, ,,  , V, e, r, n, o, n,  , D, o, b, t, c, h, e, f, f",7.902517985611511,0,0
+513,7.8,Invasion of the Body Snatchers,APPROVED,Horror,80,"K, e, v, i, n,  , M, c, C, a, r, t, h, y, ,,  , D, a, n, a,  , W, y, n, t, e, r, ,,  , L, a, r, r, y,  , G, a, t, e, s",7.806896551724138,0,0
+533,7.8,Run Lola Run,R,Action,80,"F, r, a, n, k, a,  , P, o, t, e, n, t, e, ,,  , M, o, r, i, t, z,  , B, l, e, i, b, t, r, e, u, ,,  , H, e, r, b, e, r, t,  , K, n, a, u, p",7.884558823529411,0,0
+622,7.7,The Dinner Game,PG-13,Comedy,80,"T, h, i, e, r, r, y,  , L, h, e, r, m, i, t, t, e, ,,  , J, a, c, q, u, e, s,  , V, i, l, l, e, r, e, t, ,,  , F, r, a, n, c, i, s,  , H, u, s, t, e, r",7.822435897435897,0,0
+535,7.8,Zelig,PG,Comedy,79,"W, o, o, d, y,  , A, l, l, e, n, ,,  , M, i, a,  , F, a, r, r, o, w, ,,  , P, a, t, r, i, c, k,  , H, o, r, g, a, n",7.822435897435897,0,0
+489,7.8,The Triplets of Belleville,PG-13,Animation,78,"M, i, c, h, è, l, e,  , C, a, u, c, h, e, t, e, u, x, ,,  , J, e, a, n, -, C, l, a, u, d, e,  , D, o, n, d, a, ,,  , M, i, c, h, e, l,  , R, o, b, i, n",7.914516129032258,0,0
+864,7.5,[Rec],R,Horror,78,"M, a, n, u, e, l, a,  , V, e, l, a, s, c, o, ,,  , F, e, r, r, a, n,  , T, e, r, r, a, z, a, ,,  , J, o, r, g, e, -, Y, a, m, a, m,  , S, e, r, r, a, n, o",7.806896551724138,0,0
+713,7.6,The Jungle Book,APPROVED,Animation,78,"P, h, i, l,  , H, a, r, r, i, s, ,,  , S, e, b, a, s, t, i, a, n,  , C, a, b, o, t, ,,  , L, o, u, i, s,  , P, r, i, m, a",7.914516129032258,0,0
+303,8.0,The Nightmare Before Christmas,PG,Animation,76,"D, a, n, n, y,  , E, l, f, m, a, n, ,,  , C, h, r, i, s,  , S, a, r, a, n, d, o, n, ,,  , C, a, t, h, e, r, i, n, e,  , O, ', H, a, r, a",7.914516129032258,0,0
+405,7.9,The Bride of Frankenstein,NOT RATED,Horror,75,"B, o, r, i, s,  , K, a, r, l, o, f, f, ,,  , E, l, s, a,  , L, a, n, c, h, e, s, t, e, r, ,,  , C, o, l, i, n,  , C, l, i, v, e",7.806896551724138,0,0
+938,7.4,Alice in Wonderland,G,Animation,75,"K, a, t, h, r, y, n,  , B, e, a, u, m, o, n, t, ,,  , E, d,  , W, y, n, n, ,,  , R, i, c, h, a, r, d,  , H, a, y, d, n",7.914516129032258,0,0
+351,8.0,Frankenstein,UNRATED,Horror,70,"C, o, l, i, n,  , C, l, i, v, e, ,,  , M, a, e,  , C, l, a, r, k, e, ,,  , B, o, r, i, s,  , K, a, r, l, o, f, f",7.806896551724138,0,0
+742,7.6,Following,R,Mystery,69,"J, e, r, e, m, y,  , T, h, e, o, b, a, l, d, ,,  , A, l, e, x,  , H, a, w, ,,  , L, u, c, y,  , R, u, s, s, e, l, l",7.975,0,0
+293,8.1,Duck Soup,PASSED,Comedy,68,"G, r, o, u, c, h, o,  , M, a, r, x, ,,  , H, a, r, p, o,  , M, a, r, x, ,,  , C, h, i, c, o,  , M, a, r, x",7.822435897435897,0,0
+88,8.4,The Kid,NOT RATED,Comedy,68,"C, h, a, r, l, e, s,  , C, h, a, p, l, i, n, ,,  , E, d, n, a,  , P, u, r, v, i, a, n, c, e, ,,  , J, a, c, k, i, e,  , C, o, o, g, a, n",7.822435897435897,0,0
+258,8.1,The Cabinet of Dr. Caligari,UNRATED,Crime,67,"W, e, r, n, e, r,  , K, r, a, u, s, s, ,,  , C, o, n, r, a, d,  , V, e, i, d, t, ,,  , F, r, i, e, d, r, i, c, h,  , F, e, h, e, r",7.916935483870968,0,0
+338,8.0,Battleship Potemkin,UNRATED,History,66,"A, l, e, k, s, a, n, d, r,  , A, n, t, o, n, o, v, ,,  , V, l, a, d, i, m, i, r,  , B, a, r, s, k, y, ,,  , G, r, i, g, o, r, i,  , A, l, e, k, s, a, n, d, r, o, v",8.0,0,0
+389,8.0,Freaks,UNRATED,Drama,64,"W, a, l, l, a, c, e,  , F, o, r, d, ,,  , L, e, i, l, a,  , H, y, a, m, s, ,,  , O, l, g, a,  , B, a, c, l, a, n, o, v, a",7.902517985611511,0,0
