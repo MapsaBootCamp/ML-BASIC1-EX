@@ -3,5 +3,8 @@
 kitchen utensil,preservation products,baby cosmetics,bags
 M722MPITBY07,E7FD9BU4OK0F,0ZRF32AJ06BC,M2DT2Z00NQCH,QBUS9NZY39B
 Wednesday
+whole milk,other vegetables,rolls/buns,soda,yogurt
 -1
--1
+
+
+
