@@ -4,24 +4,4 @@
 
 `git checkout -b {Week name startwith capital "W"}-{your name}`
 
-# Practices:
-Week1: [Go to Week1](https://github.com/MapsaBootCamp/ML-BASIC1-EX/tree/Week1)
-
-Week2: [Go to Week2](https://github.com/MapsaBootCamp/ML-BASIC1-EX/tree/Week2)
-
-Week3: [Go to Week3](https://github.com/MapsaBootCamp/ML-BASIC1-EX/tree/Week3)
-
-Week4: [Go to Week4](https://github.com/MapsaBootCamp/ML-BASIC1-EX/tree/Week4)
-
-
-# Quize:
-
-Q1: [Go to Q1](https://github.com/MapsaBootCamp/ML-BASIC1-EX/tree/Q1)
-
-# Project
-
-P1: [KingCounty-Food Establishment Inspection Data Analyis]
-
-P2: 
-
-P3: 
+1- بررسی مقادیر mean mode median روی توزیع های نرمال و چولگی راست و چولگی چپ\
