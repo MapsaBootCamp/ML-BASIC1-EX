@@ -21,3 +21,22 @@
 
 8-مدل ARIMA رو سرچ کنید و ببینید چجوری کار میکنن
 
+## فایل های تمرین: 
+بخش اول که تحلیل اکتشافی برای دیتاست تایتانیک است را کامل کنید.
+
+بخش دوم شامل تحلیل ۴ دیتاست با فرمت‌های مختلف است.
+
+توضیحات تمرین حل تمرین:
+
+
+Please respond to the following questions based on the information in the USvideos.csv file. Note that there are duplicate videos with the same video_id, but varying likes, dislikes, and other attributes are recorded multiple times.
+Begin by cleansing the dataset so that all videos have English descriptions.
+After that, refine the resulting dataset so that each video_id appears only once, and it represents the latest occurrence of that video.
+Develop an application that retrieves a tag and generates a trend line for that tag.
+Construct an app that takes a date as input and returns the top 5 most viewed videos on that specific date.
+Compute the average time gap between the release dates of videos by each YouTuber. This will provide insights into how frequently each YouTuber publishes videos. Additionally, report the standard deviation of these time intervals along with their average.
+Create a new dataframe that contains each channel and includes only its most viewed video.
+
+
+
+
