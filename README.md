@@ -29,6 +29,8 @@ Week11: [Go to Week11](https://github.com/MapsaBootCamp/ML-BASIC1-EX/tree/Week11
 
 Week12: [Go to Week12](https://github.com/MapsaBootCamp/ML-BASIC1-EX/tree/Week12)
 
+Week13: [Go to Week13](https://github.com/MapsaBootCamp/ML-BASIC1-EX/tree/Week13)
+
 # Quize:
 
 Q1: [Go to Q1](https://github.com/MapsaBootCamp/ML-BASIC1-EX/tree/Q1)
